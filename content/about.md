@@ -37,7 +37,7 @@ DDP Founder & Dogecoin Community Veteran
 <div style="display: inline-box; width: 150px;">
 <img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
 <h5>Jens Wiechers</h5> 
-OG Dogecoin Foundation Veteran, Legal & governance
+OG Dogecoin Foundation Veteran, Foundation Legal & Governance
 </div>
 
 <div style="display: inline-box; width: 150px;">
@@ -64,4 +64,14 @@ F/OSS community advocate and Foundation Product Lead
 
 ### Board Advisors
 
-The Dogecoin Foundation Advisors provide key 
+The Dogecoin Foundation Advisors provide key insights into particular strategic areas.
+
+
+-- **Jared Birchall** - Family Office Managing Director - Legal & Financial advisor.
+
+-- **Max Keller** - Dogecoin Core Developer, Dogecoin advisor. 
+
+-- **Shibetoshi Nakamoto** (Billy) - Dogecoin Founder, Community & Memes advisor.
+
+-- **Vitalik Buterin** - Ethereum Founder, Blockchain & Crypto advisor.
+
