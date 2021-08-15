@@ -26,12 +26,42 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 The Dogecoin Foundation Board meets monthly to discuss issues relating to the 
 Dogecoin project.
 
-* Gary Lachance - DDP Founder & Dogecoin Community Veteran 
+<div style="display: flex; flex-flow: row wrap; ">
 
-* Jens Wiechers - OG Dogecoin Foundation Veteran, Legal & governance
+<div style="display: inline-box; width: 150px;">
+<img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
+<h5>Gary Lachance</h5>
+DDP Founder & Dogecoin Community Veteran 
+</div>
 
-* Michi Lumin - Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+<div style="display: inline-box; width: 150px;">
+<img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
+<h5>Jens Wiechers</h5> 
+OG Dogecoin Foundation Veteran, Legal & governance
+</div>
 
-* Ross Nicoll - Dogecoin Core Blockchain Developer
+<div style="display: inline-box; width: 150px;">
+<img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
+<h5>Michi Lumin</h5> 
+Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+</div>
 
-* Timothy Stebbing - F/OSS community advocate and Foundation Product Lead
+<div style="display: inline-box; width: 150px;">
+<img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
+<h5>Ross Nicoll</h5>
+Dogecoin Core Blockchain Developer
+</div>
+
+<div style="display: inline-box; width: 150px;">
+<img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
+<h5>Timothy Stebbing</h5> 
+F/OSS community advocate and Foundation Product Lead
+</div>
+
+</div>
+
+---
+
+### Board Advisors
+
+The Dogecoin Foundation Advisors provide key 

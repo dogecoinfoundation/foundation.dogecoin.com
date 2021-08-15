@@ -33,6 +33,13 @@ disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
