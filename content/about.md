@@ -26,7 +26,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 The Dogecoin Foundation Board meets monthly to discuss issues relating to the 
 Dogecoin project.
 
-<div style="display: flex; flex-flow: row wrap; ">
+<div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
 <div style="display: inline-box; width: 150px;">
 <img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
@@ -66,12 +66,36 @@ F/OSS community advocate and Foundation Product Lead
 
 The Dogecoin Foundation Advisors provide key insights into particular strategic areas.
 
+<div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
--- **Jared Birchall** - Family Office Managing Director - Legal & Financial advisor.
+<div style="display: inline-box; width: 150px;"> <img title='Jared
+Birchall' style="margin: auto; max-width:150px;" class="circle"
+src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
+- Legal & Financial Advisor</div>
 
--- **Max Keller** - Dogecoin Core Developer, Dogecoin advisor. 
+<div style="display: inline-box; width: 150px;"> <img title='Max
+Keller' style="margin: auto; max-width:150px;" class="circle"
+src="/max.jpg"/> <h5>Max Keller</h5> Dogecoin Core Developer, Dogecoin
+Technical Advisor</div>
 
--- **Shibetoshi Nakamoto** (Billy) - Dogecoin Founder, Community & Memes advisor.
 
--- **Vitalik Buterin** - Ethereum Founder, Blockchain & Crypto advisor.
+<div style="display: inline-box; width: 150px;"> <img
+title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
+max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
+Nakamoto (Billy)</h5> OG Dogecoin Founder, Community & Memes
+Advisor</div>
 
+<div style="display: inline-box; width: 150px;"> <img title='Vitalik
+Buterin' style="margin: auto; max-width:150px;" class="circle"
+src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Ethereum Founder,
+Blockchain & Crypto Advisor</div>
+
+</div>
+
+</br></br>
+
+--- 
+
+These WOW doge PFPs were kindly made for us by the totally-amaze
+[@dogememegirl](https://twitter.com/Dogememegirl)! If you love them as
+much as we do give her a follow.
