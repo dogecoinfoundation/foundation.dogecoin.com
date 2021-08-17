@@ -10,7 +10,7 @@ date = "2021-15-08"
 We are Dogecoin, the accidental crypto-</br>
 movement that makes people smile. 
 
-We are are developing a currency for the people, </br>
+We are developing a currency for the people, </br>
 and we strive to do only good everyday.</br>
 Through this work we have come to value:
 
@@ -30,7 +30,8 @@ Signatories,
   -- Max Keller</br>
   -- Michi Lumin</br>
   -- Ross Nicoll</br>
-  -- Timothy Stebbing
+  -- Timothy Stebbing</br>
+  -- Soma Green
 
 _August 15, 2021_
 
