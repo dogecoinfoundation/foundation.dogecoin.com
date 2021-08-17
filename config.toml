@@ -64,7 +64,7 @@ disableHugoGeneratorInject = false
   # 
   description = "Dogecoin Foundation"
   keywords = "dogecoin foundation"
-  images = [""]
+  images = ["doge.png"]
 
   # Home subtitle of the index page.
   #
