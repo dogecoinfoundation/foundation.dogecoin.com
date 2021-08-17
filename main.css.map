@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/dogecoinfoundation.github.io/dogecoinfoundation.github.io",
+	"sourceRoot": "/home/runner/work/foundation.dogecoin.com/foundation.dogecoin.com",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
