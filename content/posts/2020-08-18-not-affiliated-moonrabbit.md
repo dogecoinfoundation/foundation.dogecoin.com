@@ -1,5 +1,5 @@
 +++
-title = "Announcement: Not Affiliated"
+title = "Announcement: No affiliation - MoonRabbit"
 date = "2021-08-18"
 [ author ]
   name = "Dogecoin Foundation"
