@@ -1,0 +1,67 @@
+Welcome to the Translation team.
+
+You're gonna learn how to submit the translation to us via this file. It's a lots of steps but it's the best process to be super efficient in the future.
+
+STEP 1 : Get HUGO
+
+We're using the Hugo templating system, https://gohugo.io/getting-started/installing/ instructions to install HUGO and create a PATH
+
+STEP 2 : GitHub and GIT
+
+Create an account on Git hub and download the GitHub Desktop
+Then go to https://git-scm.com/ and download and install GIT
+
+Step 3 : Repositary from GitHub
+
+We need to clone the repo of the website to our computer. The best way is to follow those two things :
+
+How to clone : https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
+Dogecoin foundation git hub repo : https://github.com/dogecoinfoundation/foundation.dogecoin.com
+Then move the foundation.dogecoin.com folder into c:/Hugo/Sites (easier like that)
+
+Step 4 : Make sure it's installed and ready 
+
+Open command prompt and type those line one after each other
+
+C:\ cd \
+
+C:\>cd Hugo
+
+C:\Hugo>cd Sites
+
+C:\Hugo\Sites>cd foundation.dogecoin.com
+
+C:\Hugo\Sites\foundation.dogecoin.com>hugo serve -D
+
+Notice how it says 'Webserver is now available on http://localhost:1313/'
+If you pop that into your web-browser, you should be seeing the website but running locally from your laptop.
+
+If you don't see it or nothing is showing, you might have miss one of the step.
+
+You are ready to translate :)
+
+Step 5 : Translation 
+
+In the content folder (inside c:/Hugo/sites/foundation.dogecoin.com) you have all the pages and articles.
+You can duplicate the files in .md and rename the new one with your iso lamguage code
+Follow the same format (french for example its "about.fr.md")
+
+Translate and keep the same HTML format in the file.
+
+Save the files in the folder.
+
+Step 6 : Submit your translation on Git Hub
+
+Open GitHub Desktop and add the repo from c:/Hugo/sites/foundation.dogecoin.com
+You should see on the left the changes you made (the new files you have created in your language)
+
+Then on the top you have "current branch" add a new one and name it something like translation_YOURLANGUAGE
+
+Bottom left you have description and title, explain what you did there quickly then click commit to.
+
+Finally create a pull request to send everything to git hub pending review from the team.
+
+
+
+
+
