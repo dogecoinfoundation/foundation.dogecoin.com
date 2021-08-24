@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "אודות"
 date = "2014-04-09"
 aliases = ["about-us","board"]
 [ author ]
@@ -11,27 +11,23 @@ aliases = ["about-us","board"]
 * הגנה על הסימן המסחרי של דוג׳קוין על מנת למנוע ניצול והונאה.
 * מפת דרכים וניהול לעתיד של דוג׳קוין.
 
-### History
+### היסטוריה
 
-The Foundation was established by members of the Dogecoin team in 2014 to provide 
-governance and support for the Dogecoin project. In 2021 the Foundation has been 
-re-invigorated by members of the original core team along with fresh faces and new 
-seasoned advisors ready to grow Dogecoin for the decade ahead.
+הקרן נוצרה על ידי חברי צוות הדוג׳קוין בשנת 2014 על מנת לספק תמיכה וניהול לפרויקט.
+בשנת 2021 קרן רועננה על ידי חברי צוות ליבת הדוג׳קוין המקורי בנוסף לכמה חברים חדשים ויועצים ותיקים ועכשיו הקרן מוכנה לעזור לדוג׳קוין לצמוח לעשורים הבאים.
 
-You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
+אתם מוזמנים לקרוא עוד על יסודות הקרן ב [יסודות הדוג׳קוין](/manifesto.he).
 
-### Board
+### צוות
 
-The Dogecoin Foundation Board meets monthly to discuss issues relating to the 
-Dogecoin project.
+חברי קרן הדוג׳קוין נפגשים מדי חודש על מנת לדון בעיות הקשורות לפרויקט הדוג׳קוין.
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
 <div style="display: inline-box; width: 150px;">
 <img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
-<h5>Gary Lachance</h5>
-DDP Founder & Dogecoin Community Veteran 
-</div>
+<h5>גארי לאנצ׳ס</h5>
+מייסד DDP וחבר וותיק בקהילת הדוג׳קוין.</div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
