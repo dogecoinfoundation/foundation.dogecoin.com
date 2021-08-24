@@ -31,27 +31,26 @@ aliases = ["about-us","board"]
 
 <div style="display: inline-box; width: 150px;">
 <img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
-<h5>Jens Wiechers</h5> 
-OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+<h5>ג׳נס וויצ׳רס</h5> 
+חבר ותיק ומקורי בקרן הדוג׳קוין, מחלקת משפט והנהלה בקרן.
 </div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
-<h5>Michi Lumin</h5> 
-Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+<h5>מיקי לומין</h5> 
+מפתח הבלוקצ׳יין של דוג׳קויין, מהנדס ראשי בקרן.
 </div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
-<h5>Ross Nicoll</h5>
-Dogecoin Core Blockchain Developer
+<h5>רוס ניקול</h5>
+מפתח הבלוקצ׳יין של דוג׳קוין
 </div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
-<h5>Timothy Stebbing</h5> 
-F/OSS community advocate and Foundation Product Lead
-</div>
+<h5>טימות׳י סטבינג</h5> 
+תומך קהילה של F/OSS ומנהל מוצר בקרן.</div>
 
 </div>
 
