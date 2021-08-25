@@ -43,7 +43,7 @@ aliases = ["about-us","board"]
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
 <h5>רוס ניקול</h5>
-מפתח הבלוקצ׳יין של דוג׳קוין
+מפתח הבלוקצ׳יין של דוג׳קוין.
 </div>
 
 <div style="display: inline-box; width: 150px;">
@@ -55,33 +55,28 @@ aliases = ["about-us","board"]
 
 ---
 
-### Board Advisors
+### יועצי הצוות
 
-The Dogecoin Foundation Advisors provide key insights into particular strategic areas.
+יועצי קרן הדוג׳קוין מספקים תובנות מרכזיות בתחומים אסטרטגיים מסוימים.
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
 <div style="display: inline-box; width: 150px;"> <img title='Jared
 Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
-- Legal & Financial Advisor</div>
+src="/jared.jpg"/> <h5>ג׳ארד בירצ׳ל</h5> מייצג את אילון מאסק - יועץ משפטי וכלכלי.</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Max
 Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> Dogecoin Core Developer, Dogecoin
-Technical Advisor</div>
+src="/max.jpg"/> <h5>מקס קלר</h5> אחד ממפתחי דוג׳קוין, יועץ טכני.</div>
 
 
 <div style="display: inline-box; width: 150px;"> <img
 title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
-max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> OG Dogecoin Founder, Community & Memes
-Advisor</div>
+max-width:150px;" class="circle" src="/billy.jpg"/> <h5>שייבטושי נקאמוטו (בילי)</h5> יוצר הדוג׳קוין המקורי, יועץ קהילה וממים.</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Vitalik
 Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Ethereum Founder,
-Blockchain & Crypto Advisor</div>
+src="/vitalik.jpg"/> <h5>ויטאליק בוטרין</h5> מייסד Ethereum, יועץ בלוקצ׳יין וקריפטו.</div>
 
 </div>
 
