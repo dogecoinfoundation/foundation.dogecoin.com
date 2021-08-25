@@ -1,0 +1,39 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "תרגומים"
+
+[postAvailable]
+other = "זמין גם ב"
+
+
+# 404.html
+#
+[archives]
+other = "ארכיון"
+
+[home]
+other = "בית"
+
+[notFound]
+other = "אופס, העמוד לא נמצא..."
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "דקה אחד"
+other = "{{ .Count }} דקות"
+
+[tableOfContents]
+other = "תוכן העניינים"
+
+[wordCount]
+one   = "מילה אחת"
+other = "{{ .Count }} מילים"
+
+[lastModified]
+other = "עודכן לאחרונה"
