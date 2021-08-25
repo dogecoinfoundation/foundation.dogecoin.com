@@ -175,26 +175,32 @@ disableHugoGeneratorInject = false
   [languages.en]
     subtitle  = "Hello Friend NG Theme"
     weight    = 1
+    baseURL = 'https://foundation.dogecoin.com'
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
     subtitle  = "Hello Friend NG Theme"
+    baseURL = 'https://foundation.dogecoin.com/fr/'
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     
   [languages.de]
     subtitle  = "Hello Friend NG Theme"
+    baseURL = 'https://foundation.dogecoin.com/de/'
     weight    = 3
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.he]
     LanguageDirection = 'rtl'
+    title = 'קרן הדוג׳קוין'
+    baseURL = 'https://foundation.dogecoin.com/he/'
     subtitle  = "Hello Friend NG Theme"
     weight    = 4
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   
   [languages.zh]
     subtitle  = "Hello Friend NG Theme"
+    baseURL = 'https://foundation.dogecoin.com/zh/'
     weight    = 5
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
