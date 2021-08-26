@@ -199,6 +199,7 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   
   [languages.zh]
+    title = "狗狗币基金会"
     subtitle  = "Hello Friend NG Theme"
     baseURL = 'https://foundation.dogecoin.com/zh/'
     weight    = 5
