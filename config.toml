@@ -68,7 +68,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Do only good, every day"
+  homeSubtitle = "Do Only Good Everyday"
 
   # Set a background for the homepage
   # backgroundImage = "/assets/images/screenshot.png"
@@ -119,7 +119,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "Powered by Doges with <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#1>0084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+      "Theme made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -192,9 +192,29 @@ disableHugoGeneratorInject = false
     weight    = 4
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   
-  [languages.zh]
+  [languages.zh-cn]
     subtitle  = "Hello Friend NG Theme"
     weight    = 5
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.pt]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 6
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    
+  [languages.sr]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 7
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    
+  [languages.no]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 8
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    
+  [languages.th]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 9
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]

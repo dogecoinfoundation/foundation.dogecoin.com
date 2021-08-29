@@ -30,8 +30,7 @@ Signatories,
   -- Max Keller</br>
   -- Michi Lumin</br>
   -- Ross Nicoll</br>
-  -- Timothy Stebbing</br>
-  -- Soma Green
+  -- Timothy Stebbing
 
 _August 15, 2021_
 
