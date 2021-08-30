@@ -40,7 +40,7 @@ OG Veterano da Dogecoin Foundation, Administração e Departamento Legal da Fund
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
 <h5>Michi Lumin</h5> 
-Programador Principal do Blockchain da Dogecoin, Engenheiro Principal da Fundação
+Programadora Principal do Blockchain da Dogecoin, Engenheira Principal da Fundação
 </div>
 
 <div style="display: inline-box; width: 150px;">
