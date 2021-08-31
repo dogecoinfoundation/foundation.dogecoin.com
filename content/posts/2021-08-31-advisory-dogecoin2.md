@@ -6,7 +6,7 @@ date = "2021-08-31"
   name = "Dogecoin Foundation"
 +++
 
-A number of concerned Shibes from the Dogecoin community have recently bought to our attention the 'Dogecoin 2.0' 
+A number of concerned Shibes from the Dogecoin community have recently brought to our attention the 'Dogecoin 2.0' 
 crypto project, which began earlier this year and has just announced listings on prominent exchanges.
 
 As always, the Dogecoin Foundation welcomes newcomers to the crypto space but this project has no connection to or 
