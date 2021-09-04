@@ -4,20 +4,20 @@
     justify-content: space-between;
     width: 100%;
     max-width: $max-width;
-    font-family: "Montserrat", sans-serif;
     [data-theme=dark] & {
       color: #ffffff;
     }
     .left {
       text-align: left;
       .title {
+        font-family: "Montserrat", sans-serif;
         h1,h2 {
           font-size: 97px;
           line-height: 1.1em;
           margin: 0;
         }
         h1 {
-          font-weight: 200;
+          font-weight: 300;
         }
         h2 {
           font-weight: 700;
