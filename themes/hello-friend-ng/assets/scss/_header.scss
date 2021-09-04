@@ -2,26 +2,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
-  padding: 20px;
-  // Default
-  background: $light-background-header;
-
-  @media (prefers-color-scheme: dark) {
-    background: $dark-background-header;
-  }
-
-  @media (prefers-color-scheme: light) {
-    background: $light-background-header;
-  }
-
-  [data-theme=dark] & {
-    background: $dark-background-header;
-  }
-
-  [data-theme=light] & {
-    background: $light-background-header;
-  }
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 15px;
+  background: $dark-background-header;
+  color: $dark-color;
+  font-family: "Montserrat" sans-serif;
+  z-index: 100;
 
   &__right {
     display: flex;
@@ -38,7 +27,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 0 auto;
-    width: 760px;
+    width: 1170px;
     max-width: 100%;
   }
 }
@@ -57,7 +46,7 @@
 
 .not-selectable {
   user-select: none;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
