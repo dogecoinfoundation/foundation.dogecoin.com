@@ -6,9 +6,9 @@ date = "2021-08-16"
 +++
 
 אנו מתרגשים להודיע שהיום הקמנו מחדש את **קרן הדוג׳קוין** *(הוקמה ב2014)*, עם התמקדות מחודשת בתמיכת מערכת הדוג׳קוין, קהילה וקידום עתיד מערכת הדוג׳קוין.
-### Focus
+### התמקדות
 
-The Dogecoin Foundation is not here to ‘take control’ of the *Dogecoin Core Wallet* project, which remains the primary reference implementation of a compliant Dogecoin Wallet. We are here to accelerate the development effort by supporting current Dogecoin Core and future Dogecoin Developers to work on a full-time basis through sponsorship, as well as providing a welcome landing for new contributors hoping to help with the project.
+קרן הדוג׳קוין לא קיימת כדי ׳להשתלט׳ על פרויקט *ארנק הדוג׳קוין*, שנשאר ההטמעה המרכזית של ארנק דוג׳קוין תקני. אנחנו כאן כדי להאיץ את מאמצי הפיתוח על ידי תמיכה במפתחי ליבת הדוג׳קוין הקיימים והעתידיים ולעודדם לעבוד על בסיס שעות מלאות באמצעות נתינת חסות, בנוסף למתן קבלת פנים חמה לתורמים חדשים המקווים לעזור לפרויקט.
 
 The Dogecoin Foundation is also looking to the future of the broader Dogecoin ecosystem, and in coming weeks, will be announcing new projects that will compliment the current Core Wallet to enable faster integration and easier APIs for Financial, Social and Charitable projects wishing to use Dogecoin. We believe that the success of Dogecoin is through broad global adoption and utility, and intend to focus on projects that increase Dogecoin uptake at a grassroots level.
 
