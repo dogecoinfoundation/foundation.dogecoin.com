@@ -3,7 +3,7 @@ title = "אודות"
 date = "2014-04-09"
 aliases = ["about-us","board"]
 [ author ]
-  name = "Dogecoin Foundation"
+  name = "קרן הדוג׳קוין"
 +++
 
 קרן הדוג׳קוין היא ארגון ללא מטרות רווח שנוצרה כדי לספק:
