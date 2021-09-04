@@ -63,6 +63,10 @@
       [data-theme=light] & {
         background: #dbdbdb;
       }
+      @media #{$media-size-phone} {
+        width: 200px;
+        height: 200px;
+      }
     }
     @media #{$media-size-phone} {
       flex-direction: column-reverse;
