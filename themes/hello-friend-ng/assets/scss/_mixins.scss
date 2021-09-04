@@ -1,3 +1,15 @@
 @mixin dimmed {
-  opacity: .6;
+  opacity: 0.6;
+}
+
+@mixin rtl($selector: '[dir="rtl"]') {
+  @if & {
+    #{$selector} & {
+      @content;
+    }
+  } @else {
+    #{$selector} {
+      @content;
+    }
+  }
 }
