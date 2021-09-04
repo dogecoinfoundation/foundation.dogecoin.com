@@ -1,13 +1,27 @@
 .logo {
+  color: #ffffff;
   display: flex;
-  align-items: center;
   text-decoration: none;
   font-weight: bold;
   font-display: auto;
-  font-family: monospace, monospace;
+  font-family: Lato, sans-serif;
 
   img {
     height: 44px;
+  }
+
+  .logo-labels {
+    margin-left: 10px;
+    padding-top: 5px;
+    line-height: 1.4em;
+    .main-label {
+      font-size: 30px;
+    }
+
+    .sub-label {
+      font-weight: 200;
+      letter-spacing: 4px;
+    }
   }
 
   &__mark {
