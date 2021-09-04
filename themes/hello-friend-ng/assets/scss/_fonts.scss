@@ -34,6 +34,14 @@
   font-family: 'Montserrat';
   font-style:  normal;
   font-display: auto;
+  font-weight: 200;
+  src: url("../fonts/Montserrat-Light.woff") format("woff"),
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style:  normal;
+  font-display: auto;
   font-weight: 700;
   src: url("../fonts/Montserrat-Bold.woff") format("woff"),
 }
