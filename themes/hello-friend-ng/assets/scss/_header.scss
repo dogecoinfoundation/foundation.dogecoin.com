@@ -11,6 +11,7 @@
   color: $dark-color;
   font-family: "Montserrat" sans-serif;
   z-index: 100;
+  transition: padding .2s ease-in;
 
   &__right {
     display: flex;
@@ -29,6 +30,20 @@
     margin: 0 auto;
     width: 1170px;
     max-width: 100%;
+  }
+
+  &.minimize {
+    padding: 5px;
+    .logo {
+      img {
+        height: 32px;
+      }
+      .logo-labels {
+        .sub-label {
+          display: none;
+        }
+      }
+    }
   }
 }
 
