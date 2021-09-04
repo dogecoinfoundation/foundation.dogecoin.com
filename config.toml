@@ -161,7 +161,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/dogecoin"
+    url  = "https://twitter.com/dogecoinfdn"
 
   [[params.social]]
     name = "github"
