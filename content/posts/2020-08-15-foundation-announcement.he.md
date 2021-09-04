@@ -1,12 +1,11 @@
 +++
-title = "הכרזה: הקמה מחדש של קרן הדוג׳קוין"
+title = "הכרזה: הקמתה מחדש של קרן הדוג׳קוין"
 date = "2021-08-16"
 [ author ]
   name = "Dogecoin Foundation"
 +++
 
-It is with great excitement that today we announce the re-establishment of the **Dogecoin Foundation** *(est 2014),* with a renewed focus on supporting the Dogecoin Ecosystem, Community and promoting the future of the Dogecoin Blockchain.
-
+אנו מתרגשים להודיע שהיום הקמנו מחדש את **קרן הדוג׳קוין** *(הוקמה ב2014)*, עם התמקדות מחודשת בתמיכת מערכת הדוג׳קוין, קהילה וקידום עתיד מערכת הדוג׳קוין.
 ### Focus
 
 The Dogecoin Foundation is not here to ‘take control’ of the *Dogecoin Core Wallet* project, which remains the primary reference implementation of a compliant Dogecoin Wallet. We are here to accelerate the development effort by supporting current Dogecoin Core and future Dogecoin Developers to work on a full-time basis through sponsorship, as well as providing a welcome landing for new contributors hoping to help with the project.
