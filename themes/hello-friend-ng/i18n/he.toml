@@ -37,3 +37,18 @@ other = "{{ .Count }} מילים"
 
 [lastModified]
 other = "עודכן לאחרונה"
+
+# Menus
+
+[about]
+other = "אודות הקרן"
+
+[posts]
+other = "חדשות"
+
+[roadmap]
+other = "מפת זמנים"
+
+[manifesto]
+other = "ערכי הקרן"
+

@@ -1,5 +1,5 @@
 +++
-title = "ערכי הדוג׳קוין"
+title = "מניפסט הדוג׳קוין"
 date = "2021-15-08"
 [ author ]
   name = "קרן הדוג׳קוין"
@@ -10,11 +10,11 @@ date = "2021-15-08"
 אנחנו דוג׳קוין, תנועת הקריפטו</br>
 המקרית שגורמת לאנשים לחייך.
 
-אנחנו מפתחים מטבע בשביל האנשים, </br>
-ואנחנו שואפים לעשות רק טוב כל יום.</br>
+אנו מפתחים מטבע בשביל האנשים, </br>
+ואנו שואפים לעשות רק טוב כל יום.</br>
 באמצעות עבודה זו הגענו לערכים הללו:
 
-בהיותנו **מועילים**, אנו מעריכים *יעילות* על פני *גאונות טכנולוגית*.</br>
+בהיותנו **מועילים**, אנו מעריכים *יעילות* על פני *גאונות טכנית*.</br>
 בהיותנו **אישיים**, אנו מעריכים *אנשים ואינטראקציות* על פני *כלכלה ורווחיות*.</br>
 בהיותנו **מסבירי פנים**, אנו מעריכים *שיתוף פעולה ואמון* על פני *תחרוב ובלעדיות*.</br>
 בהיותנו **אמינים**, אנו מעריכים *פתרונות עבודה* על פני *אספקה מהירה ופזיזה*.</br>
@@ -25,7 +25,7 @@ date = "2021-15-08"
 חתומים,
 
   -- בילי מרקוס</br>
-  -- גארי לאנצ׳ס</br>
+  -- גארי לצ׳אנס</br>
   -- ג׳נס וויצ׳רס</br>
   -- מקס קלר</br>
   -- מיקי לומין</br>
@@ -38,12 +38,12 @@ _15 באוגוסט, 2021_
 ---
 
 <div class='center'>
-אתם מוזמנים לחתום על ערכי הדוג׳קוין בטוויטר!
+אתם מוזמנים לחתום על מניפסט הדוג׳קוין בטוויטר!
 כפתור עליון בלשון זכר, אמצעי בלשון נקבה ותחתון בלי שיוך מגדרי.
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אני חותם על ערכי הדוג׳קוין! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ בלשון זכר</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אני חותם על מניפסט הדוג׳קוין! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ בלשון זכר</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אני חותמת על ערכי הדוג׳קוין @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ בלשון נקבה</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אני חותמת על מניפסט הדוג׳קוין @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ בלשון נקבה</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אנחנו חותמים על ערכי הדוג׳קוין! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ ללא שיוך מגדרי</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="אנחנו חותמים על מניפסט הדוג׳קוין! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">ציוץ ללא שיוך מגדרי</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
