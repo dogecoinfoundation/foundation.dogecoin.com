@@ -1,5 +1,5 @@
 +++
-title = "Advisory: Claims of Affiliation with Dogecoin Foundation"
+title = "עצה: טענות על השתייכות עם קרן הדוג׳קוין"
 date = "2021-08-18"
 [ author ]
   name = "Dogecoin Foundation"
