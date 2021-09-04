@@ -173,12 +173,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-<<<<<<< HEAD
-    title = "Dogecoin Foundation"
-    subtitle  = "Hello Friend NG Theme"
-=======
     subtitle  = "Welcome"
->>>>>>> origin/main
     weight    = 1
     baseURL = 'https://foundation.dogecoin.com'
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -203,21 +198,13 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 4
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-<<<<<<< HEAD
- 
-  [languages.zh]
-    title = "狗狗币基金会"
-=======
   
   [languages.zh-cn]
->>>>>>> origin/main
     subtitle  = "Hello Friend NG Theme"
     baseURL = 'https://foundation.dogecoin.com/zh/'
     weight    = 5
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-<<<<<<< HEAD
-=======
   [languages.pt]
     subtitle  = "Hello Friend NG Theme"
     weight    = 6
@@ -237,7 +224,6 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 9
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
->>>>>>> origin/main
 
 [menu]
   [[menu.main]]
