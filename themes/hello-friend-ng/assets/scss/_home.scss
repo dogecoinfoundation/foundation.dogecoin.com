@@ -1,6 +1,7 @@
 .home {
   .main {
     display: flex;
+    align-items: center;
     justify-content: space-between;
     width: 100%;
     max-width: $max-width;
@@ -9,12 +10,18 @@
     }
     .left {
       text-align: left;
+      @media #{$media-size-phone} {
+        text-align: center;
+      }
       .title {
         font-family: "Montserrat", sans-serif;
         h1,h2 {
           font-size: 97px;
           line-height: 1.1em;
-          margin: 0;
+          margin: 0px;
+          @media #{$media-size-phone} {
+            font-size: 60px;
+          }
         }
         h1 {
           font-weight: 300;
@@ -26,18 +33,39 @@
       .underline {
         width: 100px;
         height: 6px;
+        margin: 15px 0px;
         [data-theme=dark] & {
           background: #ffffff;
         }
         [data-theme=light] & {
           background: #c5c5c5;
         }
+        @media #{$media-size-phone} {
+          margin: 15px auto;
+        }
       }
       .subtitle {
-          font-size: 32px;
-          line-height: 0em;
-          font-weight: 200;
+        margin: 0px;
+        font-size: 32px;
+        font-weight: 200;
       }
+    }
+    .doge-container {
+      width: 384px;
+      height: 384px;
+      overflow: hidden;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      [data-theme=dark] & {
+        background: #000000;
+      }
+      [data-theme=light] & {
+        background: #dbdbdb;
+      }
+    }
+    @media #{$media-size-phone} {
+      flex-direction: column-reverse;
     }
   }
 }
