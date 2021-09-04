@@ -5,13 +5,12 @@ date = "2021-08-16"
   name = "Dogecoin Foundation"
 +++
 
-אנו מתרגשים להודיע שהיום הקמנו מחדש את **קרן הדוג׳קוין** *(הוקמה ב2014)*, עם התמקדות מחודשת בתמיכת מערכת הדוג׳קוין, קהילה וקידום עתיד מערכת הדוג׳קוין.
+אנו מתרגשים להודיע שהיום הקמנו מחדש את **קרן הדוג׳קוין** *(הוקמה ב-2014)*, עם התמקדות מחודשת בתמיכת מערכת הדוג׳קוין, בקהילה ובקידום עתיד מערכת הדוג׳קוין.
 ### התמקדות
 
 קרן הדוג׳קוין לא קיימת כדי ׳להשתלט׳ על פרויקט *ארנק הדוג׳קוין*, שנשאר ההטמעה המרכזית של ארנק דוג׳קוין תקני. אנחנו כאן כדי להאיץ את מאמצי הפיתוח על ידי תמיכה במפתחי ליבת הדוג׳קוין הקיימים והעתידיים ולעודדם לעבוד על בסיס שעות מלאות באמצעות נתינת חסות, בנוסף למתן קבלת פנים חמה לתורמים חדשים המקווים לעזור לפרויקט.
 
-The Dogecoin Foundation is also looking to the future of the broader Dogecoin ecosystem, and in coming weeks, will be announcing new projects that will compliment the current Core Wallet to enable faster integration and easier APIs for Financial, Social and Charitable projects wishing to use Dogecoin. We believe that the success of Dogecoin is through broad global adoption and utility, and intend to focus on projects that increase Dogecoin uptake at a grassroots level.
-
+אנחנו בקרן הדוג׳קוין גם מבטים אל העתיד של מערכת דוג׳קוין הרחבה יותר, ובשבועות הקרובים אנו נכריז על פרויקטים חדשים שישלימו את ארנק הדוג׳קוין הנוכחי כדי לאפשר אינטגרציות מהירות יותר ו- APIs קלים יותר עבור פרוייקטים פיננסיים, חברתיים ונדבניים שרוצים להשתמש בדוג׳קוין. אנו מאמינים שהצלחת דוג׳קוין היא דרך אימוץ גלובאלי רחב ותועלת, ואנו מתכוונים להתמקד בפרוייקטים המעלים את קליטת דוג׳קוין ברמת השורש.
 ### Protecting the Dogecoin Brand
 
 For many years, the Dogecoin community has continued to think the best of people and hoped that everyone could play nicely with the name and logos. Dogecoin belongs to the people after all.

@@ -7,22 +7,23 @@ date = "2021-15-08"
 
 ---
 
-We are Dogecoin, the accidental crypto-</br>
-movement that makes people smile. 
+Vi er Dogecoin, krypto-bevegelsen som ble til ved en </br>
+tilfeldighet og som får folk til å smile. 
 
-We are developing a currency for the people, </br>
-and we strive to do only good everyday.</br>
-Through this work we have come to value:
+Vi utvikler en folkelig digital valuta </br>
+og vi streber hver dag for kun å gjøre godt.</br>
 
-Being **useful**, we value *utility* over *technical brilliance*.</br>
-Being **personable**, we value *individuals and interactions* over *profit-driven economics*.</br>
-Being **welcoming**, we value *collaboration and trust* over *competition and exclusivity*.</br>
-Being **reliable**, we value *working solutions* over *speed of delivery*. </br>
+Gjennom dette arbeidet har vi lært å sette pris på:
 
-That is, while there is value in the items on</br>
-the right, we value the items on the left more.
+Å være til nytte, vi verdsetter nytteverdi fremfor teknisk briljans.</br>
+Å være vennlig, vi verdsetter individer og relasjoner fremfor profittjag.</br>
+Å være imøtekommende, vi verdsetter samarbeid og tillit fremfor konkurranse og enerett.</br>
+Å være pålitelig, vi verdsetter fungerende løsninger fremfor raske løsninger.</br>
 
-Signatories, 
+Med andre ord, selv om det er verdier i begrepene til høyre,</br>
+setter vi større pris på begrepene til venstre.
+
+Undertegnede, 
 
   -- Billy Markus</br>
   -- Gary Lachance</br>
