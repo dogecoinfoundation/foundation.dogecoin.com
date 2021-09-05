@@ -13,23 +13,23 @@ date = "2021-08-16"
 אנחנו בקרן הדוג׳קוין גם מבטים אל העתיד של מערכת דוג׳קוין הרחבה יותר, ובשבועות הקרובים נכריז על פרויקטים חדשים שישלימו את ארנק הדוג׳קוין הנוכחי כדי לאפשר אינטגרציות מהירות יותר ו- APIs קלים יותר עבור פרוייקטים פיננסיים, חברתיים ונדבניים שרוצים להשתמש בדוג׳קוין. אנו מאמינים שהצלחת דוג׳קוין היא דרך אימוץ גלובאלי רחב ותועלת, ואנו מתכוונים להתמקד בפרוייקטים המעלים את קליטת דוג׳קוין ברמת השורש.
 ### הגנה על מותג הדוג׳קוין
 
-For many years, the Dogecoin community has continued to think the best of people and hoped that everyone could play nicely with the name and logos. Dogecoin belongs to the people after all.
+במשך שנים רבות, קהילת הדוג׳קוין המשיכה לחשוב על הטוב שבאנשים וחשבה שכולם יוכלו לשתף פעולה ולהסתדר יפה עם השם והלוגו. אחרי הכל, דוג׳קוין שייך לאנשים.
 
-However, in recent times, numerous attempts have been made to co-opt the 'Dogecoin' brand in various jurisdictions, in ways that would prevent the community and the project itself using them.
+אבל בזמן האחרון, היו אינספור נסיונות לצרף את מותג ה- ׳דוג׳קוין׳ לתחומים שונים, בדרכים שימנעו מהקהילה ומהפרויקט עצמו להשתמש בהם.
 
-Not many people know this, but we would like to commend one Very Good Shibe: Jens Wiechers, who since 2014 has single-handedly and at great personal expense fought these kinds of attacks through the trademark office under the banner of the Dogecoin Foundation to protect everyone’s right to use the Dogecoin brand. 
+לא הרבה אנשים יודעים את זה, אבל ברצוננו לשבח שיב אחד טוב במיוחד: ג׳נס וויצ׳רס, שמשנת 2014 התמודד לבדו ובהקרבה אישית עצומה עם המתקפות האלה דרך משרד הסימנים המסחריים תחת דגל הקרן על מנת להגן על הזכות של כולם להשתמש במותג הדוג׳קוין.
 
-The Foundation holds the Dogecoin mark and the Dogecoin Logo and will maintain them for the community. This will mean the Foundation can continue to protect the Dogecoin Brand and allow (under a very liberal license) the ability to use it for Dogecoin-related memes, projects and fun. — We’ve got your back on this one.
+הקרן מחזיקה את סימן ולוגו הדוג׳קוין ותתחזק אותם בשביל הקהילה. זה אומר שהקרן יכולה להמשיך להגן על מותג הדוג׳קוין ותאשר (ברישיון מאוד ליברלי) להשתמש בו בממים הקשורים לדוג׳קוין, פרוייקטים ועוד דברים כיפים. - יש לכם את הגיבוי שלנו בנושא זה.
 
-### The Dogecoin Manifesto
+### מניפסט בדוג׳קוין
 
-We have been thinking about what Dogecoin means: as a technical project and as a movement for good in the world. We’ve condensed it down to four statements that we are calling the Dogecoin Manifesto. Two are technically-focused and two are social.
+חשבנו על מה שדוג׳קוין אומר: כפרוייקט טכני וכתנועה לטוב בעולם כולו. צמצמנו את זה לארבעה משפטים שקראנו להם מניםסט הדוג׳קוין. שניים ממוקדים טכנולוגית ושניים חברתיים.
 
-We believe that together, these key pillars that embody ‘Do Only Good Everyday’ will guide us forward as we make decisions and advance the Dogecoin ecosystem.
+אנו מאמינים שביחד, עמודי התווך הללו שמגלמים ״לעשות רק טוב כל יום״ ידריכו אותנו קדימה גשאנחנו מקבלים החלטות ומקדמים את מערכת הדוג׳קוין.
 
-[The Dogecoin Manifesto](/manifesto)
+[מניפסט הדוג׳קוין](/manifesto.he)
 
-If you can, please ‘sign’ the Manifesto by clicking the tweet link at the bottom of the Manifesto page. This will let the world know what the Doge Army stands for!
+אם אתם יכולים, אנא ׳חתמו׳ על המניפסט על ידי לחיצה על כפתור הציוץ בתחתית עמוד המניפסט. פעולה זו תתן לעולם לדעת במה צבא הדוג׳ מאמין!
 
 ### Stop, collaborate and listen!
 
