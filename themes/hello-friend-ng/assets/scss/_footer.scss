@@ -24,12 +24,12 @@
     justify-content: space-between;
     font-size: 1rem;
     color: $light-color-secondary;
-
     @media #{$media-size-tablet} {
       flex-direction: column;
       justify-content: center;
-      margin-top: 10px;
+      margin: 10px 0px;
     }
+
 
     & > *:last-child {
       padding: 0 0px;
@@ -49,6 +49,11 @@
     &-left {
       display: flex;
       align-items: center;
+
+      @media #{$media-size-tablet} {
+        flex-direction: column;
+        justify-content: center;
+      }
     }
   }
 }
