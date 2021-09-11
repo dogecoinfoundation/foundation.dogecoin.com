@@ -52,7 +52,7 @@ body {
     color: $dark-color;
     &.home {
       background: linear-gradient(25deg, $dark-background 50%, rgba(255, 255, 255, 0) 50%),
-      linear-gradient(180deg, lighten($dark-background, 5%) 0%, $dark-background 100%);
+      linear-gradient(180deg, #1c1c1c 0%, #181818 100%);
     }
   }
 

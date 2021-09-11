@@ -20,7 +20,7 @@
           line-height: 1.1em;
           margin: 0px;
           @media #{$media-size-phone} {
-            font-size: 60px;
+            font-size: 40px;
           }
         }
         h1 {
@@ -66,6 +66,9 @@
       @media #{$media-size-phone} {
         width: 200px;
         height: 200px;
+      }
+      img {
+        max-width: 100%;
       }
     }
     @media #{$media-size-phone} {
