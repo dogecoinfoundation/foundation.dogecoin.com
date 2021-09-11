@@ -65,11 +65,19 @@
         background: #dbdbdb;
       }
       @media #{$media-size-phone} {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
       }
       img {
-        max-width: 100%;
+        position: relative;
+        top: 15px;
+        width: 300px;
+        height: 372px;
+        @media #{$media-size-phone} {
+          top: 2px;
+          width: 124px;
+          height: 148px;
+        }
       }
     }
     @media #{$media-size-phone} {
