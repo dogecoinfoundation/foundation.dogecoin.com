@@ -19,6 +19,7 @@
           font-size: 97px;
           line-height: 1.1em;
           margin: 0px;
+          display: block;
           @media #{$media-size-phone} {
             font-size: 40px;
           }

@@ -278,10 +278,3 @@ disableHugoGeneratorInject = false
     url        = "announcements/"
     weight     = 3
     parent     = "news"
-  [[menu.main]]
-    identifier = "dogepedia"
-    name       = "Dogepedia"
-    url        = "dogepedia/"
-    weight     = 6
-    [menu.main.params]
-      class = "parent"
