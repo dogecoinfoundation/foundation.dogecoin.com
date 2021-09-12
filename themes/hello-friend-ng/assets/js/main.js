@@ -5,12 +5,14 @@
  * the theme choice of the user.
  *
  */
-(function() {
+(function () {
   const themeToggle = document.querySelector(".theme-toggle");
-  const chosenTheme = window.localStorage && window.localStorage.getItem("theme");
+  const chosenTheme =
+    window.localStorage && window.localStorage.getItem("theme");
   const chosenThemeIsDark = chosenTheme == "dark";
   const chosenThemeIsLight = chosenTheme == "light";
   const header = document.getElementById("header");
+  const doge = document.getElementById("kabosu");
 
   // Detect the color scheme the operating system prefers.
   function detectOSColorTheme() {
@@ -60,6 +62,17 @@
       } else {
         header.classList.remove("minimize");
       }
+    });
+  }
+
+  if (kabosu) {
+    let originX, originY;
+    window.addEventListener("mousemove", (e) => {
+      const { clientX, clientY } = e;
+      const { clientWidth, clientHeight } = document.documentElement;
+      const posX = ((clientWidth / 2 - clientX) * 30) / clientWidth;
+      const posY = ((clientHeight / 2 - clientY) * 10) / clientHeight;
+      kabosu.style.transform = `translate(${-posX}px, ${-posY}px)`;
     });
   }
 })();
