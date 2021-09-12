@@ -54,6 +54,10 @@ body {
       background: linear-gradient(25deg, $dark-background 50%, rgba(255, 255, 255, 0) 50%),
       linear-gradient(180deg, #1c1c1c 0%, #181818 100%);
     }
+    &.manifesto {
+      background: linear-gradient(-25deg, $dark-background 50%, rgba(255, 255, 255, 0) 50%),
+      linear-gradient(180deg, #1c1c1c 0%, #181818 100%);
+    }
   }
 
   [data-theme=light] & {
@@ -61,6 +65,10 @@ body {
     color: $light-color;
     &.home {
       background: linear-gradient(25deg, $light-background 50%, rgba(255, 255, 255, 0) 50%),
+      linear-gradient(180deg, darken($light-background, 5%) 0%, $light-background 100%);
+    }
+    &.manifesto {
+      background: linear-gradient(-25deg, $light-background 50%, rgba(255, 255, 255, 0) 50%),
       linear-gradient(180deg, darken($light-background, 5%) 0%, $light-background 100%);
     }
   }

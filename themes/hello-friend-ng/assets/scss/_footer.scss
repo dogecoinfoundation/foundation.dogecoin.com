@@ -2,9 +2,14 @@
   padding: 10px 20px;
   flex-grow: 0;
   color: $light-color-secondary;
+  @media #{$media-size-phone} {
+    margin-top: 15px;
+  }
   [data-theme=dark] & {
     border-top: 1px solid $dark-border-color;
-
+  }
+  [data-theme=light] & {
+    border-top: 1px solid $light-border-color;
   }
 
   &__inner {
