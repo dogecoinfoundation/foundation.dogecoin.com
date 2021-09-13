@@ -75,11 +75,11 @@
         let rightEyeX = 0
 
         nose.addEventListener("mousedown", () => {
-            if (!thought.classList.contains("visible")) {
-                thought.classList.add("visible");
+            if (!document.body.classList.contains("armageddon")) {
+                document.body.classList.add("armageddon");
                 setTimeout(() => {
-                    thought.classList.remove("visible");
-                }, 3000);
+                    document.body.classList.remove("armageddon");
+                }, 5000);
             }
         });
 
