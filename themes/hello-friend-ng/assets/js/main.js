@@ -5,6 +5,7 @@
  * the theme choice of the user.
  *
  */
+
 (function () {
   const themeToggle = document.querySelector(".theme-toggle");
   const chosenTheme =
@@ -12,7 +13,9 @@
   const chosenThemeIsDark = chosenTheme == "dark";
   const chosenThemeIsLight = chosenTheme == "light";
   const header = document.getElementById("header");
-  const doge = document.getElementById("kabosu");
+  const doge = document.querySelector(".kabosu");
+  const leftEye = document.getElementById("left-eye");
+  const rightEye = document.getElementById("right-eye");
 
   // Detect the color scheme the operating system prefers.
   function detectOSColorTheme() {
@@ -65,14 +68,38 @@
     });
   }
 
-  if (kabosu) {
-    let originX, originY;
+  if (doge) {
+    let leftEyeX = 0
+    let rightEyeX = 0
+
     window.addEventListener("mousemove", (e) => {
       const { clientX, clientY } = e;
       const { clientWidth, clientHeight } = document.documentElement;
       const posX = ((clientWidth / 2 - clientX) * 30) / clientWidth;
       const posY = ((clientHeight / 2 - clientY) * 10) / clientHeight;
-      kabosu.style.transform = `translate(${-posX}px, ${-posY}px)`;
+
+      if(posX > 1) {
+        leftEyeX = 1
+        rightEyeX = 1
+      }
+      else if(posX < -13) {
+        leftEyeX = -13
+      }
+      else {
+        leftEyeX = posX
+        rightEyeX = posX
+      }
+      if(posX > 1) {
+        rightEyeX = 1
+      }
+      else if(posX < -9) {
+        rightEyeX = -9
+      }
+      else {
+        rightEyeX = posX
+      }
+      leftEye.style.transform = `translate(${-leftEyeX}px, ${-posY}px)`;
+      rightEye.style.transform = `translate(${-rightEyeX}px, ${-posY}px)`;
     });
   }
 })();

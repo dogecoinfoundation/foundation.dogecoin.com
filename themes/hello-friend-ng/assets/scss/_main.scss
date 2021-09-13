@@ -32,6 +32,7 @@ body {
   // Default
   background-color: $light-background;
   color: $light-color;
+  transition: background-color .4s ease-in;
 
   @media #{$media-size-phone} {
     font-size: 1rem;
@@ -73,6 +74,14 @@ body {
     }
   }
 
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h2,
@@ -351,7 +360,7 @@ ol ol {
   align-items: center;
   justify-content: center;
   margin: 0;
-  padding: 70px 15px 0px 15px;
+  padding: 100px 15px 30px 15px;
 
   @media #{$media-size-phone} {
     margin-top: 0;
