@@ -5,17 +5,21 @@
     justify-content: space-between;
     width: 100%;
     max-width: $max-width;
+
     [data-theme=dark] & {
       color: #ffffff;
     }
+
     .left {
       text-align: left;
       @media #{$media-size-phone} {
         text-align: center;
       }
+
       .title {
         font-family: "Montserrat", sans-serif;
-        h1,h2 {
+
+        h1, h2 {
           font-size: 97px;
           line-height: 1.1em;
           margin: 0px;
@@ -24,33 +28,41 @@
             font-size: 40px;
           }
         }
+
         h1 {
           font-weight: 300;
         }
+
         h2 {
           font-weight: 700;
         }
       }
+
       .underline {
         width: 100px;
         height: 6px;
         margin: 15px 0px;
+
         [data-theme=dark] & {
           background: #ffffff;
         }
+
         [data-theme=light] & {
           background: #c5c5c5;
         }
+
         @media #{$media-size-phone} {
           margin: 15px auto;
         }
       }
+
       .subtitle {
         margin: 0px;
         font-size: 32px;
         font-weight: 200;
       }
     }
+
     .doge-container {
       position: relative;
       width: 384px;
@@ -59,15 +71,19 @@
       border-radius: 50%;
       display: flex;
       justify-content: center;
+
       [data-theme=dark] & {
         background: #000000;
       }
+
       [data-theme=light] & {
         background: #dbdbdb;
       }
+
       &.mobile {
         display: none;
       }
+
       @media #{$media-size-phone} {
         width: 150px;
         height: 150px;
@@ -78,6 +94,7 @@
           display: block;
         }
       }
+
       .kabosu {
         z-index: 3;
         position: relative;
@@ -91,10 +108,12 @@
           height: 148px;
         }
       }
-      #left-eye, #right-eye {
+
+      #left-eye, #right-eye, #nose {
         z-index: 2;
         position: absolute;
       }
+
       .eyes-background {
         position: absolute;
         z-index: 1;
@@ -104,21 +123,123 @@
         height: 50px;
         background-color: #E4D79A;
       }
+
       #left-eye {
         top: 171px;
         left: 166px;
         width: 20px;
         height: auto;
       }
+
       #right-eye {
         top: 157px;
         left: 243px;
         width: 20px;
         height: auto;
       }
+
+      #nose {
+        z-index: 4;
+        cursor: pointer;
+        top: 200px;
+        left: 245px;
+        width: 40px;
+        height: 33px;
+        border-radius: 50%;
+      }
+
+      // Design found here: https://codepen.io/quadbaup/pen/rKOKQv
+      .thought {
+        font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        z-index: 5;
+        display: none;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 30px;
+        min-width: 40px;
+        max-width: 220px;
+        min-height: 40px;
+        margin: 20px;
+        position: absolute;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+        &.visible {
+          display: flex;
+        }
+      }
+
+      .thought::before,
+      .thought::after {
+        content: "";
+        background-color: #fff;
+        border-radius: 50%;
+        display: block;
+        position: absolute;
+        z-index: -1;
+      }
+
+      .thought::before {
+        width: 44px;
+        height: 44px;
+        top: -12px;
+        left: 28px;
+        box-shadow: -50px 30px 0 -12px #fff;
+      }
+
+      .thought::after {
+        bottom: -10px;
+        right: 26px;
+        width: 30px;
+        height: 30px;
+        box-shadow: 40px -34px 0 0 #fff,
+        -28px -6px 0 -2px #fff,
+        -24px 17px 0 -6px #fff,
+        -5px 25px 0 -10px #fff;
+
+      }
     }
+
     @media #{$media-size-phone} {
       flex-direction: column-reverse;
     }
+  }
+}
+
+@keyframes rainbow {
+  100%, 8% {
+    background-color: rgb(255, 127, 0);
+  }
+  16% {
+    background-color: rgb(255, 255, 0);
+  }
+  25% {
+    background-color: rgb(127, 255, 0);
+  }
+  33% {
+    background-color: rgb(0, 255, 0);
+  }
+  41% {
+    background-color: rgb(0, 255, 127);
+  }
+  50% {
+    background-color: rgb(0, 255, 255);
+  }
+  58% {
+    background-color: rgb(0, 127, 255);
+  }
+  66% {
+    background-color: rgb(0, 0, 255);
+  }
+  75% {
+    background-color: rgb(127, 0, 255);
+  }
+  83% {
+    background-color: rgb(255, 0, 255);
+  }
+  91% {
+    background-color: rgb(255, 0, 127);
   }
 }
