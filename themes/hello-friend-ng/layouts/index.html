@@ -15,11 +15,17 @@
             {{- end }}
         </div>
         <div>
-            {{ if .Site.Params.Portrait.Path }}
-            <div class="doge-container">
-               <img src="{{ .Site.Params.Portrait.Path }}" alt="{{ .Site.Params.Portrait.Alt }}">
+            <div class="doge-container desktop">
+               <img class="kabosu" src="/doge-no-eyes.png" alt="{{ .Site.Params.Portrait.Alt }}">
+                <div class="thought">???</div>
+                <div id="nose"></div>
+                <img id="left-eye" src="/left_eye.png" alt="Left eye" />
+                <img id="right-eye" src="/right_eye.png" alt="Right eye" />
+                <div class="eyes-background rainbow"></div>
             </div>
-            {{ end }}
+            <div class="doge-container mobile">
+                <img class="kabosu" src="/doge.png" alt="{{ .Site.Params.Portrait.Alt }}">
+            </div>
         </div>
     </main>
 {{ end }}
