@@ -384,6 +384,37 @@ hr {
   }
 }
 
+// highlight-selector
+
+@media (prefers-color-scheme: light) {
+  ::selection {
+    background-color: $light-color;
+    color: $light-background;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  ::selection {
+    background-color: $light-background;
+    color: $dark-background;
+  }
+}
+
+[data-theme=light] {
+  ::selection {
+    background-color: $light-color;
+    color: $light-background;
+  }
+}
+
+[data-theme=dark] {
+  ::selection {
+    background-color: $light-background;
+    color: $dark-background;
+  }
+}
+
+
 .hide-on-tablet {
   @media #{$media-size-tablet} {
     display: none;
