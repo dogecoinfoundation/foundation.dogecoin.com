@@ -13,6 +13,18 @@
         cursor: pointer;
 
         .locale-list{
+            background-color: $dark-background-secondary;
+
+            &:before {
+                border-color: transparent $dark-background-secondary transparent transparent;
+            }
+        }
+
+        .lang:hover {
+            background-color: $dark-background;
+        }
+
+        .locale-list{
             margin-top: 5px;
             display: block;
             position: absolute;
@@ -51,71 +63,6 @@
 .locale-list {
     display: none;
 }
-
-
-@media (prefers-color-scheme: light) {
-    .locale:hover {
-        .locale-list{
-            background-color: $light-background-secondary;
-
-            &:before {
-                border-color: transparent $light-background-secondary transparent transparent;
-            }
-        }
-
-        .lang:hover {
-            background-color: $light-background;
-        }
-    }
-  }
-
-@media (prefers-color-scheme: dark) {
-    .locale:hover {
-        .locale-list{
-            background-color: $dark-background-secondary;
-
-            &:before {
-                border-color: transparent $dark-background-secondary transparent transparent;
-            }
-        }
-
-        .lang:hover {
-            background-color: $dark-background;
-        }
-    }
-  }
-
-  [data-theme=dark] {
-    .locale:hover {
-        .locale-list {
-            background-color: $dark-background-secondary;
-
-            &:before {
-                border-color: transparent $dark-background-secondary transparent transparent;
-            }
-        }
-
-        .lang:hover {
-            background-color: $dark-background;
-        }
-    }
-  }
-
-  [data-theme=light] {
-    .locale:hover {
-        .locale-list {
-            background-color: $light-background-secondary;
-
-            &:before {
-                border-color: transparent $light-background-secondary transparent transparent;
-            }
-        }
-
-        .lang:hover {
-            background-color: $light-background;
-        }
-    }
-  }
 
   @media screen and (max-width: 776px) {
       .lang1 {
