@@ -1,8 +1,9 @@
 .locale {
     padding-left: 20px; 
-    padding-right: 15px;
     display: inline-block;
     text-transform: uppercase;
+    min-width: 113px;
+    text-align: left;
 
     .icon {
         transform: rotate(90deg);  
@@ -25,7 +26,7 @@
                 height: 0px;
                 width: 0px;
                 top: -15px;
-                left: 10px; /* 1px buffer for zooming problems while rendering*/
+                left: 20px; 
                 border-width: 10px;
                 border-style: solid;
                 transform: rotate(90deg);
@@ -52,9 +53,6 @@
     display: none;
 }
 
-// .flag {
-//     border-radius: 100%;
-// }
 
 @media (prefers-color-scheme: light) {
     .locale:hover {
@@ -120,8 +118,13 @@
     }
   }
 
-  @media screen and (max-width: 819px) {
+  @media screen and (max-width: 776px) {
       .lang1 {
           display: none;
+      }
+
+      .locale {
+        padding-right: 15px;
+        min-width: 0;
       }
   }
