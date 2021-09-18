@@ -97,4 +97,4 @@ Blockchain & Crypto Advisor</div>
 
 해당 도지(코인) 프로필사진은 다음 유저가 친히 제공해줬다
 [@dogememegirl](https://twitter.com/Dogememegirl)! 저희가
-좋아하는 만큼 좋안하다면 트위터에서 그녀에게 팔로우해주세요!
+좋아하는 만큼 좋안하다면 트위터에서 그녀에게 팔로우 해주세요!
