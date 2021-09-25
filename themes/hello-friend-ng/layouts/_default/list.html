@@ -14,13 +14,13 @@
         <ul class="posts-list">
             {{ range .Pages }}
             <li class="post-item">
-
-                <span class="post-day">
-                    {{ if .Site.Params.dateformShort }}
-                    {{ .Date.Format .Site.Params.dateformShort }}
-                    {{ else }}
-                    {{ .Date.Format "Jan 2"}}
-                    {{ end }}
+                <span class="post-date">
+                    <span class="day">
+                        {{ .Date.Format "2"}}
+                    </span>
+                    <span class="month">
+                        {{ .Date.Format "Jan"}}
+                    </span>
                 </span>
                 <span class="post-title">{{.Title}}</span>
                 <a href="{{.Permalink}}">
