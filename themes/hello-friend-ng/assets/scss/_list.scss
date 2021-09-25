@@ -9,6 +9,11 @@
     max-width: 660px;
   }
 
+  @media #{$media-size-phone} {
+    width: 100vw;
+    margin: 0;
+  }
+
   &:not(:last-of-type) {
     // Default
     border-bottom: 1px solid $light-border-color;
@@ -51,7 +56,18 @@
     &-title {
       font-size: 1.2rem;
       margin: 5px 0 5px 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      text-align: start;
+      width: 70%;
+
+      @media #{$media-size-phone} {
+        width: 50%;
+      }
+
     }
+
     &-button {
       text-transform: uppercase;
       padding: 8px 20px 8px 20px;
@@ -116,7 +132,7 @@
     }
 
     &-item {
-      padding: 20px 0px 20px 0px;
+      padding: 20px 10px 20px 0px;
       display: flex;
       justify-content: space-between;
       align-items: baseline;
@@ -165,12 +181,27 @@
       }
     }
 
-    &-day {
-      flex-shrink: 0;
+    &-date {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       margin-left: 1em;
-      font-size: 2em;
+      text-transform: uppercase;
       color: white;
+      flex-shrink: 0;
 
+      .day {
+        font-size: 2em;
+      }
+
+      .month {
+        font-weight: 800;
+      }
+
+      &::after {
+        content: none;
+      }
+  
       @media (prefers-color-scheme: dark) {
         color: white;
       }
@@ -186,6 +217,9 @@
       [data-theme="light"] & {
         color: black;
       }
+
     }
+
+   
   }
 }
