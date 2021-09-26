@@ -1,4 +1,4 @@
-{{ if and (not $.Site.Params.DisableReadOtherPosts) (or .NextInSection .PrevInSection) }}
+{{ if and (not $.Site.Params.DisableReadOtherPosts) (or .PrevInSection) }}
     <div class="pagination">
         Next post:   
         <a href="{{ .PrevInSection.Permalink }}">

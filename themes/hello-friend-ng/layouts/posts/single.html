@@ -1,77 +1,91 @@
 {{ define "main" }}
-  <main class="post">
+  <div class="single-page-grid">
+    <main class="post">
+      <article>
+        <h1 class="post-title">
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+        </h1>
 
-    <article>
-      <h1 class="post-title">
-        <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-      </h1>
+        <h5 class="post-subtitle">
+          <a>By {{ .Params.author.name }} - {{ dateFormat "Monday, Jan 2, 2006" .Date.Local }}</a>
+        </h5>
 
-      <h5 class="post-subtitle">
-        <a>By {{ .Params.author.name }} - {{ dateFormat "Monday, Jan 2, 2006" .Date.Local }}</a>
-      </h5>
+        {{ with .Params.Description }}
+          <div class="post-excerpt">{{ . }}</div>
+        {{ end }}
 
-      {{ with .Params.Description }}
-        <div class="post-excerpt">{{ . }}</div>
-      {{ end }}
+        {{ if .Params.Cover }}
+          <figure class="post-cover">
+            <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
+            
+            {{ if .Params.CoverCaption }}
+              <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
+            {{ end }}
+          </figure>
+        {{ end }}
 
-      {{ if .Params.Cover }}
-        <figure class="post-cover">
-          <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
-          
-          {{ if .Params.CoverCaption }}
-            <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
-          {{ end }}
-        </figure>
-      {{ end }}
+        {{- if .Params.toc }}
+          <hr />
+          <aside id="toc">
+            <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+            {{ .TableOfContents }}
+          </aside>
+          <hr />
+        {{- end }}
 
-      {{- if .Params.toc }}
-        <hr />
-        <aside id="toc">
-          <div class="toc-title">{{ i18n "tableOfContents" }}</div>
-          {{ .TableOfContents }}
-        </aside>
-        <hr />
-      {{- end }}
+        {{ if .Params.Audio }}
+          <div class="post-audio">
+            <audio controls>
+              <source src="{{ .Params.Audio }}">
+            </audio>
+          </div>
+        {{ end }}
 
-      {{ if .Params.Audio }}
-        <div class="post-audio">
-          <audio controls>
-            <source src="{{ .Params.Audio }}">
-          </audio>
+        <div class="post-content">
+          {{ .Content }}
         </div>
-      {{ end }}
+      </article>
 
-      <div class="post-content">
-        {{ .Content }}
+      
+      <hr />
+
+      <div style="display: flex; flex-wrap: wrap;">
+        {{ partial "pagination-single.html" . }}
+        {{- if .Site.Params.EnableSharingButtons }}
+          <div class="sharing-buttons">
+            {{ partial "sharing-buttons.html" . }}
+          </div>
+        {{- end }}
       </div>
-    </article>
 
-    
-    <hr />
+      
 
-    <div style="display: flex; flex-wrap: wrap;">
-      {{ partial "pagination-single.html" . }}
-      {{- if .Site.Params.EnableSharingButtons }}
-        <div class="sharing-buttons">
-          {{ partial "sharing-buttons.html" . }}
-        </div>
-      {{- end }}
-    </div>
-
-    
-
-    {{ if .Site.DisqusShortname }}
-      {{ if not (eq .Params.Comments "false") }}
-        <div id="comments">
-          {{ template "_internal/disqus.html" . }}
-        </div>
+      {{ if .Site.DisqusShortname }}
+        {{ if not (eq .Params.Comments "false") }}
+          <div id="comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
       {{ end }}
-    {{ end }}
 
-    {{ if .Site.Params.Commento.Url }}
-      <script defer src={{ .Site.Params.Commento.Url }}></script>
-      <div id="commento"></div>
-    {{ end }}
+      {{ if .Site.Params.Commento.Url }}
+        <script defer src={{ .Site.Params.Commento.Url }}></script>
+        <div id="commento"></div>
+      {{ end }}
 
-  </main>
+    </main>
+    <div class="post">
+      <div style="background-color: #202020; padding: 24px">
+        <h3 style="border-left: 4px solid #CBA94A; padding-left: 12px; margin-top: 0px;">Categories</h3>
+        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
+        <hr />
+        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
+        <hr />
+        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
+        <hr />
+        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
+        <hr />
+      </div>
+    </main>
+  </div>
 {{ end }}
