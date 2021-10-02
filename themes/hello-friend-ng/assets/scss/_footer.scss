@@ -1,12 +1,12 @@
 .footer {
   padding: 10px 20px;
   flex-grow: 0;
-  color: $light-color-secondary;
+  color: #696969;
   @media #{$media-size-phone} {
     margin-top: 15px;
   }
   [data-theme=dark] & {
-    border-top: 1px solid $dark-border-color;
+    border-top: 1px solid #2f2f2f;
   }
   [data-theme=light] & {
     border-top: 1px solid $light-border-color;
@@ -28,7 +28,8 @@
     flex: 1;
     justify-content: space-between;
     font-size: 1rem;
-    color: $light-color-secondary;
+    color: #696969;
+    letter-spacing: 0.2px;
     @media #{$media-size-tablet} {
       flex-direction: column;
       justify-content: center;

@@ -2,7 +2,7 @@
     <div class="current-locale">
         <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
         <a class="lang1">{{(.Lang)}}</a>
-        <a class="icon">▼</a>
+        <a class="icon">&blacktriangledown;</a>
     </div>
     <div class="locale-list">
         {{ range .Translations}}

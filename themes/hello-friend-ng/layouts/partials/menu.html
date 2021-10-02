@@ -2,8 +2,8 @@
     <ul class="menu__inner">
         {{ range .Site.Menus.main -}}
             {{ if .Children }}
-                <li class="tooltip">
-                    <span>{{ .Name }} <span class="caret">&#9660;</span></span>
+                <li class="menu-tooltip">
+                    <span>{{ .Name }} <span class="caret">&blacktriangledown;</span></span>
                     <div class="tooltip-content">
                       <div class="tooltip-body">
                       {{ range .Children -}}
