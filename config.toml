@@ -247,7 +247,7 @@ disableHugoGeneratorInject = false
       class = "parent"
   [[menu.main]]
     identifier = "press"
-    name       = "Press releases"
+    name       = "Press Releases"
     url        = "press/"
     weight     = 1
     parent     = "news"
@@ -259,7 +259,7 @@ disableHugoGeneratorInject = false
     parent     = "news"
   [[menu.main]]
     identifier = "announcements"
-    name       = "Annoucements"
+    name       = "Announcements"
     url        = "announcements/"
     weight     = 3
     parent     = "news"
