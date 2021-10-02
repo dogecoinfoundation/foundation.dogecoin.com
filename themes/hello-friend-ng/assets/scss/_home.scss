@@ -20,10 +20,11 @@
         font-family: "Montserrat", sans-serif;
 
         h1, h2 {
-          font-size: 97px;
-          line-height: 1.1em;
+          font-size: 91px;
+          line-height: .9em;
           margin: 0px;
           display: block;
+          letter-spacing: -1px;
           @media #{$media-size-phone} {
             font-size: 40px;
           }

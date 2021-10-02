@@ -6,8 +6,11 @@
     text-align: left;
 
     .icon {
-        display: inline-block;  
-        font-size: 12.8px;
+        position:relative;
+        vertical-align: middle;
+        top: -1px;
+        line-height: 0;
+        font-size: 1.5em;
     }
 
     &:hover {
