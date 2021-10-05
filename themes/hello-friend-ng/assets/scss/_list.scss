@@ -9,6 +9,11 @@
     max-width: 660px;
   }
 
+  @media #{$media-size-phone} {
+    width: 100vw;
+    margin: 0;
+  }
+
   &:not(:last-of-type) {
     // Default
     border-bottom: 1px solid $light-border-color;
@@ -16,16 +21,16 @@
     @media (prefers-color-scheme: dark) {
       border-bottom: 1px solid $dark-border-color;
     }
-  
+
     @media (prefers-color-scheme: light) {
       border-bottom: 1px solid $light-border-color;
     }
-  
-    [data-theme=dark] & {
+
+    [data-theme="dark"] & {
       border-bottom: 1px solid $dark-border-color;
     }
-  
-    [data-theme=light] & {
+
+    [data-theme="light"] & {
       border-bottom: 1px solid $light-border-color;
     }
   }
@@ -49,8 +54,70 @@
 
   .post {
     &-title {
-      font-size: 1rem;
+      font-size: 1.2rem;
       margin: 5px 0 5px 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      text-align: start;
+      width: 70%;
+
+      @media #{$media-size-phone} {
+        width: 50%;
+      }
+
+    }
+
+    &-button {
+      text-transform: uppercase;
+      padding: 8px 20px 8px 20px;
+      white-space: nowrap;
+      transition: 0.3s ease;
+
+      border-radius: 20px;
+      @media (prefers-color-scheme: dark) {
+        background-color: none;
+        color: white;
+        border: 2px solid #ffffff;
+
+        &:hover {
+          background-color: white;
+          color: black;
+        }
+      }
+
+      @media (prefers-color-scheme: light) {
+        background-color: white;
+        color: black;
+        border: 2px solid #000000;
+
+        &:hover {
+          background-color: black;
+          color: white;
+        }
+      }
+
+      [data-theme="dark"] & {
+        background-color: none;
+        color: white;
+        border: 2px solid #ffffff;
+
+        &:hover {
+          background-color: white;
+          color: black;
+        }
+      }
+
+      [data-theme="light"] & {
+        background-color: white;
+        color: black;
+        border: 2px solid #000000;
+
+        &:hover {
+          background-color: black;
+          color: white;
+        }
+      }
     }
 
     &-year {
@@ -65,21 +132,94 @@
     }
 
     &-item {
-      border-bottom: 1px grey dashed;
+      padding: 20px 10px 20px 0px;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      transition: 0.3s ease;
+
+      border-bottom: 1px solid $light-border-color;
+
+      @media (prefers-color-scheme: dark) {
+        border-bottom: 1px solid $dark-border-color;
+      }
+
+      @media (prefers-color-scheme: light) {
+        border-bottom: 1px solid $light-border-color;
+      }
+
+      [data-theme="dark"] & {
+        border-bottom: 1px solid $dark-border-color;
+      }
+
+      [data-theme="light"] & {
+        border-bottom: 1px solid $light-border-color;
+      }
 
       a {
-        display: flex;
-        justify-content: space-between;
-        align-items: baseline;
-        padding: 12px 0;
         text-decoration: none;
+      }
+
+      &:hover {
+        background-color: $light-table-color;
+
+        @media (prefers-color-scheme: dark) {
+          background-color: $dark-table-color;
+        }
+
+        @media (prefers-color-scheme: light) {
+          background-color: $light-table-color;
+        }
+
+        [data-theme="dark"] & {
+          background-color: $dark-table-color;
+        }
+
+        [data-theme="light"] & {
+          background-color: $light-table-color;
+        }
       }
     }
 
-    &-day {
-      flex-shrink: 0;
+    &-date {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
       margin-left: 1em;
-      @include dimmed;
+      text-transform: uppercase;
+      color: white;
+      flex-shrink: 0;
+
+      .day {
+        font-size: 2em;
+      }
+
+      .month {
+        font-weight: 800;
+      }
+
+      &::after {
+        content: none;
+      }
+  
+      @media (prefers-color-scheme: dark) {
+        color: white;
+      }
+
+      @media (prefers-color-scheme: light) {
+        color: black;
+      }
+
+      [data-theme="dark"] & {
+        color: white;
+      }
+
+      [data-theme="light"] & {
+        color: black;
+      }
+
     }
+
+   
   }
 }
