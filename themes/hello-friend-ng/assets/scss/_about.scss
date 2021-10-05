@@ -13,7 +13,10 @@ $salmon: #F87B73;
     margin: 0 auto;
     text-align: left;
     margin-bottom: 40px;
-  }
+    @media #{$media-size-phone} {
+      display: block;
+    }
+    }
 
   h2 {
     [data-theme="dark"] & {
@@ -67,7 +70,7 @@ $salmon: #F87B73;
     }
 
     .inner {
-      padding: 15px 0px 85px;
+      padding: 15px 15px 85px;
       width: 100%;
       max-width: $max-width;
       margin: 0 auto;
