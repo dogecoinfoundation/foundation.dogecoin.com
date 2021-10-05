@@ -1,3 +1,8 @@
+$emerald: #6ABEAE;
+$sky: #CAF3FF;
+$mustard: #FFD320;
+$salmon: #F87B73;
+
 .about {
   section {
     display: flex;
@@ -8,79 +13,241 @@
     margin: 0 auto;
     text-align: left;
     margin-bottom: 40px;
-    h2 {
-      font-family: "Montserrat", sans-serif;
-      width: 200px;
-      margin: 0;
-      font-size: 36px;
-      line-height: 1.1em;
-      flex: 4;
-    }
-    .title {
-      flex: 4;
-    }
-    .description {
-      flex: 5;
-    }
   }
+
+  h2 {
+    [data-theme="dark"] & {
+      color: #ffffff;
+    }
+
+    font-family: "Montserrat", sans-serif;
+    width: 200px;
+    margin: 0;
+    font-size: 36px;
+    line-height: 1.1em;
+    flex: 4;
+    display: block;
+  }
+
+  .title {
+    flex: 4;
+  }
+
+  .description {
+    flex: 5;
+  }
+
   .advisors {
     width: 100vw;
+    text-align: left;
+
     [data-theme="dark"] & {
-      background-color: $dark-background;
+      background-color: #202020;
     }
+
     [data-theme="light"] & {
-      background-color: #e3e3e3;
+      background-color: #ececec;
     }
+
     margin: 0px -15px;
+
     .top {
       [data-theme="dark"] & {
         background-color: $dark-background;
       }
+
       [data-theme="light"] & {
         background-color: $light-background;
       }
+
       background-color: white;
       clip-path: ellipse(65% 100% at 40% 0%);
       height: 100px;
       width: 100%;
     }
+
     .inner {
       padding: 15px 0px 85px;
       width: 100%;
       max-width: $max-width;
       margin: 0 auto;
     }
+
     .bottom {
       [data-theme="dark"] & {
         background-color: $dark-background;
       }
+
       [data-theme="light"] & {
         background-color: $light-background;
       }
+
       background-color: white;
       clip-path: ellipse(65% 100% at 40% 100%);
       height: 100px;
       width: 100%;
     }
+
+    .members {
+      width: 100%;
+      margin-top: 30px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      @media #{$media-size-phone} {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      > div {
+        aspect-ratio: 1;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0 15%;
+
+        &:nth-child(2),
+        &:nth-child(4),
+        &:nth-child(5),
+        &:nth-child(7) {
+          [data-theme="dark"] & {
+            background-color: $dark-background;
+          }
+
+          [data-theme="light"] & {
+            background-color: #fff;
+          }
+        }
+
+        img {
+          max-width: initial;
+          width: 260px;
+        }
+
+        @media #{$media-size-phone} {
+          padding: 0 20px;
+          img {
+            width: 100%;
+          }
+          h3 {
+            margin: 0;
+            font-size: 16px;
+          }
+          p {
+            margin: 5px 0 0 0;
+            font-size: 14px;
+          }
+          &:nth-child(1), &:nth-child(3), &:nth-child(5) {
+            margin-bottom: 15px;
+          }
+        }
+
+        h3 {
+          display: inline;
+          font-size: 20px;
+        }
+
+        h3::after {
+          display: block;
+          content: "";
+          width: 60px;
+        }
+
+      }
+
+      > div:nth-child(1) {
+        background-color: $emerald;
+      }
+
+      > div:nth-child(2) {
+        align-items: flex-start;
+        flex-direction: column;
+
+        h3 {
+          color: $emerald;
+        }
+
+        h3::after {
+          border-bottom: 3px solid $emerald;
+        }
+      }
+
+      > div:nth-child(3) {
+        background-color: $sky;
+      }
+
+      > div:nth-child(4) {
+        align-items: flex-start;
+        flex-direction: column;
+
+        h3 {
+          color: $sky;
+        }
+
+        h3::after {
+          border-bottom: 3px solid $sky;
+        }
+      }
+
+      > div:nth-child(6) {
+        background-color: $mustard;
+      }
+
+      > div:nth-child(5) {
+        align-items: flex-start;
+        flex-direction: column;
+
+        h3 {
+          color: $mustard;
+        }
+
+        h3::after {
+          border-bottom: 3px solid $mustard;
+        }
+      }
+
+      > div:nth-child(8) {
+        background-color: $salmon;
+      }
+
+      > div:nth-child(7) {
+        align-items: flex-start;
+        flex-direction: column;
+
+        h3 {
+          color: $salmon;
+        }
+
+        h3::after {
+          border-bottom: 3px solid $salmon;
+        }
+      }
+    }
   }
 
   .board {
+
     .members {
       display: grid;
       grid-template-columns: repeat(5, 1fr);
       column-gap: 15px;
+
+
       .member {
         text-align: center;
+
         [data-theme="dark"] & {
           background: url("/member-dark.png") no-repeat center top;
         }
+
         [data-theme="light"] & {
           background: url("/member-light.png") no-repeat center top;
         }
+
         img {
           width: 150px;
           margin: 0 auto;
         }
+
         h5 {
           display: block;
           font-size: 20px;
@@ -88,19 +255,54 @@
         }
       }
     }
+
     .underline {
       width: 168px;
     }
+
+    @media #{$media-size-phone} {
+      display: none;
+      overflow: hidden;
+      .members {
+        display: flex;
+        width: 50%;
+        margin: 0 auto;
+      }
+    }
   }
+
   .underline {
     width: 177px;
     height: 21px;
     margin: -15px 0px 15px 4px;
+
     [data-theme=dark] & {
       background: #313131;
     }
+
     [data-theme=light] & {
       background: #d3d3d3;
+    }
+  }
+
+  .tweet {
+    border: 1px solid #2f2f2f;
+    text-align: center;
+    max-width: 1170px;
+    margin: 0 auto;
+
+    p {
+      display: block;
+      font-size: 14px;
+      padding: 5px 10px;
+      margin: 0;
+
+      .twitter-follow-button {
+        position: relative;
+        vertical-align: middle;
+        margin-left: 5px;
+        top: -1px;
+      }
     }
   }
 }

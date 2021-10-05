@@ -31,7 +31,9 @@
       text-align: left;
       padding-top: 55px;
       h1 {
-        color: #fff;
+        [data-theme=dark] & {
+          color: #fff;
+        }
         font-family: "Montserrat", sans-serif;
         font-size: 48px;
         line-height: 1.1em;
