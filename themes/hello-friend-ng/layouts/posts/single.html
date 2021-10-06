@@ -77,14 +77,22 @@
     <div class="post">
       <div style="background-color: #202020; padding: 24px">
         <h3 style="border-left: 4px solid #CBA94A; padding-left: 12px; margin-top: 0px;">Categories</h3>
-        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
-        <hr />
-        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
-        <hr />
-        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
-        <hr />
-        <div style="display: flex;"><div style="flex-grow: 1">Press Releases</div> <div>(13)</div> </div>
-        <hr />
+        {{ $pages := .Site.Pages }}
+        {{ range .Site.Menus.main -}}
+            {{ if in .Identifier "news"}}
+                {{ range .Children }}
+                    <div style="display: flex;">
+                        <div style="flex-grow: 1">
+                          <a href="{{ .URL | relLangURL }}" style="text-decoration: none;">{{ .Name }}</a>
+                        </div>
+                        <div>
+                          ({{ len (where $pages "Section" "==" .Identifier) }})
+                        </div>
+                    </div>
+                    <hr />
+                {{ end}}
+            {{ end}}
+        {{ end}}
       </div>
     </main>
   </div>
