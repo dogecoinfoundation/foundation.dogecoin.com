@@ -9,7 +9,7 @@ aliases = ["about-us","board"]
 도지코인 재단은 비영리 단체이며 다음을 제공하고자 한다 :
 
 * 도지코인 가상화폐의 개발 및 변호 지원. 
-* 도지코인 트레이드마크 보호 통하여 남용과 사기 막기.Dogecoin trademark defense to prevent abuse and fraud.
+* 도지코인 트레이드마크 보호 통하여 남용과 사기 막기.
 * 도지코인의 미래를 위한 개발 로드맵과 경영을 제공.
 
 ### 역사
