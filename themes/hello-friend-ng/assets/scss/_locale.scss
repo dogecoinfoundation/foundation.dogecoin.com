@@ -73,8 +73,21 @@
           display: none;
       }
 
+      .flag {
+          font-size: 15px;
+      }
+
+      .icon {
+          font-size: 10px !important;
+      }
+
       .locale {
-        padding-right: 15px;
+        padding-right: 10px;
         min-width: 0;
       }
+
+      .locale-list {
+          margin-right: 10px;
+      }
   }
+
