@@ -62,3 +62,42 @@
     }
   }
 }
+
+.tooltip a[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  font-size: .9em;
+  padding: 5px 10px;
+  border-radius: 2px;
+
+
+  [data-theme="dark"] & {
+    background-color: lighten($dark-background, 6);
+  }
+  [data-theme="light"] & {
+    background-color: darken($light-background, 6);
+  }
+}
+
+.tooltip a[title="Twitter"]:hover::after {
+  left: -15px !important;
+}
+.tooltip a[title="Github"]:hover::after {
+  left: 20px !important;
+}
+.tooltip a[title="Reddit"]:hover::after {
+  left: 45px !important;
+}
+
+@media screen and (max-width: 776px) {
+  .tooltip a[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    font-size: .9em;
+    padding: 2px 5px;
+  }
+}
