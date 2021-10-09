@@ -3,7 +3,7 @@
         <div class="footer__content">
             <div class="footer__content-left">
             {{- with .Site.Params.social }}
-                <div class="social-media-icons">
+                <div class="social-media-icons tooltip">
                     {{ partial "social-icons.html" . }}
                 </div>
             {{- end }}

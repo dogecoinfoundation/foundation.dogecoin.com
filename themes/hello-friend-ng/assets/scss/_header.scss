@@ -65,3 +65,14 @@
   -moz-user-select: none;
   -ms-user-select: none;
 }
+
+.theme-toggle[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: 30px;
+  left: -20px;
+  background-color: lighten($dark-background, 6);
+  font-size: .9em;
+  padding: 8px 15px;
+  border-radius: 2px;
+}
