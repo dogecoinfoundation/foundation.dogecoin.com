@@ -18,7 +18,7 @@ aliases = ["about-us","board"]
 지원을 위하여 설립되었다. 2021년, 재단은 코어 개발팀원, 새로운 팀원 그리고 경험이 
 풍부한 자문원에 의하여 재활성화 되어 앞으로의 10년 동안 도지코인을 성장시킬 준비가 되었다
 
-재단의 운영 원칙을 도지코인 성명서에서 읽을 수 있다 [The Dogecoin Manifesto](/manifesto).
+재단의 운영 원칙을 도지코인 성명서에서 읽을 수 있다 [도지코인 성명서](/manifesto).
 
 ### 이사회
 
@@ -30,7 +30,7 @@ aliases = ["about-us","board"]
 <div style="display: inline-box; width: 150px;">
 <img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
 <h5>Gary Lachance</h5>
-DDP Founder & Dogecoin Community Veteran 
+DDP 설립자 & 도지코인 커뮤니티 베테랑 
 </div>
 
 <div style="display: inline-box; width: 150px;">
@@ -42,13 +42,13 @@ OG Dogecoin Foundation Veteran, Foundation Legal & Governance
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
 <h5>Michi Lumin</h5> 
-Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+도지코인 코어 블록체인 개발자, Foundation Principal Engineer
 </div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
 <h5>Ross Nicoll</h5>
-Dogecoin Core Blockchain Developer
+도지코인 코어 블록체인 개발자
 </div>
 
 <div style="display: inline-box; width: 150px;">
@@ -74,8 +74,8 @@ src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
 
 <div style="display: inline-box; width: 150px;"> <img title='Max
 Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> Dogecoin Core Developer, Dogecoin
-Technical Advisor</div>
+src="/max.jpg"/> <h5>Max Keller</h5> 도지코인 코어 개발자, 도지코인 기술 자문원
+</div>
 
 
 <div style="display: inline-box; width: 150px;"> <img
@@ -86,8 +86,8 @@ Advisor</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Vitalik
 Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Ethereum Founder,
-Blockchain & Crypto Advisor</div>
+src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> 이더리움 창시자,
+블록체인 & 가상화폐 자문원</div>
 
 </div>
 
@@ -95,6 +95,6 @@ Blockchain & Crypto Advisor</div>
 
 --- 
 
-해당 도지(코인) 프로필사진은 다음 유저가 친히 제공해줬다
+해당 도지(코인) 프로필사진은 다음 유저가 친히 제공해줬습니다
 [@dogememegirl](https://twitter.com/Dogememegirl)! 저희가
 좋아하는 만큼 좋안하다면 트위터에서 그녀에게 팔로우 해주세요!
