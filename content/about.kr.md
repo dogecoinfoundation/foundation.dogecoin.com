@@ -54,7 +54,7 @@ OG 도지코인 재단 베테랑, 재단 법률 & 경영
 <div style="display: inline-box; width: 150px;">
 <img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
 <h5>Timothy Stebbing</h5> 
-F/OSS 커뮤니티 지지자 및 재단 Product Lead
+F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 </div>
 
 </div>
