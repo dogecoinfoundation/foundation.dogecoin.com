@@ -36,13 +36,13 @@ DDP 설립자 & 도지코인 커뮤니티 베테랑
 <div style="display: inline-box; width: 150px;">
 <img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
 <h5>Jens Wiechers</h5> 
-OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+OG 도지코인 재단 베테랑, 재단 법률 & 경영
 </div>
 
 <div style="display: inline-box; width: 150px;">
 <img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
 <h5>Michi Lumin</h5> 
-도지코인 코어 블록체인 개발자, Foundation Principal Engineer
+도지코인 코어 블록체인 개발자, 재단 Principle 엔지니어
 </div>
 
 <div style="display: inline-box; width: 150px;">
@@ -54,7 +54,7 @@ OG Dogecoin Foundation Veteran, Foundation Legal & Governance
 <div style="display: inline-box; width: 150px;">
 <img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
 <h5>Timothy Stebbing</h5> 
-F/OSS community advocate and Foundation Product Lead
+F/OSS 커뮤니티 지지자 및 재단 Product Lead
 </div>
 
 </div>
@@ -69,8 +69,8 @@ F/OSS community advocate and Foundation Product Lead
 
 <div style="display: inline-box; width: 150px;"> <img title='Jared
 Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
-- Legal & Financial Advisor</div>
+src="/jared.jpg"/> <h5>Jared Birchall</h5> 일론 머스크를 대표
+- 법률의 & 재정의 자문원</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Max
 Keller' style="margin: auto; max-width:150px;" class="circle"
@@ -81,8 +81,8 @@ src="/max.jpg"/> <h5>Max Keller</h5> 도지코인 코어 개발자, 도지코인
 <div style="display: inline-box; width: 150px;"> <img
 title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
 max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> OG Dogecoin Founder, Community & Memes
-Advisor</div>
+Nakamoto (Billy)</h5> 도지코인 창시자, 커뮤니티 & 밈
+자문원</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Vitalik
 Buterin' style="margin: auto; max-width:150px;" class="circle"
