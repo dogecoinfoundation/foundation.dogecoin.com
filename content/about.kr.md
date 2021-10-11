@@ -69,12 +69,12 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 
 <div style="display: inline-box; width: 150px;"> <img title='Jared
 Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> 일론 머스크를 대표
-- 법률의 & 재정의 자문원</div>
+src="/jared.jpg"/> <h5>Jared Birchall</h5> 일론 머스크 대리
+- 법률 & 재무 자문</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Max
 Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> 도지코인 코어 개발자, 도지코인 기술 자문원
+src="/max.jpg"/> <h5>Max Keller</h5> 도지코인 코어 개발자, 도지코인 기술 자문
 </div>
 
 
@@ -82,12 +82,12 @@ src="/max.jpg"/> <h5>Max Keller</h5> 도지코인 코어 개발자, 도지코인
 title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
 max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
 Nakamoto (Billy)</h5> 도지코인 창시자, 커뮤니티 & 밈
-자문원</div>
+자문</div>
 
 <div style="display: inline-box; width: 150px;"> <img title='Vitalik
 Buterin' style="margin: auto; max-width:150px;" class="circle"
 src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> 이더리움 창시자,
-블록체인 & 가상화폐 자문원</div>
+블록체인 & 가상화폐 자문</div>
 
 </div>
 
