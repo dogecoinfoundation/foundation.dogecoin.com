@@ -19,7 +19,7 @@ tata kelola dan dukungan untuk proyek Dogecoin. Pada tahun 2021 Yayasan telah
 disegarkan kembali oleh anggota tim inti asli bersama dengan wajah-wajah segar dan
 penasihat berpengalaman siap mengembangkan Dogecoin untuk dekade mendatang.
 
-Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/manifesto.id).
+Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/id/manifesto).
 
 ### Dewan
 
@@ -85,7 +85,7 @@ Nakamoto (Billy)</h5> Founder OG Dogecoin, Penasihat Komunitas & Meme</div>
 <div style="display: inline-box; width: 150px;"> <img title='Vitalik
 Buterin' style="margin: auto; max-width:150px;" class="circle"
 src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Founder Ethereum,
-Penasihat Blockchain & Crypto</div>
+Penasihat Blockchain & Kripto</div>
 
 </div>
 
