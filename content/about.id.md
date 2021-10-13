@@ -19,7 +19,7 @@ tata kelola dan dukungan untuk proyek Dogecoin. Pada tahun 2021 Yayasan telah
 disegarkan kembali oleh anggota tim inti asli bersama dengan wajah-wajah segar dan
 penasihat berpengalaman siap mengembangkan Dogecoin untuk dekade mendatang.
 
-Anda dapat membaca tentang prinsip panduan yayasan di [The Dogecoin Manifesto](/manifesto).
+Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/manifesto.id).
 
 ### Dewan
 
