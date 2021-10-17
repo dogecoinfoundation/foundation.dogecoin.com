@@ -5,7 +5,7 @@ date = "2021-08-16"
   name = "Yayasan Dogecoin"
 +++
 
-Dengan sangat gembira hari ini kami mengumumkan pembentukan kembali **Yayasan Dogecoin** *(est 2014),* dengan fokus baru untuk mendukung ekosistem, komunitas Dogecoin, dan mempromosikan masa depan Blockchain Dogecoin.
+Dengan sangat gembira hari ini kami mengumumkan pembentukan kembali **Yayasan Dogecoin** *(sejak 2014),* dengan fokus baru untuk mendukung ekosistem, komunitas Dogecoin, dan mempromosikan masa depan Blockchain Dogecoin.
 
 ### Fokus
 
@@ -15,7 +15,7 @@ Yayasan Dogecoin juga melihat ke masa depan ekosistem Dogecoin yang lebih luas, 
 
 ### Perlindungan Merek Dagang Dogecoin
 
-Selama bertahun-tahun, komunitas Dogecoin terus memikirkan orang-orang terbaik dan berharap semua orang dapat bermain dengan baik dengan nama dan logo. Bagaimanapun juga, Dogecoin adalah milik orang-orang.
+Selama bertahun-tahun, komunitas Dogecoin terus memikirkan orang-orang terbaik dan berharap semua orang dapat bermain dengan baik dengan nama dan logo. Bagaimanapun juga, Dogecoin adalah milik semua kalangan.
 
 Namun, belakangan ini, banyak upaya telah dilakukan untuk mengkooptasi merek 'Dogecoin' di berbagai yurisdiksi, dengan cara yang akan mencegah komunitas dan proyek itu sendiri menggunakannya.
 
