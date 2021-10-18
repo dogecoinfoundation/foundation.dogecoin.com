@@ -8,6 +8,7 @@
     - [GUI](#gui)
     - [Markdown Editor](#markdown-editor)
   - [Update config.toml](#update-configtoml)
+  - [Update langFlags.yaml](#update-langflagsyaml)
   - [Translation](#translation)
   - [Test translation](#test-translation)
   - [Pull Request](#pull-request)
@@ -45,7 +46,12 @@ git checkout -b personal-lang-trans-branch
 
 ## Update config.toml
 
-* Add according language (eg. translated-lang) in [languages] section
+* Add according language (eg. translated-lang) in ```[languages] ``` section
+
+## Update langFlags.yaml
+
+* Open file '```themes/hello-friend-ng/data/langFlags.yaml```'.
+* Add according language (eg. translated-lang) in ```langFlags.yaml```
 
 ## Translation
 
