@@ -46,7 +46,8 @@ git checkout -b personal-lang-trans-branch
 
 ## Update config.toml
 
-* Add according language (eg. translated-lang) in ```[languages] ``` section
+* Open file '```config.toml```' at root path.
+* Add according language (eg. translated-lang) in ```[languages] ``` section.
 
 ## Update langFlags.yaml
 
