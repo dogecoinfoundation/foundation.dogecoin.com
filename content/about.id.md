@@ -54,7 +54,7 @@ Developer Inti Blockchain Dogecoin
 <div style="display: inline-box; width: 150px;">
 <img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
 <h5>Timothy Stebbing</h5> 
-Advocat Komunitas F/OSS and Pimpinan Produk Yayasan
+Advokat Komunitas F/OSS dan Pimpinan Produk Yayasan
 </div>
 
 </div>
