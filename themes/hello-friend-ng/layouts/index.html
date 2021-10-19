@@ -1,24 +1,31 @@
 {{ define "body" }}
-    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+    <body class="home{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
 {{ end }}
 
 {{ define "main" }}
-    <main aria-role="main">
-        <div>
-            {{ if .Site.Params.Portrait.Path }}
-               <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="margin: auto; max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
-            {{ end }}
-
-            <h1>{{ .Site.Title }}</h1>
+    <main class="main">
+        <div class="left">
+            <div class="title">
+                <h1>Dogecoin</h1>
+                <h2>Foundation</h2>
+            </div>
+            <div class="underline"></div>
             {{- with .Site.Params.homeSubtitle }}
-                <p>{{.}}</p>
+                <p class="subtitle">{{.}}</p>
             {{- end }}
-
-            {{- with .Site.Params.social }}
-                <div>
-                    {{ partial "social-icons.html" . }}
-                </div>
-            {{- end }}
+        </div>
+        <div>
+            <div class="doge-container desktop">
+               <img class="kabosu" src="/doge-no-eyes.png" alt="{{ .Site.Params.Portrait.Alt }}">
+                <div class="thought">???</div>
+                <div id="nose"></div>
+                <img id="left-eye" src="/left_eye.png" alt="Left eye" />
+                <img id="right-eye" src="/right_eye.png" alt="Right eye" />
+                <div class="eyes-background rainbow"></div>
+            </div>
+            <div class="doge-container mobile">
+                <img class="kabosu" src="/doge.png" alt="{{ .Site.Params.Portrait.Alt }}">
+            </div>
         </div>
     </main>
 {{ end }}

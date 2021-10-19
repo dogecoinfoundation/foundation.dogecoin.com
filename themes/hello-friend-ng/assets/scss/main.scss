@@ -4,8 +4,8 @@
 /* Main stuff */
 @import "variables";
 @import "mixins";
-@import "fonts";
 @import "buttons";
+@import "tooltip";
 /* Modules */
 @import "header";
 @import "logo";
@@ -17,4 +17,6 @@
 @import "sharing-buttons";
 @import "tables";
 @import "404";
-
+@import "home";
+@import "manifesto";
+@import "about";

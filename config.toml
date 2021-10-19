@@ -234,18 +234,47 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name       = "News"
-    url        = "posts/"
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = 2
   [[menu.main]]
     identifier = "manifesto"
     name       = "Manifesto"
     url        = "manifesto/"
-  [[menu.main]]
-    identifier = "about"
-    name       = "About the Foundation"
-    url        = "about/"
+    weight     = 3
   [[menu.main]]
     identifier = "roadmap"
     name       = "Roadmap"
     url        = "roadmap/"
+    weight     = 4
+  [[menu.main]]
+    identifier = "news"
+    name       = "News"
+    url        = "news/"
+    weight     = 5
+    [menu.main.params]
+      class = "parent"
+  [[menu.main]]
+    identifier = "press"
+    name       = "Press releases"
+    url        = "press/"
+    weight     = 1
+    parent     = "news"
+  [[menu.main]]
+    identifier = "advisories"
+    name       = "Advisories"
+    url        = "advisories/"
+    weight     = 2
+    parent     = "news"
+  [[menu.main]]
+    identifier = "announcements"
+    name       = "Annoucements"
+    url        = "announcements/"
+    weight     = 3
+    parent     = "news"
