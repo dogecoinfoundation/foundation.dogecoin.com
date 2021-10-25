@@ -1,93 +1,98 @@
 .locale {
-    padding-left: 20px; 
-    display: inline-block;
-    text-transform: uppercase;
-    min-width: 113px;
-    text-align: left;
+  display: inline-block;
+  text-transform: uppercase;
+  min-width: 113px;
+  text-align: left;
+  position: relative;
 
-    .icon {
-        position:relative;
-        vertical-align: middle;
-        top: -1px;
+  .arrow-down {
+    display: inline;
+    position: relative;
+    vertical-align: middle;
+    top: -1px;
+    line-height: 0;
+    font-size: 15px;
+  }
+
+  &:hover {
+    cursor: pointer;
+
+    .lang:hover {
+      background-color: $dark-background;
+    }
+
+    .locale-list {
+      display: block;
+      position: absolute;
+      width: 110px;
+      left: -15px;
+
+      .locale-list-body {
+        margin-top: 10px;
+        text-align: left;
+        background-color: lighten($dark-background, 6);
+        padding: 15px 0px;
+      }
+
+      // tooltip arrow
+      &::after {
+        position: absolute;
+        top: 5px;
+        left: 9px;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 8px solid lighten($dark-background, 6);
+        content: " ";
+        @media #{$media-size-phone} {
+          content: initial;
+        }
+        font-size: 0;
         line-height: 0;
-        font-size: 15px;
+        margin-left: 10px;
+        width: 0;
+      }
     }
 
-    &:hover {
-        cursor: pointer;
-
-        .locale-list{
-            background-color: $dark-background-secondary;
-
-            &:before {
-                border-color: transparent $dark-background-secondary transparent transparent;
-            }
-        }
-
-        .lang:hover {
-            background-color: $dark-background;
-        }
-
-        .locale-list{
-            margin-top: 5px;
-            display: block;
-            position: absolute;
-            width: 110px;
-            padding: 10px 0px 10px 0px;
-
-            &::before {
-                content:"";
-                position: absolute;
-                height: 0px;
-                width: 0px;
-                top: -15px;
-                left: 20px; 
-                border-width: 10px;
-                border-style: solid;
-                transform: rotate(90deg);
-            }
-        }
-
-        .locale-list .lang {
-            display: block;
-            text-align: left;
-            padding: 1px 0 1px 10px;
-        }
-        
-        .locale-list a {
-            display: inline-block;
-            padding: 3px;
-            align-items: flex-start;
-            justify-content: left;
-            text-decoration: none;
-        }
+    .locale-list .lang {
+      display: block;
+      text-align: left;
+      padding: 1px 0 1px 10px;
     }
+
+    .locale-list a {
+      display: inline-block;
+      padding: 3px;
+      align-items: flex-start;
+      justify-content: left;
+      text-decoration: none;
+    }
+  }
 }
 
 .locale-list {
-    display: none;
+  display: none;
 }
 
-  @media screen and (max-width: 776px) {
-      .lang1 {
-          display: none;
-      }
-
-      .flag {
-          font-size: 15px;
-      }
-
-      .icon {
-          font-size: 10px !important;
-      }
-
-      .locale {
-        padding-right: 10px;
-        min-width: 0;
-      }
-
-      .locale-list {
-          margin-right: 10px;
-      }
+@media screen and (max-width: 776px) {
+  .lang1 {
+    display: none;
   }
+
+  .flag {
+    font-size: 15px;
+  }
+
+  .icon {
+    font-size: 10px !important;
+  }
+
+  .locale {
+    padding-right: 10px;
+    min-width: 0;
+  }
+
+  .locale-list {
+    margin-right: 10px;
+  }
+}
 

@@ -12,11 +12,13 @@
                     </svg>
                 </span>
             {{ end }}
+            <div class="divider"></div>
             <span class="tooltip">
                 {{- if .Site.Params.EnableThemeToggle }}
                 <span title="Theme toggle" class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
                 {{- end}}
             </span>
+            <div class="divider"></div>
             {{ partial "locale.html" . }}
         </span>
     </span>
