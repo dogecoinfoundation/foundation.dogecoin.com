@@ -137,9 +137,15 @@ Ethereum Founder, Blockchain & Crypto Advisor
 </div>
 
 <div class="tweet">
-
 These WOW doge PFPs were kindly made for us by the totally-amaze
 [@dogememegirl](https://twitter.com/Dogememegirl)! If you love them as
 much as we do give her a follow.
 <a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div style="font-size: small; color: grey;">
+<span style="font-style: italic;">Dogecoin Foundation operating as MadeUpNumbers Ltd, a Registered Company in England & Wales</span><br />
+<span style="font-weight: bold;">Company Number:</span> 13602061<br />
+<span style="font-weight: bold;">Registered Address:</span> C/O Dac Beachcroft Llp,
+25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
