@@ -217,6 +217,21 @@ disableHugoGeneratorInject = false
     weight    = 9
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+  [languages.zh-tw]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 10
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.kr]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 11
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.id]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 12
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
 [menu]
   [[menu.main]]
     identifier = "home"
