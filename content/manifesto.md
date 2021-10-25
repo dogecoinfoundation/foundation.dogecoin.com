@@ -7,8 +7,7 @@ type = "manifesto"
   name = "Dogecoin Foundation"
 +++
 
-We are Dogecoin, the accidental crypto-</br>
-movement that makes people smile.
+We are Dogecoin, the accidental crypto-movement that makes people smile.
 
 We are developing a currency for the people, </br>
 and we strive to do only good everyday.</br>

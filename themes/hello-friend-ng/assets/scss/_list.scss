@@ -1,9 +1,36 @@
 .posts {
   width: 100%;
-  max-width: 800px;
+  max-width: 1170px;
   text-align: left;
   padding: 20px;
   margin: 20px auto;
+  h1 {
+    margin: 0 auto;
+    font-family: "Montserrat", sans-serif;
+    width: 360px;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.1em;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    [data-theme="dark"] & {
+      color: #ffffff;
+    }
+  }
+  .underline {
+    width: 177px;
+    height: 21px;
+    margin: -15px auto 15px;
+
+    [data-theme=dark] & {
+      background: #313131;
+    }
+
+    [data-theme=light] & {
+      background: #d3d3d3;
+    }
+  }
 
   @media #{$media-size-tablet} {
     max-width: 660px;
@@ -76,8 +103,7 @@
 
       border-radius: 20px;
       @media (prefers-color-scheme: dark) {
-        background-color: none;
-        color: white;
+        color: black;
         border: 2px solid #ffffff;
 
         &:hover {
@@ -98,8 +124,7 @@
       }
 
       [data-theme="dark"] & {
-        background-color: none;
-        color: white;
+        color: black;
         border: 2px solid #ffffff;
 
         &:hover {
@@ -131,6 +156,12 @@
       }
     }
 
+    &-item:first-child {
+      border-top: 1px solid $light-border-color;
+      [data-theme="dark"] & {
+        border-top: 1px solid $dark-border-color;
+      }
+    }
     &-item {
       padding: 20px 10px 20px 0px;
       display: flex;
