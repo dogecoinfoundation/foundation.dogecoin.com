@@ -140,7 +140,6 @@ Ethereum Founder, Blockchain & Crypto Advisor
 These WOW doge PFPs were kindly made for us by the totally-amaze
 [@dogememegirl](https://twitter.com/Dogememegirl)! If you love them as
 much as we do give her a follow.
-<<<<<<< HEAD
 <a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 

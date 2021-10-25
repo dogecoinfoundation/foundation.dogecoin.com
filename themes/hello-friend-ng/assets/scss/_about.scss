@@ -22,14 +22,15 @@ $salmon: #F87B73;
     [data-theme="dark"] & {
       color: #ffffff;
     }
-
     font-family: "Montserrat", sans-serif;
-    width: 200px;
+    width: 360px;
     margin: 0;
     font-size: 36px;
+    font-weight: 600;
     line-height: 1.1em;
     flex: 4;
     display: block;
+    text-transform: uppercase;
   }
 
   .title {
@@ -237,7 +238,6 @@ $salmon: #F87B73;
 
       .member {
         text-align: center;
-
         [data-theme="dark"] & {
           background: url("/member-dark.png") no-repeat center top;
         }
@@ -247,14 +247,14 @@ $salmon: #F87B73;
         }
 
         img {
-          width: 150px;
+          width: 120px;
           margin: 0 auto;
         }
 
         h5 {
           display: block;
           font-size: 20px;
-          margin: 0px;
+          margin: 15px 0px 0px 0px;
         }
       }
     }
