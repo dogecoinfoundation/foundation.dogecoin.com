@@ -1,52 +1,99 @@
 {{ define "main" }}
+  <div class="single-page-grid">
     <main class="post">
+      <article>
+        <h1 class="post-title">
+          <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+        </h1>
 
-        <div class="post-info">
-            {{ if .IsTranslated }}
-                {{ i18n "postAvailable" }}
-                {{ range .Translations }}
-                    <a href="{{ .Permalink }}"><span class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
-                {{ end}}
-            {{ end }}
-            </p>
-        </div>
+        <h5 class="post-subtitle">
+          <a>By {{ .Params.author.name }} - {{ dateFormat "Monday, Jan 2, 2006" .Date.Local }}</a>
+        </h5>
 
-        <article>
-            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+        {{ with .Params.Description }}
+          <div class="post-excerpt">{{ . }}</div>
+        {{ end }}
 
-            {{ if .Params.Cover }}
-                <figure class="post-cover">
-                    <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
-                
-                    {{ if .Params.CoverCaption }}
-                        <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
-                    {{ end }}
-                </figure>
-            {{ end }}
+        {{ if .Params.Cover }}
+          <figure class="post-cover">
+            <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
             
-            {{ if .Params.toc }}
-                <hr />
-                <aside id="toc">
-                <div class="toc-title">{{ i18n "tableOfContents" }}</div>
-                    {{ .TableOfContents }}
-                </aside>
-                <hr />
+            {{ if .Params.CoverCaption }}
+              <figcaption class="center">{{ .Params.CoverCaption | markdownify }}</figcaption>
             {{ end }}
+          </figure>
+        {{ end }}
 
-            <div class="post-content">
-                {{ .Content }}
-            </div>
-        </article>
+        {{- if .Params.toc }}
+          <hr />
+          <aside id="toc">
+            <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+            {{ .TableOfContents }}
+          </aside>
+          <hr />
+        {{- end }}
 
-        <hr />
+        {{ if .Params.Audio }}
+          <div class="post-audio">
+            <audio controls>
+              <source src="{{ .Params.Audio }}">
+            </audio>
+          </div>
+        {{ end }}
 
-        <div class="post-info">
-            {{ partial "tags.html" .Params.tags }}
-            {{ partial "categories.html" . }}
+        <div class="post-content">
+          {{ .Content }}
+        </div>
+      </article>
 
-            {{- if .GitInfo }}
-			    <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-git-commit"><circle cx="12" cy="12" r="4"></circle><line x1="1.05" y1="12" x2="7" y2="12"></line><line x1="17.01" y1="12" x2="22.96" y2="12"></line></svg><a href="{{ .Site.Params.gitUrl -}}{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a> @ {{ if .Site.Params.dateformNum }}{{ dateFormat .Site.Params.dateformNum .GitInfo.AuthorDate.Local }}{{ else }}{{ dateFormat "2006-01-02" .GitInfo.AuthorDate.Local }}{{ end }}</p>
-			{{- end }}
-  		</div>
+      
+      <hr />
+
+      <div style="display: flex; flex-wrap: wrap;">
+        {{ partial "pagination-single.html" . }}
+        {{- if .Site.Params.EnableSharingButtons }}
+          <div class="sharing-buttons">
+            {{ partial "sharing-buttons.html" . }}
+          </div>
+        {{- end }}
+      </div>
+
+      
+
+      {{ if .Site.DisqusShortname }}
+        {{ if not (eq .Params.Comments "false") }}
+          <div id="comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+      {{ if .Site.Params.Commento.Url }}
+        <script defer src={{ .Site.Params.Commento.Url }}></script>
+        <div id="commento"></div>
+      {{ end }}
+
     </main>
+    <div class="post">
+      <div style="background-color: #202020; padding: 24px">
+        <h3 style="border-left: 4px solid #CBA94A; padding-left: 12px; margin-top: 0px;">Categories</h3>
+        {{ $pages := .Site.Pages }}
+        {{ range .Site.Menus.main -}}
+            {{ if in .Identifier "news"}}
+                {{ range .Children }}
+                    <div style="display: flex;">
+                        <div style="flex-grow: 1">
+                          <a href="{{ .URL | relLangURL }}" style="text-decoration: none;">{{ .Name }}</a>
+                        </div>
+                        <div>
+                          ({{ len (where $pages "Section" "==" .Identifier) }})
+                        </div>
+                    </div>
+                    <hr />
+                {{ end}}
+            {{ end}}
+        {{ end}}
+      </div>
+    </main>
+  </div>
 {{ end }}
