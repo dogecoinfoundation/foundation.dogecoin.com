@@ -245,3 +245,29 @@
    max-width: 95vw;
  }
 }
+
+
+
+@media (prefers-color-scheme: dark) {
+  .post-categories-bg{
+    background-color: #202020;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .post-categories-bg{
+    background-color: #dfdfdf;
+  }
+}
+
+[data-theme=dark] & {
+  .post-categories-bg{
+    background-color: #202020;
+  }
+}
+
+[data-theme=light] & {
+  .post-categories-bg{
+    background-color: #dfdfdf;
+  }
+}
