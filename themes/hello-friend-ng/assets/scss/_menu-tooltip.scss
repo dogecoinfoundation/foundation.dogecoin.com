@@ -1,0 +1,71 @@
+.menu-tooltip {
+  position: relative;
+  text-align: left;
+  .caret {
+    position:relative;
+    vertical-align: middle;
+    top: -1px;
+    line-height: 0;
+    font-size: 15px;
+    @media #{$media-size-phone} {
+      display: none;
+    }
+  }
+  .tooltip-content {
+    position: absolute;
+    display: none;
+    @media #{$media-size-phone} {
+      position: relative;
+      display: block;
+      margin-top:5px;
+    }
+    .tooltip-body {
+      margin-top: 10px;
+      text-align: left;
+      background-color: lighten($dark-background, 6);
+      padding: 15px 0px;
+      font-size: .9em;
+      @media #{$media-size-phone} {
+        background-color: transparent;
+        margin: 0;
+        padding: 0;
+      }
+      > div {
+        padding: 0px 15px;
+      }
+      a {
+        display: block;
+        width:  100%;
+        padding: 5px 15px;
+        &:hover {
+          background-color: $dark-background;
+          text-decoration: none;
+        }
+      }
+      // tooltip arrow
+      &::after {
+        position: absolute;
+        top: 5px;
+        left: 9px;
+        border-left: 8px solid transparent;
+        border-right: 8px solid transparent;
+        border-bottom: 8px solid lighten($dark-background, 6);
+        content: " ";
+        @media #{$media-size-phone} {
+          content: initial;
+        }
+        font-size: 0;
+        line-height: 0;
+        margin-left: 10px;
+        width: 0;
+      }
+    }
+  }
+
+  &:hover {
+    .tooltip-content {
+      display: block;
+      opacity: 1;
+    }
+  }
+}

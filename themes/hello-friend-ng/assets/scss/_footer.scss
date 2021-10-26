@@ -1,14 +1,21 @@
 .footer {
-  padding: 40px 20px;
+  padding: 10px 20px;
   flex-grow: 0;
-  color: $light-color-secondary;
+  color: #696969;
+  @media #{$media-size-phone} {
+    margin-top: 15px;
+  }
+  [data-theme=dark] & {
+    border-top: 1px solid #2f2f2f;
+  }
+  [data-theme=light] & {
+    border-top: 1px solid $light-border-color;
+  }
 
   &__inner {
     display: flex;
-    align-items: center;
-    justify-content: center;
     margin: 0 auto;
-    width: 760px;
+    width: 1170px;
     max-width: 100%;
 
     @media #{$media-size-tablet} {
@@ -18,25 +25,17 @@
 
   &__content {
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex: 1;
+    justify-content: space-between;
     font-size: 1rem;
-    color: $light-color-secondary;
-
+    color: #696969;
+    letter-spacing: 0.2px;
     @media #{$media-size-tablet} {
       flex-direction: column;
-      margin-top: 10px;
+      justify-content: center;
+      margin: 10px 0px;
     }
 
-    & > *:not(:last-child)::after {
-      content: "•";
-      padding: 0 5px;
-
-      @media #{$media-size-tablet} {
-          content: "";
-          padding: 0;
-      }
-    }
 
     & > *:last-child {
       padding: 0 0px;
@@ -45,5 +44,61 @@
           padding: 0;
       }
     }
+
+    .social-media-icons {
+      margin-right: 5px;
+      svg {
+        width: 16px;
+        height: 16px;
+      }
+    }
+    &-left {
+      display: flex;
+      align-items: center;
+
+      @media #{$media-size-tablet} {
+        flex-direction: column;
+        justify-content: center;
+      }
+    }
+  }
+}
+
+.tooltip a[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  font-size: .9em;
+  padding: 5px 10px;
+  border-radius: 2px;
+
+
+  [data-theme="dark"] & {
+    background-color: lighten($dark-background, 6);
+  }
+  [data-theme="light"] & {
+    background-color: darken($light-background, 6);
+  }
+}
+
+.tooltip a[title="Twitter"]:hover::after {
+  left: -15px !important;
+}
+.tooltip a[title="Github"]:hover::after {
+  left: 20px !important;
+}
+.tooltip a[title="Reddit"]:hover::after {
+  left: 45px !important;
+}
+
+@media screen and (max-width: 776px) {
+  .tooltip a[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+    font-size: .9em;
+    padding: 2px 5px;
   }
 }

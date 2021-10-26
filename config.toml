@@ -202,11 +202,6 @@ disableHugoGeneratorInject = false
     weight    = 6
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.sr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 7
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
   [languages.no]
     subtitle  = "Hello Friend NG Theme"
     weight    = 8
@@ -234,18 +229,47 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name       = "News"
-    url        = "posts/"
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = 2
   [[menu.main]]
     identifier = "manifesto"
     name       = "Manifesto"
     url        = "manifesto/"
+    weight     = 3
+  #[[menu.main]]
+    #identifier = "roadmap"
+    #name       = "Roadmap"
+    #url        = "roadmap/"
+    #weight     = 4
   [[menu.main]]
-    identifier = "about"
-    name       = "About the Foundation"
-    url        = "about/"
+    identifier = "news"
+    name       = "News"
+    url        = "news/"
+    weight     = 5
+    [menu.main.params]
+      class = "parent"
   [[menu.main]]
-    identifier = "roadmap"
-    name       = "Roadmap"
-    url        = "roadmap/"
+    identifier = "press"
+    name       = "Press Releases"
+    url        = "press/"
+    weight     = 1
+    parent     = "news"
+  [[menu.main]]
+    identifier = "advisories"
+    name       = "Advisories"
+    url        = "advisories/"
+    weight     = 2
+    parent     = "news"
+  [[menu.main]]
+    identifier = "announcements"
+    name       = "Announcements"
+    url        = "announcements/"
+    weight     = 3
+    parent     = "news"

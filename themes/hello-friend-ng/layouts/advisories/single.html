@@ -45,34 +45,6 @@
           {{ .Content }}
         </div>
       </article>
-
-      
-      <hr />
-
-      <div style="display: flex; flex-wrap: wrap;">
-        {{ partial "pagination-single.html" . }}
-        {{- if .Site.Params.EnableSharingButtons }}
-          <div class="sharing-buttons">
-            {{ partial "sharing-buttons.html" . }}
-          </div>
-        {{- end }}
-      </div>
-
-      
-
-      {{ if .Site.DisqusShortname }}
-        {{ if not (eq .Params.Comments "false") }}
-          <div id="comments">
-            {{ template "_internal/disqus.html" . }}
-          </div>
-        {{ end }}
-      {{ end }}
-
-      {{ if .Site.Params.Commento.Url }}
-        <script defer src={{ .Site.Params.Commento.Url }}></script>
-        <div id="commento"></div>
-      {{ end }}
-
     </main>
     <div class="post">
       <div style="background-color: #202020; padding: 24px">

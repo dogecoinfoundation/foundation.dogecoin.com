@@ -1,8 +1,8 @@
-<header class="header">
+<header id="header" class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
 
-        <span class="header__right">
+        <nav class="header__right">
             {{ if len .Site.Menus }}
                 {{ partial "menu.html" . }}
                 <span class="menu-trigger">
@@ -12,9 +12,14 @@
                     </svg>
                 </span>
             {{ end }}
-            {{- if .Site.Params.EnableThemeToggle }}
-                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
-            {{- end}}
-        </span>
+            <div class="divider"></div>
+            <span class="tooltip">
+                {{- if .Site.Params.EnableThemeToggle }}
+                <span title="Theme toggle" class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
+                {{- end}}
+            </span>
+            <div class="divider"></div>
+            {{ partial "locale.html" . }}
+        </nav>
     </span>
 </header>

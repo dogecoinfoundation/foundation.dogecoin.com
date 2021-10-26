@@ -2,105 +2,146 @@
 title = "About"
 date = "2014-04-09"
 aliases = ["about-us","board"]
+type = "about"
 [ author ]
   name = "Dogecoin Foundation"
 +++
 
+<section>
+
+<div class="title">
+
+  ## About the foundation
+  <div class="underline"></div>
+</div>
+
+<div class="description">
 The Dogecoin Foundation is a not-for-profit organisation established to provide:
 
-* Support for the Dogecoin crypto-currency through development and advocacy. 
+* Support for the Dogecoin crypto-currency through development and advocacy.
 * Dogecoin trademark defense to prevent abuse and fraud.
 * A roadmap and governance for the future of Dogecoin.
+</div>
+</section>
 
-### History
+<section>
 
-The Foundation was established by members of the Dogecoin team in 2014 to provide 
-governance and support for the Dogecoin project. In 2021 the Foundation has been 
-re-invigorated by members of the original core team along with fresh faces and new 
+<div class="title">
+
+## History
+<div class="underline"></div>
+</div>
+
+<div class="description">
+The Foundation was established by members of the Dogecoin team in 2014 to provide
+governance and support for the Dogecoin project. In 2021 the Foundation has been
+re-invigorated by members of the original core team along with fresh faces and new
 seasoned advisors ready to grow Dogecoin for the decade ahead.
 
 You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
+</div>
+</section>
 
-### Board
+<section class="board">
+  <div>
 
-The Dogecoin Foundation Board meets monthly to discuss issues relating to the 
-Dogecoin project.
+  ## Board
+  <div class="underline"></div>
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
-<div style="display: inline-box; width: 150px;">
-<img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
-<h5>Gary Lachance</h5>
-DDP Founder & Dogecoin Community Veteran 
+  <div class="members">
+  <div class="member">
+  <img title='Bass' src="/gary.png"/>
+  <h5>Gary Lachance</h5>
+  DDP Founder & Dogecoin Community Veteran
+  </div>
+
+  <div class="member">
+  <img title='Keyboard' src="/jens.png"/>
+  <h5>Jens Wiechers</h5>
+  OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+  </div>
+
+  <div class="member">
+  <img title='Lead Vocals, Guitar' src="/michi.png"/>
+  <h5>Michi Lumin</h5>
+  Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+  </div>
+
+  <div class="member">
+  <img title='Lead Guitar, Vocals' src="/ross.png"/>
+  <h5>Ross Nicoll</h5>
+  Dogecoin Core Blockchain Developer
+  </div>
+
+  <div class="member">
+  <img title='Drums' src="/timothy.png"/>
+  <h5>Timothy Stebbing</h5>
+  F/OSS community advocate and Foundation Product Lead
+  </div>
+
+  </div>
+  </div>
+</section>
+
+<div class="advisors">
+<div class="top"></div>
+<div class="inner">
+<div class="title">
+
+## Board Advisors
+<div class="underline"></div>
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
-<h5>Jens Wiechers</h5> 
-OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+<div class="members">
+
+<div>
+<img title='Jared Birchall' src="/jared.png"/>
+</div>
+<div>
+
+### Jared Birchall
+Representing Elon Musk - Legal & Financial Advisor
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
-<h5>Michi Lumin</h5> 
-Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+<div>
+<img title='Billy' src="/billy.png"/>
+</div>
+<div>
+
+### Shibetoshi Nakamoto (Billy)
+OG Dogecoin Founder, Community & Memes Advisor
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
-<h5>Ross Nicoll</h5>
-Dogecoin Core Blockchain Developer
+<div>
+
+### Max Keller
+Dogecoin Core Developer, Dogecoin Technical Advisor
+</div>
+<div>
+<img title='Max' src="/max.png"/>
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
-<h5>Timothy Stebbing</h5> 
-F/OSS community advocate and Foundation Product Lead
+<div>
+
+### Vitalik Buterin
+Ethereum Founder, Blockchain & Crypto Advisor
+</div>
+<div>
+<img title='Vitalik' src="/vitalik.png"/>
 </div>
 
 </div>
-
----
-
-### Board Advisors
-
-The Dogecoin Foundation Advisors provide key insights into particular strategic areas.
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
-
-<div style="display: inline-box; width: 150px;"> <img title='Jared
-Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
-- Legal & Financial Advisor</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Max
-Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> Dogecoin Core Developer, Dogecoin
-Technical Advisor</div>
-
-
-<div style="display: inline-box; width: 150px;"> <img
-title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
-max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> OG Dogecoin Founder, Community & Memes
-Advisor</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Vitalik
-Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Ethereum Founder,
-Blockchain & Crypto Advisor</div>
-
+</div>
+<div class="bottom"></div>
 </div>
 
-</br></br>
-
----
-
+<div class="tweet">
 These WOW doge PFPs were kindly made for us by the totally-amaze
 [@dogememegirl](https://twitter.com/Dogememegirl)! If you love them as
 much as we do give her a follow.
-
----
+<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <div style="font-size: small; color: grey;">
 <span style="font-style: italic;">Dogecoin Foundation operating as MadeUpNumbers Ltd, a Registered Company in England & Wales</span><br />

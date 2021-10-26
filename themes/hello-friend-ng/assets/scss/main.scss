@@ -4,12 +4,13 @@
 /* Main stuff */
 @import "variables";
 @import "mixins";
-@import "fonts";
 @import "buttons";
+@import "menu-tooltip";
 /* Modules */
 @import "header";
 @import "logo";
 @import "menu";
+@import "locale";
 @import "main";
 @import "list";
 @import "single";
@@ -17,4 +18,6 @@
 @import "sharing-buttons";
 @import "tables";
 @import "404";
-
+@import "home";
+@import "manifesto";
+@import "about";

@@ -34,12 +34,15 @@
     justify-content: flex-start;
     max-width: 100%;
     margin: 0 auto;
-    padding: 0 15px;
     font-size: 1rem;
     list-style: none;
 
+
     li {
       margin: 0 12px;
+      &:last-child {
+      margin-right: 0;
+      }
     }
 
     @media #{$media-size-phone} {
