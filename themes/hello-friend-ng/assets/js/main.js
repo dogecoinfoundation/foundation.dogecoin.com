@@ -10,8 +10,8 @@
     const themeToggle = document.querySelector(".theme-toggle");
     const chosenTheme =
         window.localStorage && window.localStorage.getItem("theme");
-    const chosenThemeIsDark = chosenTheme == "dark";
-    const chosenThemeIsLight = chosenTheme == "light";
+    let chosenThemeIsDark = chosenTheme == "dark";
+    let chosenThemeIsLight = chosenTheme == "light";
     const header = document.getElementById("header");
     const doge = document.querySelector(".kabosu");
     const logo = document.querySelector(".logo");
@@ -28,8 +28,12 @@
             document.documentElement.setAttribute("data-theme", "light");
         } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
             document.documentElement.setAttribute("data-theme", "dark");
+            localStorage.setItem("theme", "dark");
+            chosenThemeIsDark = true
         } else {
             document.documentElement.setAttribute("data-theme", "light");
+            localStorage.setItem("theme", "light");
+            chosenThemeIsLight = true
         }
     }
 
@@ -61,9 +65,8 @@
     }
 
     // Cycle the logo images
-    console.log(logo)
-    window.setInterval( () => {
-       logo.classList.toggle("coin")
+    window.setInterval(() => {
+        logo.classList.toggle("coin")
     }, 5000)
 
 
@@ -85,7 +88,7 @@
 
         var count = 200;
         var defaults = {
-            origin: { x: 0.8 }
+            origin: {x: 0.8}
         };
 
         function fire(particleRatio, opts) {
