@@ -2,17 +2,17 @@
     <div class="footer__inner">
         <div class="footer__content">
             <div class="footer__content-left">
-            {{- with .Site.Params.social }}
+                {{- with .Site.Params.social }}
                 <div class="social-media-icons tooltip">
                     {{ partial "social-icons.html" . }}
                 </div>
-            {{- end }}
-            <div>
-                © 2014-{{ now.Year }} Dogecoin Foundation |&nbsp;<a href="https://dogecoin.com">Dogecoin.com</a>
+                {{- end }}
+                <div>
+                    © 2014-{{ now.Year }} Dogecoin Foundation |&nbsp;<a href="https://dogecoin.com" target="_blank" rel="nofollow noopener noreferer">Dogecoin.com</a>
+                </div>
             </div>
-            </div>
             <div>
-                Powered by Hugo | <span>Theme made with ❤ by <a href="https://github.com/rhazdon">Djordje Atlialp</a></span>
+                Website by Belle, CB, Ella, Florian, Sam | <span>Theme by <a href="https://github.com/rhazdon" target="_blank" rel="nofollow noopener noreferer">Djordje Atlialp</a></span>
             </div>
         </div>
     </div>
