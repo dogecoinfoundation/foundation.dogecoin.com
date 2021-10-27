@@ -260,13 +260,13 @@
   }
 }
 
-[data-theme=dark] & {
+[data-theme=dark] {
   .post-categories-bg{
     background-color: #202020;
   }
 }
 
-[data-theme=light] & {
+[data-theme=light] {
   .post-categories-bg{
     background-color: #dfdfdf;
   }
