@@ -49,12 +49,19 @@
 
         <hr/>
 
-        <div style="display: flex; flex-wrap: wrap;">
+        <div style="display: grid; grid-template-columns: 1fr 1fr;">
             {{ partial "pagination-single.html" . }}
             {{- if .Site.Params.EnableSharingButtons }}
-            <div class="sharing-buttons">
-                {{ partial "sharing-buttons.html" . }}
-            </div>
+                {{ if and (not $.Site.Params.DisableReadOtherPosts) (or .PrevInSection) }}
+                <div class="sharing-buttons">
+                    {{ partial "sharing-buttons.html" . }}
+                </div>
+                {{ else }}
+                <div class="sharing-buttons" style="justify-content: flex-start; align-items: center;">
+                    Share:
+                    {{ partial "sharing-buttons.html" . }}
+                </div>
+                {{- end }}
             {{- end }}
         </div>
 
