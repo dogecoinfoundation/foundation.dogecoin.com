@@ -1,17 +1,18 @@
-+++
-title = "About"
++++ title = "About"
 date = "2014-04-09"
 aliases = ["about-us","board"]
 type = "about"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
 
 <section>
+<div class="left">
 
 <div class="title">
 
-  ## About the foundation
+## About the foundation
+
   <div class="underline"></div>
 </div>
 
@@ -21,14 +22,13 @@ The Dogecoin Foundation is a not-for-profit organisation established to provide:
 * Support for the Dogecoin crypto-currency through development and advocacy.
 * Dogecoin trademark defense to prevent abuse and fraud.
 * A roadmap and governance for the future of Dogecoin.
-</div>
-</section>
 
-<section>
+</div>
 
 <div class="title">
 
 ## History
+
 <div class="underline"></div>
 </div>
 
@@ -40,12 +40,18 @@ seasoned advisors ready to grow Dogecoin for the decade ahead.
 
 You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
 </div>
+</div>
+<div class="right">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
 </section>
 
 <section class="board">
   <div>
 
-  ## Board
+## Board
+
   <div class="underline"></div>
 
 
@@ -90,19 +96,11 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 <div class="title">
 
 ## Board Advisors
+
 <div class="underline"></div>
 </div>
 
 <div class="members">
-
-<div>
-<img title='Jared Birchall' src="/jared.png"/>
-</div>
-<div>
-
-### Jared Birchall
-Representing Elon Musk - Legal & Financial Advisor
-</div>
 
 <div>
 <img title='Billy' src="/billy.png"/>
@@ -110,21 +108,24 @@ Representing Elon Musk - Legal & Financial Advisor
 <div>
 
 ### Shibetoshi Nakamoto (Billy)
+
 OG Dogecoin Founder, Community & Memes Advisor
 </div>
 
 <div>
-
-### Max Keller
-Dogecoin Core Developer, Dogecoin Technical Advisor
+<img title='Max' src="/max.png"/>
 </div>
 <div>
-<img title='Max' src="/max.png"/>
+
+### Max Keller
+
+Dogecoin Core Developer, Dogecoin Technical Advisor
 </div>
 
 <div>
 
 ### Vitalik Buterin
+
 Ethereum Founder, Blockchain & Crypto Advisor
 </div>
 <div>
@@ -136,16 +137,13 @@ Ethereum Founder, Blockchain & Crypto Advisor
 <div class="bottom"></div>
 </div>
 
+<div class="company">
+Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
+Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+</div>
 <div class="tweet">
 These WOW doge PFPs were kindly made for us by the totally-amaze
-[@dogememegirl](https://twitter.com/Dogememegirl)! If you love them as
+<a href="https://twitter.com/Dogememegirl">@dogememegirl</a> If you love them as
 much as we do give her a follow.
 <a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<div style="font-size: small; color: grey;">
-<span style="font-style: italic;">Dogecoin Foundation operating as MadeUpNumbers Ltd, a Registered Company in England & Wales</span><br />
-<span style="font-weight: bold;">Company Number:</span> 13602061<br />
-<span style="font-weight: bold;">Registered Address:</span> C/O Dac Beachcroft Llp,
-25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>

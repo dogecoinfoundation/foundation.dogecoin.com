@@ -19,6 +19,9 @@
     opacity: .2;
     margin: 0 15px;
     background: #ACACAC;
+    @media #{$media-size-phone} {
+      margin: 0 5px;
+    }
   }
 
   &__right {

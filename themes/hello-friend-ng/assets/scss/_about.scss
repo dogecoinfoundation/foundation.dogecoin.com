@@ -16,12 +16,39 @@ $salmon: #F87B73;
     @media #{$media-size-phone} {
       display: block;
     }
+  }
+
+  .left {
+    flex: 3;
+  }
+
+  .right {
+    flex: 2;
+
+    [data-theme="light"] & {
+      .dogegoin-dark {
+        display: none;
+      }
     }
+
+    [data-theme="dark"] & {
+      .dogegoin-light {
+        display: none;
+      }
+    }
+
+    @media #{$media-size-phone} {
+      .dogegoin-light, .dogegoin-dark {
+        display: none;
+      }
+    }
+  }
 
   h2 {
     [data-theme="dark"] & {
       color: #ffffff;
     }
+
     font-family: "Montserrat", sans-serif;
     width: 360px;
     margin: 0;
@@ -238,6 +265,7 @@ $salmon: #F87B73;
 
       .member {
         text-align: center;
+
         [data-theme="dark"] & {
           background: url("/member-dark.png") no-repeat center top;
         }
@@ -248,7 +276,7 @@ $salmon: #F87B73;
 
         img {
           width: 120px;
-          margin: 0 auto;
+          margin: 5px auto;
         }
 
         h5 {
@@ -288,24 +316,25 @@ $salmon: #F87B73;
     }
   }
 
+  .company {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+
   .tweet {
     border: 1px solid #2f2f2f;
     text-align: center;
     max-width: 1170px;
     margin: 0 auto;
+    display: block;
+    font-size: 14px;
+    padding: 10px 15px;
 
-    p {
-      display: block;
-      font-size: 14px;
-      padding: 5px 10px;
-      margin: 0;
-
-      .twitter-follow-button {
-        position: relative;
-        vertical-align: middle;
-        margin-left: 5px;
-        top: -1px;
-      }
+    .twitter-follow-button {
+      position: relative;
+      vertical-align: middle;
+      margin-left: 5px;
+      top: -1px;
     }
   }
 }
