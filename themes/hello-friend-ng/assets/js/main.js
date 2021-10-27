@@ -14,6 +14,7 @@
     const chosenThemeIsLight = chosenTheme == "light";
     const header = document.getElementById("header");
     const doge = document.querySelector(".kabosu");
+    const logo = document.querySelector(".logo");
     const thought = document.querySelector(".thought");
     const nose = document.getElementById("nose");
     const leftEye = document.getElementById("left-eye");
@@ -58,6 +59,13 @@
     } else {
         localStorage.removeItem("theme");
     }
+
+    // Cycle the logo images
+    console.log(logo)
+    window.setInterval( () => {
+       logo.classList.toggle("coin")
+    }, 5000)
+
 
     // Shrink the navbar when scrolling
     if (header) {
