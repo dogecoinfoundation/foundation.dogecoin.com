@@ -109,7 +109,8 @@
 }
 
 .pagination {
-  margin-top: 20px;
+  margin-top: 4px;
+  
 
   &__title {
     display: flex;
@@ -229,5 +230,44 @@
 
   &.previous .button__icon {
     margin-right: 8px;
+  }
+}
+
+@media screen and (min-width: 700px) {
+ .single-page-grid {
+   display: grid; 
+   grid-template-columns: 2fr 1fr;
+ }
+}
+
+@media screen and (max-width: 700px) {
+ .single-page-grid {
+   max-width: 95vw;
+ }
+}
+
+
+
+@media (prefers-color-scheme: dark) {
+  .post-categories-bg{
+    background-color: #202020;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .post-categories-bg{
+    background-color: #dfdfdf;
+  }
+}
+
+[data-theme=dark] {
+  .post-categories-bg{
+    background-color: #202020;
+  }
+}
+
+[data-theme=light] {
+  .post-categories-bg{
+    background-color: #dfdfdf;
   }
 }
