@@ -59,7 +59,7 @@
         localStorage.removeItem("theme");
     }
 
-    // Shring the navbar when scrolling
+    // Shrink the navbar when scrolling
     if (header) {
         window.addEventListener("scroll", () => {
             if (window.scrollY > 10) {
@@ -70,16 +70,46 @@
         });
     }
 
+    //Handle the doge eye animations plus click on the nose
     if (doge) {
         let leftEyeX = 0
         let rightEyeX = 0
 
+        var count = 200;
+        var defaults = {
+            origin: { x: 0.8 }
+        };
+
+        function fire(particleRatio, opts) {
+            confetti(Object.assign({}, defaults, opts, {
+                particleCount: Math.floor(count * particleRatio)
+            }));
+        }
+
         nose.addEventListener("mousedown", () => {
-            if (!document.body.classList.contains("armageddon")) {
-                document.body.classList.add("armageddon");
-                setTimeout(() => {
-                    document.body.classList.remove("armageddon");
-                }, 5000);
+            if (confetti) {
+                fire(0.25, {
+                    spread: 26,
+                    startVelocity: 55,
+                });
+                fire(0.2, {
+                    spread: 60,
+                });
+                fire(0.35, {
+                    spread: 100,
+                    decay: 0.91,
+                    scalar: 0.8
+                });
+                fire(0.1, {
+                    spread: 120,
+                    startVelocity: 25,
+                    decay: 0.92,
+                    scalar: 1.2
+                });
+                fire(0.1, {
+                    spread: 120,
+                    startVelocity: 45,
+                });
             }
         });
 
