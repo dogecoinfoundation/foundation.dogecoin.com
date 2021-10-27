@@ -58,6 +58,9 @@ $salmon: #F87B73;
     flex: 4;
     display: block;
     text-transform: uppercase;
+    @media #{$media-size-phone} {
+      width: auto;
+    }
   }
 
   .title {
