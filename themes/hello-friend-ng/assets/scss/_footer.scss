@@ -47,6 +47,8 @@
 
     .social-media-icons {
       margin-right: 5px;
+      position: relative;
+
       svg {
         width: 16px;
         height: 16px;
@@ -67,12 +69,12 @@
 .tooltip a[title]:hover::after {
   content: attr(title);
   position: absolute;
-  bottom: 30px;
-  left: 0;
   font-size: .9em;
   padding: 5px 10px;
   border-radius: 2px;
-
+  width: fit-content;
+  left: -10px;
+  bottom: calc(70px - 3vw);
 
   [data-theme="dark"] & {
     background-color: lighten($dark-background, 6);
@@ -82,11 +84,8 @@
   }
 }
 
-.tooltip a[title="Twitter"]:hover::after {
-  left: -15px !important;
-}
 .tooltip a[title="Github"]:hover::after {
-  left: 20px !important;
+  left: 10px !important;
 }
 .tooltip a[title="Reddit"]:hover::after {
   left: 45px !important;
@@ -96,9 +95,9 @@
   .tooltip a[title]:hover::after {
     content: attr(title);
     position: absolute;
-    bottom: 40px;
-    left: 0;
+    bottom: 30px;
     font-size: .9em;
     padding: 2px 5px;
+    left: -10px;
   }
 }
