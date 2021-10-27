@@ -1,20 +1,25 @@
 <nav class="menu">
     <ul class="menu__inner">
+        {{ $pages := .Site.Pages }}
         {{ range .Site.Menus.main -}}
-            {{ if .Children }}
-                <li class="menu-tooltip">
-                    <span>{{ .Name }} <span class="caret">&blacktriangledown;</span></span>
-                    <div class="tooltip-content">
-                      <div class="tooltip-body">
-                      {{ range .Children -}}
-                        <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-                      {{- end }}
-                      </div>
-                    </div>
-                </li>
-            {{ else }}
-                <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-            {{ end }}
+        {{ if .Children }}
+        <li class="menu-tooltip">
+            <span>{{ .Name }} <span class="caret">&blacktriangledown;</span></span>
+            <div class="tooltip-content">
+                <div class="tooltip-body">
+                    {{ range .Children -}}
+                    {{ $pageCollection := where $pages "Section" "==" .Identifier }}
+                    {{ $pageCount := len $pageCollection }}
+                    {{ if gt $pageCount 0}}
+                    <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+                    {{- end }}
+                    {{- end }}
+                </div>
+            </div>
+        </li>
+        {{ else }}
+        <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+        {{ end }}
         {{- end }}
     </ul>
 </nav>
