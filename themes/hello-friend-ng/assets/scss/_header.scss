@@ -20,7 +20,7 @@
     margin: 0 15px;
     background: #ACACAC;
     @media #{$media-size-phone} {
-      display: none;
+      margin: 0 5px;
     }
   }
 
