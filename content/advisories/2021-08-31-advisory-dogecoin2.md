@@ -1,6 +1,6 @@
 
 +++
-title = "Advisory: Statement Concerning the 'Dogecoin 2.0' crypto project"
+title = "Statement Concerning the 'Dogecoin 2.0' crypto project"
 date = "2021-08-31"
 [ author ]
   name = "Dogecoin Foundation"

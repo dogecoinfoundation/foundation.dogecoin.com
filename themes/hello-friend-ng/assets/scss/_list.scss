@@ -90,7 +90,12 @@
       width: 70%;
 
       @media #{$media-size-phone} {
-        width: 50%;
+        width: 80%;
+        overflow: auto;
+        white-space: initial;
+        align-self: flex-start;
+        margin-top: 2px;
+        font-size: 1.1rem;
       }
 
     }
@@ -191,6 +196,16 @@
 
       a {
         text-decoration: none;
+        @media #{$media-size-phone} {
+          display: flex;
+          justify-content: flex-end;
+          width: 100%;
+          margin-top: 15px;
+        }
+      }
+
+      @media #{$media-size-phone} {
+        flex-wrap: wrap;
       }
 
       &:hover {

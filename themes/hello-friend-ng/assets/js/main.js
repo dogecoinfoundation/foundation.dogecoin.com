@@ -26,14 +26,14 @@
             document.documentElement.setAttribute("data-theme", "dark");
         } else if (chosenThemeIsLight) {
             document.documentElement.setAttribute("data-theme", "light");
-        } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-            document.documentElement.setAttribute("data-theme", "dark");
-            localStorage.setItem("theme", "dark");
-            chosenThemeIsDark = true
-        } else {
+        } else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
             document.documentElement.setAttribute("data-theme", "light");
             localStorage.setItem("theme", "light");
             chosenThemeIsLight = true
+        } else {
+            document.documentElement.setAttribute("data-theme", "dark");
+            localStorage.setItem("theme", "dark");
+            chosenThemeIsDark = true
         }
     }
 
