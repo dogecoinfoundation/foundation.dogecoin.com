@@ -1,5 +1,6 @@
 $emerald: #6ABEAE;
 $sky: #CAF3FF;
+$skyText: #85cadf;
 $mustard: #FFD320;
 $salmon: #F87B73;
 
@@ -222,11 +223,11 @@ $salmon: #F87B73;
         flex-direction: column;
 
         h3 {
-          color: $sky;
+          color: $skyText;
         }
 
         h3::after {
-          border-bottom: 3px solid $sky;
+          border-bottom: 3px solid $skyText;
         }
       }
 
