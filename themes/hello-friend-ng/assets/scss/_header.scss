@@ -82,7 +82,7 @@
 .theme-toggle[title]:hover::after {
   content: attr(title);
   position: absolute;
-  top: 8vh;
+  bottom: -15px;
   background-color: lighten($dark-background, 6);
   font-size: .9em;
   padding: 8px 15px;
