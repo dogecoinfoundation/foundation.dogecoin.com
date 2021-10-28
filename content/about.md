@@ -6,7 +6,7 @@ type = "about"
 name = "Dogecoin Foundation"
 +++
 
-<section>
+<section class="presentation">
 <div class="left">
 
 <div class="title">
@@ -35,7 +35,7 @@ The Dogecoin Foundation is a not-for-profit organisation established to provide:
 <div class="description">
 The Foundation was established by members of the Dogecoin team in 2014 to provide
 governance and support for the Dogecoin project. In 2021 the Foundation has been
-re-invigorated by members of the original core team along with fresh faces and new
+re invigorated by members of the original core team along with fresh faces and new
 seasoned advisors ready to grow Dogecoin for the decade ahead.
 
 You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
