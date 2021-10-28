@@ -4,15 +4,14 @@ $mustard: #FFD320;
 $salmon: #F87B73;
 
 .about {
-  section {
+  .presentation {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
     width: 100%;
     max-width: $max-width;
-    margin: 0 auto;
+    margin: 60px auto 40px;
     text-align: left;
-    margin-bottom: 40px;
     @media #{$media-size-phone} {
       display: block;
     }
@@ -52,7 +51,7 @@ $salmon: #F87B73;
     font-family: "Montserrat", sans-serif;
     width: 360px;
     margin: 0;
-    font-size: 36px;
+    font-size: 32px;
     font-weight: 600;
     line-height: 1.1em;
     flex: 4;
@@ -63,12 +62,8 @@ $salmon: #F87B73;
     }
   }
 
-  .title {
-    flex: 4;
-  }
-
   .description {
-    flex: 5;
+    text-align: justify;
   }
 
   .advisors {
@@ -101,7 +96,7 @@ $salmon: #F87B73;
     }
 
     .inner {
-      padding: 15px 15px 85px;
+      padding: 60px 15px 85px;
       width: 100%;
       max-width: $max-width;
       margin: 0 auto;
@@ -259,6 +254,9 @@ $salmon: #F87B73;
   }
 
   .board {
+    max-width: $max-width;
+    margin: 0px auto;
+    text-align: left;
 
     .members {
       display: grid;

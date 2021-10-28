@@ -10,16 +10,27 @@
     width: 0;
     height: 0;
   }
+
+  .logo-doge {
+    @media #{$media-size-phone} {
+      width: 90%;
+    }
+  }
+
   &.coin {
     .logo-doge {
       opacity: 0;
       width: 0;
       height: 0;
     }
+
     .logo-coin {
       opacity: 1;
       width: auto;
       height: auto;
+      @media #{$media-size-phone} {
+        width: 90%;
+      }
     }
 
   }
@@ -48,14 +59,20 @@
 
   @media (prefers-reduced-motion: reduce) {
     &__cursor {
-        animation: none;
+      animation: none;
     }
   }
 
 }
 
 @keyframes cursor {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 0; }
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
