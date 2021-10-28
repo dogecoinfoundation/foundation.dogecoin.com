@@ -15,10 +15,15 @@ $salmon: #F87B73;
     @media #{$media-size-phone} {
       display: block;
     }
+
   }
 
   .left {
     flex: 3;
+
+    #history {
+      margin-top: 32px;
+    }
   }
 
   .right {
@@ -43,13 +48,20 @@ $salmon: #F87B73;
     }
   }
 
+  .mobile-logos {
+    display: none;
+    @media #{$media-size-phone} {
+      display: block;
+    }
+  }
+
   h2 {
     [data-theme="dark"] & {
       color: #ffffff;
     }
 
     font-family: "Montserrat", sans-serif;
-    width: 360px;
+    max-width: 460px;
     margin: 0;
     font-size: 32px;
     font-weight: 600;

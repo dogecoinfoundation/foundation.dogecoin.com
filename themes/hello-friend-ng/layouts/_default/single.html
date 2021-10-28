@@ -49,7 +49,7 @@
 
         <hr/>
 
-        <div style="display: grid; grid-template-columns: 1fr 1fr;">
+        <div style="display: flex;">
             {{ partial "pagination-single.html" . }}
             {{- if .Site.Params.EnableSharingButtons }}
                 {{ if and (not $.Site.Params.DisableReadOtherPosts) (or .PrevInSection) }}
@@ -87,7 +87,9 @@
             {{ range .Site.Menus.main -}}
             {{ if in .Identifier "news"}}
             {{ range .Children }}
-            {{ $pageCollection := where $pages "Section" "==" .Identifier }}
+            {{ $sectionPages := where $pages "Section" "==" .Identifier }}
+            {{ $pagesKind := where $pages "Kind" "==" "page" }}
+            {{ $pageCollection := $sectionPages | intersect $pagesKind }}
             {{ $pageCount := len $pageCollection }}
             {{ if gt $pageCount 0}}
             <div style="display: flex;">
