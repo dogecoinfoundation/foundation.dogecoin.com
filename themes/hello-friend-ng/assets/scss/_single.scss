@@ -7,6 +7,9 @@
   @media #{$media-size-tablet} {
     max-width: 600px;
   }
+  p {
+    text-align: justify;
+  }
 
   &-date {
     &:after {
@@ -256,7 +259,7 @@
 
 @media (prefers-color-scheme: light) {
   .post-categories-bg{
-    background-color: #dfdfdf;
+    background-color: #f1f1f1;
   }
 }
 
@@ -268,6 +271,6 @@
 
 [data-theme=light] {
   .post-categories-bg{
-    background-color: #dfdfdf;
+    background-color: #f1f1f1;
   }
 }
