@@ -13,7 +13,7 @@
 
   .logo-doge {
     @media #{$media-size-phone} {
-      max-width: 200px;
+      max-width: 150px;
     }
   }
 
@@ -29,7 +29,7 @@
       width: auto;
       height: auto;
       @media #{$media-size-phone} {
-        max-width: 200px;
+        max-width: 150px;
       }
     }
 
