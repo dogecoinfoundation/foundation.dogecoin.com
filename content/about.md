@@ -100,12 +100,21 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 <div class="inner">
 <div class="title">
 
-## Board Advisors
+## Advisors
 
 <div class="underline"></div>
 </div>
 
 <div class="members">
+
+<div>
+<img title='Jared Birchall' src="/jared.png"/>
+</div>
+<div>
+
+### Jared Birchall
+Representing Elon Musk - Legal & Financial Advisor
+</div>
 
 <div>
 <img title='Billy' src="/billy.png"/>
@@ -118,13 +127,13 @@ OG Dogecoin Founder, Community & Memes Advisor
 </div>
 
 <div>
-<img title='Max' src="/max.png"/>
-</div>
-<div>
 
 ### Max Keller
 
 Dogecoin Core Developer, Dogecoin Technical Advisor
+</div>
+<div>
+<img title='Max' src="/max.png"/>
 </div>
 
 <div>
