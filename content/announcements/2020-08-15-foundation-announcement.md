@@ -1,5 +1,5 @@
 +++
-title = "Announcement: Re-establishing the Dogecoin Foundation"
+title = "Re-establishing the Dogecoin Foundation"
 date = "2021-08-16"
 [ author ]
   name = "Dogecoin Foundation"
