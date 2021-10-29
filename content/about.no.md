@@ -2,10 +2,22 @@
 title = "Om oss"
 date = "2014-04-09"
 aliases = ["about-us","board"]
+type = "about"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
 
+<section class="presentation">
+<div class="left">
+
+<div class="title">
+
+## Om oss
+
+  <div class="underline"></div>
+</div>
+
+<div class="description">
 Dogecoinstiftelsen er en ideell organisasjon som er stiftet for :
 
 * å være en forkjemper for kryptovalutaen Dogecoin
@@ -13,87 +25,139 @@ Dogecoinstiftelsen er en ideell organisasjon som er stiftet for :
 * å beskytte varemerket Dogecoin og jobbe aktivt for å forhindre misbruk og svindel
 * å lage en plan for fremtidig styring og utvikling av Dogecoin
 
-### Historien
+</div>
 
+<div class="mobile-logos">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
+
+<div class="title">
+
+## Historien
+
+<div class="underline"></div>
+</div>
+
+<div class="description">
 Stiftelsen ble etablert i 2014 av utviklerne i Dogecoin for å støtte og videreutvikle prosjektet.
 I 2021 fikk stiftelsen et friskt pust og et tilskudd av nye krefter. Noen av de opprinnelige utviklerene, en gruppe nye utviklere samt erfarne rådgivere, er klare for å fremme utvikling og vekst av Dogecoin i tiåret som kommer.
 
-Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/manifesto).
+Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/no/manifesto).
+</div>
+</div>
+<div class="right">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
+</section>
 
-### Styret
+<section class="board">
+  <div>
 
-Styret i stiftelsen møtes månedlig for å diskutere spørsmål relatert til prosjektet.
+## Styret
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
+  <div class="underline"></div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
-<h5>Gary Lachance</h5>
-DDP Founder & Dogecoin Community Veteran 
+
+  <div class="members">
+  <div class="member">
+  <img title='Bass' src="/gary.png"/>
+  <h5>Gary Lachance</h5>
+  DDP Founder & Dogecoin Community Veteran
+  </div>
+
+  <div class="member">
+  <img title='Keyboard' src="/jens.png"/>
+  <h5>Jens Wiechers</h5>
+  OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+  </div>
+
+  <div class="member">
+  <img title='Lead Vocals, Guitar' src="/michi.png"/>
+  <h5>Michi Lumin</h5>
+  Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+  </div>
+
+  <div class="member">
+  <img title='Lead Guitar, Vocals' src="/ross.png"/>
+  <h5>Ross Nicoll</h5>
+  Dogecoin Core Blockchain Developer
+  </div>
+
+  <div class="member">
+  <img title='Drums' src="/timothy.png"/>
+  <h5>Timothy Stebbing</h5>
+  F/OSS community advocate and Foundation Product Lead
+  </div>
+
+  </div>
+  </div>
+</section>
+
+<div class="advisors">
+<div class="top"></div>
+<div class="inner">
+<div class="title">
+
+## Rådgiverne
+
+<div class="underline"></div>
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
-<h5>Jens Wiechers</h5> 
-OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+<div class="members">
+
+<div>
+<img title='Jared Birchall' src="/jared.png"/>
+</div>
+<div>
+
+### Jared Birchall
+Representing Elon Musk - Legal & Financial Advisor
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
-<h5>Michi Lumin</h5> 
-Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+<div>
+<img title='Billy' src="/billy.png"/>
+</div>
+<div>
+
+### Shibetoshi Nakamoto (Billy)
+
+OG Dogecoin Founder, Community & Memes Advisor
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
-<h5>Ross Nicoll</h5>
-Dogecoin Core Blockchain Developer
+<div>
+
+### Max Keller
+
+Dogecoin Core Developer, Dogecoin Technical Advisor
+</div>
+<div>
+<img title='Max' src="/max.png"/>
 </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
-<h5>Timothy Stebbing</h5> 
-F/OSS community advocate and Foundation Product Lead
+<div>
+
+### Vitalik Buterin
+
+Ethereum Founder, Blockchain & Crypto Advisor
+</div>
+<div>
+<img title='Vitalik' src="/vitalik.png"/>
 </div>
 
 </div>
-
----
-
-### Rådgiverne
-
-Rådgiverne bidrar med nøkkelinnsikter innenfor sine kompetansefelt.
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
-
-<div style="display: inline-box; width: 150px;"> <img title='Jared
-Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> Representing Elon Musk
-- Legal & Financial Advisor</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Max
-Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> Dogecoin Core Developer, Dogecoin
-Technical Advisor</div>
-
-
-<div style="display: inline-box; width: 150px;"> <img
-title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
-max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> OG Dogecoin Founder, Community & Memes
-Advisor</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Vitalik
-Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Ethereum Founder,
-Blockchain & Crypto Advisor</div>
-
+</div>
+<div class="bottom"></div>
 </div>
 
-</br></br>
-
---- 
-
+<div class="company">
+Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
+Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+</div>
+<div class="tweet">
 Disse WOW doge avatarene ble lagd til oss av den fantastiske 
-[@dogememegirl](https://twitter.com/Dogememegirl)! 
+<a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 Hvis du liker dem like mye som vi gjør, følg henne på Twitter.
+<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
