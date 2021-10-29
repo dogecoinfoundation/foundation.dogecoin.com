@@ -20,9 +20,9 @@ type = "about"
 <div class="description">
 狗狗币基金会是一个非盈利组织，其主要宗旨如下：
 
-* 支持狗狗币的开发和普及；
-* 保护狗狗币的商标，防止其被滥用或被用于欺诈活动；
-* 规划和管理狗狗币的未来发展。
+- 支持狗狗币的开发和普及；
+- 保护狗狗币的商标，防止其被滥用或被用于欺诈活动；
+- 规划和管理狗狗币的未来发展。
 
 </div>
 
@@ -42,6 +42,7 @@ type = "about"
 基金会于2014年由狗狗币团队成员建立，用于管理狗狗币项目并为该项目提供各种支持。2021年，基金会重装上阵，除了原始的核心团队成员，还同时吸纳了很多新鲜血液以及殿堂级的顾问团，为狗狗币未来十年的蓬勃发展铺平了道路。
 
 基金会的指导原则请参阅 [狗狗币宣言](/zh-cn/manifesto)。
+
 </div>
 </div>
 <div class="right">
@@ -57,7 +58,6 @@ type = "about"
 
   <div class="underline"></div>
 
-
   <div class="members">
   <div class="member">
   <img title='Bass' src="/gary.png"/>
@@ -71,7 +71,6 @@ DDP创始人 & 狗狗币社区元老
   <h5>Jens Wiechers</h5>
 狗狗币基金会元老，负责基金会的法务和管理
   </div>
-
 
 <div class="member">
 
@@ -114,7 +113,9 @@ F/OSS社区布道者兼基金会产品主管
 <div>
 
 ### Jared Birchall
-代表Elon Musk - 法务顾问兼财务顾问
+
+代表 Elon Musk - 法务顾问兼财务顾问
+
 </div>
 
 <div>
@@ -125,6 +126,7 @@ F/OSS社区布道者兼基金会产品主管
 ### Shibetoshi Nakamoto (Billy)
 
 狗狗币创始人，社区顾问兼模因顾问
+
 </div>
 
 <div>
@@ -132,6 +134,7 @@ F/OSS社区布道者兼基金会产品主管
 ### Max Keller
 
 狗狗币核心开发者兼技术顾问
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -142,6 +145,7 @@ F/OSS社区布道者兼基金会产品主管
 ### Vitalik Buterin
 
 以太坊创始人，区块链顾问兼加密货币顾问
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -160,5 +164,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 这些惟妙惟俏令人赞叹（WOW）的狗狗肖像由才华横溢的
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 创建！如果你也和我们一样喜爱它们，那就去Twitter上关注她吧！
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

@@ -20,9 +20,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 A Dogecoin Foundation é uma organização sem fins lucrativos criada para fornecer:
 
-* Apoiar a criptomoeda Dogecoin via desenvolvimento e apoio público.
-* Defesa da marca Dogecoin para prevenir abuso e fraude.
-* Um roteiro e administração para um futuro da Dogecoin.
+- Apoiar a criptomoeda Dogecoin via desenvolvimento e apoio público.
+- Defesa da marca Dogecoin para prevenir abuso e fraude.
+- Um roteiro e administração para um futuro da Dogecoin.
 </div>
 
 <div class="mobile-logos">
@@ -41,6 +41,7 @@ A Dogecoin Foundation é uma organização sem fins lucrativos criada para forne
 A fundação foi estabelecida por membros da equipa da Dogecoin em 2014 para fornecer administração e apoio para o projeto dogecoin. Em 2021 a fundação foi revigorada por membros da equipa original juntamente com novas caras e novos conselheiros veteranos prontos para crescer Dogecoin para a década seguinte.
 
 Pode ler acerca dos princípios que guiam a fundação [no Manifesto Dogecoin](/pt/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -55,7 +56,6 @@ Pode ler acerca dos princípios que guiam a fundação [no Manifesto Dogecoin](/
 ## O Conselho
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -110,7 +110,9 @@ Defensor da Comunidade F/OSS e Diretor de Produtos da Fundação
 <div>
 
 ### Jared Birchall
+
 Em Representação de Elon Musk - Conselheiro Legal e Financeiro
+
 </div>
 
 <div>
@@ -121,6 +123,7 @@ Em Representação de Elon Musk - Conselheiro Legal e Financeiro
 ### Shibetoshi Nakamoto (Billy)
 
 OG Fundador da Dogecoin, Conselheiro de Comunidade & Memes
+
 </div>
 
 <div>
@@ -128,6 +131,7 @@ OG Fundador da Dogecoin, Conselheiro de Comunidade & Memes
 ### Max Keller
 
 Programador Principal da Dogecoin, Conselheiro Técnico de Dogecoin
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -138,6 +142,7 @@ Programador Principal da Dogecoin, Conselheiro Técnico de Dogecoin
 ### Vitalik Buterin
 
 Fundador do Ethereum, Conselheiro de Blockchain & Crypto
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -155,5 +160,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 <div class="tweet">
 Estes WOW doge PFPs foram gentilmente feitos para nós pela totalmente fantástica
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>! Se gostar deles tanto como nós dê-lhe um follow.
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

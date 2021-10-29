@@ -20,9 +20,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 Yayasan Dogecoin adalah organisasi nirlaba yang didirikan untuk menyediakan:
 
-* Dukungan untuk mata uang kripto Dogecoin melalui pengembangan dan advokasi.
-* Pertahanan merek dagang Dogecoin untuk mencegah penyalahgunaan dan penipuan.
-* Peta jalan dan tata kelola untuk masa depan Dogecoin.
+- Dukungan untuk mata uang kripto Dogecoin melalui pengembangan dan advokasi.
+- Pertahanan merek dagang Dogecoin untuk mencegah penyalahgunaan dan penipuan.
+- Peta jalan dan tata kelola untuk masa depan Dogecoin.
 
 </div>
 
@@ -45,6 +45,7 @@ disegarkan kembali oleh anggota tim inti asli bersama dengan wajah-wajah segar d
 penasihat berpengalaman siap mengembangkan Dogecoin untuk dekade mendatang.
 
 Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/id/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -59,7 +60,6 @@ Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/id/m
 ## Dewan
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -114,7 +114,9 @@ Advokat Komunitas F/OSS dan Pimpinan Produk Yayasan
 <div>
 
 ### Jared Birchall
+
 Perwakilan Elon Musk - Penasihat Keuangan dan Legalitas
+
 </div>
 
 <div>
@@ -125,6 +127,7 @@ Perwakilan Elon Musk - Penasihat Keuangan dan Legalitas
 ### Shibetoshi Nakamoto (Billy)
 
 Founder OG Dogecoin, Penasihat Komunitas & Meme
+
 </div>
 
 <div>
@@ -132,6 +135,7 @@ Founder OG Dogecoin, Penasihat Komunitas & Meme
 ### Max Keller
 
 Developer Inti Dogecoin, Penasihat Teknis Dogecoin
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -142,6 +146,7 @@ Developer Inti Dogecoin, Penasihat Teknis Dogecoin
 ### Vitalik Buterin
 
 Founder Ethereum, Penasihat Blockchain & Kripto
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -160,5 +165,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 PFP doge WOW ini dibuat dengan baik untuk kami oleh yang benar-benar menakjubkan
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 ! Jika Anda menyukai mereka sama seperti kami, ikuti dia. 
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

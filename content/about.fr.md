@@ -20,9 +20,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 La Fondation Dogecoin est une organisation à but non lucratif créée pour fournir :
 
-* Un soutien à la crypto-monnaie Dogecoin par le biais du développement et de la promotion.
-* La défense de la marque Dogecoin pour prévenir les abus et les fraudes.
-* Une feuille de route et une gouvernance pour l'avenir de Dogecoin.
+- Un soutien à la crypto-monnaie Dogecoin par le biais du développement et de la promotion.
+- La défense de la marque Dogecoin pour prévenir les abus et les fraudes.
+- Une feuille de route et une gouvernance pour l'avenir de Dogecoin.
 
 </div>
 
@@ -58,7 +58,6 @@ Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Doge
 ## Conseil d'administration
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -113,7 +112,9 @@ Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Doge
 <div>
 
 ### Jared Birchall
+
 Representing Elon Musk - Legal & Financial Advisor
+
 </div>
 
 <div>
@@ -124,6 +125,7 @@ Representing Elon Musk - Legal & Financial Advisor
 ### Shibetoshi Nakamoto (Billy)
 
 OG Dogecoin Founder, Community & Memes Advisor
+
 </div>
 
 <div>
@@ -131,6 +133,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 ### Max Keller
 
 Dogecoin Core Developer, Dogecoin Technical Advisor
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -138,10 +141,10 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 
 <div>
 
-
 ### Vitalik Buterin
 
 Ethereum Founder, Blockchain & Crypto Advisor
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -159,5 +162,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 <div class="tweet">
 Les caricatures Doges ont été gentiment réalisées pour nous par la talentueuse
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a> ! Si vous les aimez autant que nous, suivez-la. Much wow !
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

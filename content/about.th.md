@@ -19,9 +19,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 "มูลนิธิ Dogecoin" เป็นองค์กรที่ไม่แสวงผลกำไรก่อตั้งขึ้นเพื่อประโยชน์ดังต่อไปนี้:
 
-* สนับสนุนและพัฒนาทรัพย์สินดิจิตอล "Dogecoin"
-* ปกป้องชื่อเสียง เครื่องหมายการค้าและทรัพย์สินทางปัญญาของ "Dogecoin" เพื่อป้องกันการละเมิดและฉ้อโกง
-* เป็นแนวทางการจัดการที่โปร่งใสและมีประสิทธิภาพ
+- สนับสนุนและพัฒนาทรัพย์สินดิจิตอล "Dogecoin"
+- ปกป้องชื่อเสียง เครื่องหมายการค้าและทรัพย์สินทางปัญญาของ "Dogecoin" เพื่อป้องกันการละเมิดและฉ้อโกง
+- เป็นแนวทางการจัดการที่โปร่งใสและมีประสิทธิภาพ
 
 </div>
 
@@ -41,6 +41,7 @@ name = "Dogecoin Foundation"
 "มูลนิธิ Dogecoin" ถูกจัดตั้งขึ้นครั้งแรกในปี 2014 เพื่อสนับสนุนและอำนวยประโยชน์ต่อโครงการทรัพย์สินดิจิตอล และในปี 2021 กลุ่มสมาชิกดั้งเดิมได้ทำการปฏิรูปและจัดตั้งมูลนิธิขึ้นมาอีกครั้งโดยในครั้งนี้มีสมาชิกใหม่และที่ปรึกษาผู้ทรงคุณวุฒิเพิ่มมากขึ้น โดยมีเป้าหมายร่วมกันที่จะสร้าง "Dogecoin" ให้เติบโตยิ่งขึ้นในทศวรรษต่อไป
 
 สามารถอ่านเพิ่มเติมเกี่ยวกับหลักการของมูลนิธิได้ที่นี่ [The Dogecoin Manifesto](/th/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -55,7 +56,6 @@ name = "Dogecoin Foundation"
 ## คณะกรรมการมูลนิธิ
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -110,7 +110,9 @@ name = "Dogecoin Foundation"
 <div>
 
 ### Jared Birchall
+
 Representing Elon Musk - Legal & Financial Advisor
+
 </div>
 
 <div>
@@ -121,6 +123,7 @@ Representing Elon Musk - Legal & Financial Advisor
 ### Shibetoshi Nakamoto (Billy)
 
 OG Dogecoin Founder, Community & Memes Advisor
+
 </div>
 
 <div>
@@ -128,6 +131,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 ### Max Keller
 
 Dogecoin Core Developer, Dogecoin Technical Advisor
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -138,6 +142,7 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 ### Vitalik Buterin
 
 Ethereum Founder, Blockchain & Crypto Advisor
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -157,5 +162,5 @@ These WOW doge PFPs were kindly made for us by the totally-amaze
 รูปภาพของคณะกรรมการบอร์ดและที่ปรึกษาสร้างสรรค์โดย 
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 ! ถ้าคุณชอบผลงานของเธอเหมือนกันอย่าลืมเข้าไปติดตามเธอกันนะ
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
