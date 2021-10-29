@@ -1,11 +1,11 @@
 +++
 title = "Manifesto Dogecoin"
+tweet = "Anda dapat menandatangani Manifesto Dogecoin di Twitter!"
 date = "2021-15-08"
+type = "manifesto"
 [ author ]
-  name = "Yayasan Dogecoin"
+name = "Dogecoin Foundation"
 +++
-
----
 
 Kami adalah Dogecoin, kripto yang tidak disengaja-</br>
 gerakan yang membuat orang tersenyum.
@@ -22,22 +22,19 @@ Karena **dapat diandalkan**, kami menghargai *solusi yang berfungsi* daripada *k
 Artinya, sementara ada nilai dalam item di</br>
 kanan, kami lebih menghargai item di sebelah kiri.
 
+<div class="signatories">
 Penandatangan, 
 
-  -- Billy Markus</br>
-  -- Gary Lachance</br>
-  -- Jens Wiechers</br>
-  -- Max Keller</br>
-  -- Michi Lumin</br>
-  -- Ross Nicoll</br>
-  -- Timothy Stebbing
+<div class="people">
+
+* -- Billy Markus
+* -- Gary Lachance
+* -- Jens Wiechers
+* -- Max Keller
+* -- Michi Lumin
+* -- Ross Nicoll
+* -- Timothy Stebbing
 
 _15 Agustus 2021_
-
----
-
-<div class='center'>
-Anda dapat menandatangani Manifesto Dogecoin di Twitter!
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;m signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>

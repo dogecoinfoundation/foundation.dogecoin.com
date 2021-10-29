@@ -1,14 +1,14 @@
 +++
 title = "The Dogecoin Manifesto"
+tweet = "You can sign the Dogecoin Manifesto on Twitter!"
 date = "2021-15-08"
+type = "manifesto"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
 
----
-
 Vi er Dogecoin, krypto-bevegelsen som ble til ved en </br>
-tilfeldighet og som får folk til å smile. 
+tilfeldighet og som får folk til å smile.
 
 Vi utvikler en folkelig digital valuta </br>
 og vi streber hver dag for kun å gjøre godt.</br>
@@ -23,22 +23,18 @@ Gjennom dette arbeidet har vi lært å sette pris på:
 Med andre ord, selv om det er verdier i begrepene til høyre,</br>
 setter vi større pris på begrepene til venstre.
 
+<div class="signatories">
 Undertegnede, 
 
-  -- Billy Markus</br>
-  -- Gary Lachance</br>
-  -- Jens Wiechers</br>
-  -- Max Keller</br>
-  -- Michi Lumin</br>
-  -- Ross Nicoll</br>
-  -- Timothy Stebbing
+<div class="people">
 
-_August 15, 2021_
+* -- Billy Markus
+* -- Gary Lachance
+* -- Jens Wiechers
+* -- Max Keller
+* -- Michi Lumin
+* -- Ross Nicoll
+* -- Timothy Stebbing
 
----
-
-<div class='center'>
-You can sign the Dogecoin Manifesto on Twitter!
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;m signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
