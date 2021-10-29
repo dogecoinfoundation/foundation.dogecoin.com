@@ -1,11 +1,10 @@
 +++
 title = "Le Manifeste Dogecoin"
 date = "2021-15-08"
+type = "manifesto"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
-
----
 Nous sommes Dogecoin, le mouvement crypto accidentel qui fait sourire les gens.
 
 Nous sommes en train de développer une monnaie pour les gens, </br>
@@ -20,25 +19,20 @@ Grâce à ce travail, nous avons acquis plusieurs piliers:
 **Fiable**, nous privilégions les solutions pratiques à la rapidité de livraison. </br>
 
 En d'autres termes, si les valeurs de droite sont importantes,</br>
-nous nous focalisons principalement sur les valeurs de gauche. 
+nous nous focalisons principalement sur les valeurs de gauche.
 
-
+<div class="signatories">
 Signataires, 
 
-  -- Billy Markus</br>
-  -- Gary Lachance</br>
-  -- Jens Wiechers</br>
-  -- Max Keller</br>
-  -- Michi Lumin</br>
-  -- Ross Nicoll</br>
-  -- Timothy Stebbing
+<div class="people">
 
-_August 15, 2021_
+* -- Billy Markus
+* -- Gary Lachance
+* -- Jens Wiechers
+* -- Max Keller
+* -- Michi Lumin
+* -- Ross Nicoll
+* -- Timothy Stebbing
 
----
-
-<div class='center'>
-Vous pouvez signer ce Manifeste sur Twitter!
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;m signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>

@@ -1,11 +1,10 @@
 +++
 title = "狗狗币宣言"
 date = "2021-15-08"
+type = "manifesto"
 [ author ]
-  name = "狗狗币基金会"
+name = "Dogecoin Foundation"
 +++
-
----
 
 我们是狗狗币，正所谓无心插柳柳成荫，</br>
 在这场加密货币革新中狗狗币的发展令人开怀。
@@ -22,23 +21,18 @@ date = "2021-15-08"
 换言之，虽然后者有利可图，</br>
 但我们更认同前者。
 
+<div class="signatories">
 签署人，
 
-  -- Billy Markus</br>
-  -- Gary Lachance</br>
-  -- Jens Wiechers</br>
-  -- Max Keller</br>
-  -- Michi Lumin</br>
-  -- Ross Nicoll</br>
-  -- Timothy Stebbing</br>
-  -- Soma Green
+<div class="people">
 
-_August 15, 2021_
+* -- Billy Markus
+* -- Gary Lachance
+* -- Jens Wiechers
+* -- Max Keller
+* -- Michi Lumin
+* -- Ross Nicoll
+* -- Timothy Stebbing
 
----
-
-<div class='center'>
-你可以去Twitter签署狗狗币宣言哟！
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;m signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
