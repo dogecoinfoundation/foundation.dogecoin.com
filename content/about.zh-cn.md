@@ -2,92 +2,163 @@
 title = "关于"
 date = "2014-04-09"
 aliases = ["about-us","board"]
+type = "about"
 [ author ]
   name = "狗狗币基金会"
 +++
 
+<section class="presentation">
+<div class="left">
+
+<div class="title">
+
+## 关于
+
+  <div class="underline"></div>
+</div>
+
+<div class="description">
 狗狗币基金会是一个非盈利组织，其主要宗旨如下：
 
 * 支持狗狗币的开发和普及；
 * 保护狗狗币的商标，防止其被滥用或被用于欺诈活动；
 * 规划和管理狗狗币的未来发展。
 
-### 历史
+</div>
 
+<div class="mobile-logos">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
+
+<div class="title">
+
+## 历史
+
+<div class="underline"></div>
+</div>
+
+<div class="description">
 基金会于2014年由狗狗币团队成员建立，用于管理狗狗币项目并为该项目提供各种支持。2021年，基金会重装上阵，除了原始的核心团队成员，还同时吸纳了很多新鲜血液以及殿堂级的顾问团，为狗狗币未来十年的蓬勃发展铺平了道路。
 
 基金会的指导原则请参阅 [狗狗币宣言](/zh-cn/manifesto)。
+</div>
+</div>
+<div class="right">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
+</section>
 
-### 董事会
+<section class="board">
+  <div>
 
-狗狗币基金会的董事会每月定期探讨狗狗币项目的各项议题。
+## 董事会
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
+  <div class="underline"></div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
-<h5>Gary Lachance</h5>
+
+  <div class="members">
+  <div class="member">
+  <img title='Bass' src="/gary.png"/>
+  <h5>Gary Lachance</h5>
+ 
 DDP创始人 & 狗狗币社区元老 
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
-<h5>Jens Wiechers</h5> 
+  <div class="member">
+  <img title='Keyboard' src="/jens.png"/>
+  <h5>Jens Wiechers</h5>
 狗狗币基金会元老，负责基金会的法务和管理
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
-<h5>Michi Lumin</h5> 
+
+<div class="member">
+
+<img title='Lead Vocals, Guitar' src="/michi.png"/>
+  <h5>Michi Lumin</h5>
 狗狗币核心区块链开发者，基金会首席工程师
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
-<h5>Ross Nicoll</h5>
+  <div class="member">
+  <img title='Lead Guitar, Vocals' src="/ross.png"/>
+  <h5>Ross Nicoll</h5>
 狗狗币核心区块链开发者
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
-<h5>Timothy Stebbing</h5> 
+  <div class="member">
+  <img title='Drums' src="/timothy.png"/>
+  <h5>Timothy Stebbing</h5>
 F/OSS社区布道者兼基金会产品主管
+  </div>
+
+  </div>
+  </div>
+</section>
+
+<div class="advisors">
+<div class="top"></div>
+<div class="inner">
+<div class="title">
+
+## 董事会顾问团
+
+<div class="underline"></div>
+</div>
+
+<div class="members">
+
+<div>
+<img title='Jared Birchall' src="/jared.png"/>
+</div>
+<div>
+
+### Jared Birchall
+代表Elon Musk - 法务顾问兼财务顾问
+</div>
+
+<div>
+<img title='Billy' src="/billy.png"/>
+</div>
+<div>
+
+### Shibetoshi Nakamoto (Billy)
+
+狗狗币创始人，社区顾问兼模因顾问
+</div>
+
+<div>
+
+### Max Keller
+
+狗狗币核心开发者兼技术顾问
+</div>
+<div>
+<img title='Max' src="/max.png"/>
+</div>
+
+<div>
+
+### Vitalik Buterin
+
+以太坊创始人，区块链顾问兼加密货币顾问
+</div>
+<div>
+<img title='Vitalik' src="/vitalik.png"/>
 </div>
 
 </div>
-
----
-
-### 董事会顾问团
-
-狗狗币基金会顾问团负责在特定领域提供前瞻性建议。
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
-
-<div style="display: inline-box; width: 150px;"> <img title='Jared
-Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> 代表Elon Musk
-- 法务顾问兼财务顾问</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Max
-Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> 狗狗币核心开发者兼技术顾问</div>
-
-
-<div style="display: inline-box; width: 150px;"> <img
-title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
-max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> 狗狗币创始人，社区顾问兼模因顾问</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Vitalik
-Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> 以太坊创始人，区块链顾问兼加密货币顾问</div>
-
+</div>
+<div class="bottom"></div>
 </div>
 
-</br></br>
-
---- 
-
+<div class="company">
+Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
+Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+</div>
+<div class="tweet">
 这些惟妙惟俏令人赞叹（WOW）的狗狗肖像由才华横溢的
-[@dogememegirl](https://twitter.com/Dogememegirl) 创建！如果你也和我们一样喜爱它们，那就去Twitter上关注她吧！
+<a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
+创建！如果你也和我们一样喜爱它们，那就去Twitter上关注她吧！
+<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

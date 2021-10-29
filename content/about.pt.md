@@ -1,93 +1,159 @@
 +++
 title = "Sobre Nós"
 date = "2014-04-09"
-aliases = ["sobre-nós","Conselho"]
+aliases = ["about-us","board"]
+type = "about"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
 
+<section class="presentation">
+<div class="left">
+
+<div class="title">
+
+## Sobre Nós
+
+  <div class="underline"></div>
+</div>
+
+<div class="description">
 A Dogecoin Foundation é uma organização sem fins lucrativos criada para fornecer:
 
-* Apoiar a criptomoeda Dogecoin via desenvolvimento e apoio público. 
+* Apoiar a criptomoeda Dogecoin via desenvolvimento e apoio público.
 * Defesa da marca Dogecoin para prevenir abuso e fraude.
 * Um roteiro e administração para um futuro da Dogecoin.
+</div>
 
-### Histórico
+<div class="mobile-logos">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
 
+<div class="title">
+
+## Histórico
+
+<div class="underline"></div>
+</div>
+
+<div class="description">
 A fundação foi estabelecida por membros da equipa da Dogecoin em 2014 para fornecer administração e apoio para o projeto dogecoin. Em 2021 a fundação foi revigorada por membros da equipa original juntamente com novas caras e novos conselheiros veteranos prontos para crescer Dogecoin para a década seguinte.
 
+Pode ler acerca dos princípios que guiam a fundação [no Manifesto Dogecoin](/pt/manifesto).
+</div>
+</div>
+<div class="right">
+<img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
+<img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
+</div>
+</section>
 
-Pode ler acerca dos princípios que guiam a fundação [no Manifesto Dogecoin](/manifesto).
+<section class="board">
+  <div>
 
-### O Conselho
+## O Conselho
 
-O Conselho da Dogecoin Foundation reúne-se mensalmente para discutir assuntos relacionados com o projeto Dogecoin.
+  <div class="underline"></div>
 
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
 
-<div style="display: inline-box; width: 150px;">
-<img title='Bass' style="margin: auto; max-width:150px;" class="circle" src="/gary.jpg"/>
-<h5>Gary Lachance</h5>
+  <div class="members">
+  <div class="member">
+  <img title='Bass' src="/gary.png"/>
+  <h5>Gary Lachance</h5>
 Fundador DDP & Veterano da Comunidade Dogecoin
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Keyboard' style="margin: auto; max-width:150px;" class="circle" src="/jens.jpg"/>
-<h5>Jens Wiechers</h5> 
+  <div class="member">
+  <img title='Keyboard' src="/jens.png"/>
+  <h5>Jens Wiechers</h5>
 OG Veterano da Dogecoin Foundation, Administração e Departamento Legal da Fundação
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Vocals, Guitar' style="margin: auto; max-width:150px;" class="circle" src="/michi.jpg"/>
-<h5>Michi Lumin</h5> 
+  <div class="member">
+  <img title='Lead Vocals, Guitar' src="/michi.png"/>
+  <h5>Michi Lumin</h5>
 Programadora Principal do Blockchain da Dogecoin, Engenheira Principal da Fundação
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Lead Guitar, Vocals' style="margin: auto; max-width:150px;" class="circle" src="/ross.jpg"/>
-<h5>Ross Nicoll</h5>
+  <div class="member">
+  <img title='Lead Guitar, Vocals' src="/ross.png"/>
+  <h5>Ross Nicoll</h5>
 Programador Principal do Blockchain da Dogecoin
-</div>
+  </div>
 
-<div style="display: inline-box; width: 150px;">
-<img title='Drums' style="margin: auto; max-width:150px;" class="circle" src="/pomke.jpg"/>
-<h5>Timothy Stebbing</h5> 
+  <div class="member">
+  <img title='Drums' src="/timothy.png"/>
+  <h5>Timothy Stebbing</h5>
 Defensor da Comunidade F/OSS e Diretor de Produtos da Fundação
+  </div>
+
+  </div>
+  </div>
+</section>
+
+<div class="advisors">
+<div class="top"></div>
+<div class="inner">
+<div class="title">
+
+## Assessores do Conselho
+
+<div class="underline"></div>
+</div>
+
+<div class="members">
+
+<div>
+<img title='Jared Birchall' src="/jared.png"/>
+</div>
+<div>
+
+### Jared Birchall
+Em Representação de Elon Musk - Conselheiro Legal e Financeiro
+</div>
+
+<div>
+<img title='Billy' src="/billy.png"/>
+</div>
+<div>
+
+### Shibetoshi Nakamoto (Billy)
+
+OG Fundador da Dogecoin, Conselheiro de Comunidade & Memes
+</div>
+
+<div>
+
+### Max Keller
+
+Programador Principal da Dogecoin, Conselheiro Técnico de Dogecoin
+</div>
+<div>
+<img title='Max' src="/max.png"/>
+</div>
+
+<div>
+
+### Vitalik Buterin
+
+Fundador do Ethereum, Conselheiro de Blockchain & Crypto
+</div>
+<div>
+<img title='Vitalik' src="/vitalik.png"/>
 </div>
 
 </div>
-
----
-
-### Assessores do Conselho
-
-Os Assessores do Conselho da Dogecoin Foundation fornecem visões únicas sobre áreas estratégicas específicas.
-
-<div style="display: flex; flex-flow: row wrap; justify-content: center;">
-
-<div style="display: inline-box; width: 150px;"> <img title='Jared
-Birchall' style="margin: auto; max-width:150px;" class="circle"
-src="/jared.jpg"/> <h5>Jared Birchall</h5> Em Representação de Elon Musk - Conselheiro Legal e Financeiro</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Max
-Keller' style="margin: auto; max-width:150px;" class="circle"
-src="/max.jpg"/> <h5>Max Keller</h5> Programador Principal da Dogecoin, Conselheiro Técnico de Dogecoin</div>
-
-
-<div style="display: inline-box; width: 150px;"> <img
-title='Shibetoshi Nakamoto (Billy)' style="margin: auto;
-max-width:150px;" class="circle" src="/billy.jpg"/> <h5>Shibetoshi
-Nakamoto (Billy)</h5> OG Fundador da Dogecoin, Conselheiro de Comunidade & Memes</div>
-
-<div style="display: inline-box; width: 150px;"> <img title='Vitalik
-Buterin' style="margin: auto; max-width:150px;" class="circle"
-src="/vitalik.jpg"/> <h5>Vitalik Buterin</h5> Fundador do Ethereum, Conselheiro de Blockchain & Crypto</div>
-
+</div>
+<div class="bottom"></div>
 </div>
 
-</br></br>
-
---- 
-
+<div class="company">
+Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
+Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+</div>
+<div class="tweet">
 Estes WOW doge PFPs foram gentilmente feitos para nós pela totalmente fantástica
-[@dogememegirl](https://twitter.com/Dogememegirl)! Se gostar deles tanto como nós dê-lhe um follow.
+<a href="https://twitter.com/Dogememegirl">@dogememegirl</a>! Se gostar deles tanto como nós dê-lhe um follow.
+<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

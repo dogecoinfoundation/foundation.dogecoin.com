@@ -25,7 +25,7 @@ The Dogecoin Foundation is a not-for-profit organisation established to provide:
 
 </div>
 
-<div class="mobile-logos"
+<div class="mobile-logos">
 <img class="dogegoin-light" src="/dogecoin-light.png" alt="Dogecoin logo">
 <img class="dogegoin-dark" src="/dogecoin-dark.png" alt="Dogecoin logo">
 </div>
