@@ -1,14 +1,15 @@
 +++
 title = "도지코인 성명서"
+tweet = "트위터를 통하여 도지코인 성명서에 서명할 수 있습니다!"
 date = "2021-15-08"
+type = "manifesto"
 [ author ]
-  name = "Dogecoin Foundation"
+name = "Dogecoin Foundation"
 +++
 
----
 
 우리는 도지코인, 사람들을 미소짓게 하는-</br>
-우연의 가상화폐 운동. 
+우연의 가상화폐 운동.
 
 우리는 사람들을 위한 화폐를 개발하고 있으며, </br>
 우리는 매일 선행만을 하기 위하여 노력한다.</br>
@@ -22,22 +23,18 @@ date = "2021-15-08"
 다시말해, 오른쪽의 항목들은 가치가 있지만</br>
 우리는 왼쪽의 항목들에 더 가치를 둔다.
 
+<div class="signatories">
 서명인, 
 
-  -- Billy Markus</br>
-  -- Gary Lachance</br>
-  -- Jens Wiechers</br>
-  -- Max Keller</br>
-  -- Michi Lumin</br>
-  -- Ross Nicoll</br>
-  -- Timothy Stebbing
+<div class="people">
 
-_August 15, 2021_
+* -- Billy Markus
+* -- Gary Lachance
+* -- Jens Wiechers
+* -- Max Keller
+* -- Michi Lumin
+* -- Ross Nicoll
+* -- Timothy Stebbing
 
----
-
-<div class='center'>
-트위터를 통하여 도지코인 성명서에 서명할 수 있습니다!
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;m signing the Dogecoin Manifesto! @dogecoinFdn @dogecoin" data-url="https://foundation.dogecoin.com/manifesto" data-hashtags="dogecoinManifesto" data-related="dogecoinFdn,dogecoin" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
