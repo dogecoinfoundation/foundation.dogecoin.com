@@ -11,7 +11,7 @@
             <div class="lang">
                 <a href="{{ .Permalink }}"><span
                         class="flag flag-icon flag-icon-{{ index $.Site.Data.langFlags (.Lang) }} flag-icon-squared"></span></a>
-                <a href="/{{(.Lang)}}">{{(.Lang)}}</a>
+                <a href="{{ .Permalink }}">{{(.Lang)}}</a>
             </div>
             {{ end }}
         </div>
