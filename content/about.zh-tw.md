@@ -19,9 +19,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 狗狗幣基金會是一個非營利組織，宗旨在於：
 
-* 以開發和推廣支持狗狗幣發展
-* 保護狗狗幣商標，使其免於被用作詐欺及其他形式的濫用
-* 規劃與管理狗狗幣的未來藍圖
+- 以開發和推廣支持狗狗幣發展
+- 保護狗狗幣商標，使其免於被用作詐欺及其他形式的濫用
+- 規劃與管理狗狗幣的未來藍圖
 
 </div>
 
@@ -41,6 +41,7 @@ name = "Dogecoin Foundation"
 本基金會由狗狗幣團隊成員在 2014 年建立，對狗狗幣專案提供管理和支援。2021 年，基金會重整旗鼓，有來自原核心團隊的成員，也有新面孔及資深顧問加入，共同促進狗狗幣未來數十年的發展。
 
 你可以閱讀[狗狗幣宣言](/zh-tw/manifesto)，以了解基金會的指導原則。
+
 </div>
 </div>
 <div class="right">
@@ -55,7 +56,6 @@ name = "Dogecoin Foundation"
 ## 董事會
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -113,6 +113,7 @@ DDP 創辦人 & <br>
 ### Jared Birchall
 
 Elon Musk 代表、法律與財務顧問
+
 </div>
 
 <div>
@@ -123,6 +124,7 @@ Elon Musk 代表、法律與財務顧問
 ### Shibetoshi Nakamoto (Billy)
 
 狗狗幣創始人、社群與迷因顧問
+
 </div>
 
 <div>
@@ -130,6 +132,7 @@ Elon Musk 代表、法律與財務顧問
 ### Max Keller
 
 狗狗幣核心開發者、技術顧問
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -140,6 +143,7 @@ Elon Musk 代表、法律與財務顧問
 ### Vitalik Buterin
 
 以太坊創始人、區塊鏈與加密貨幣顧問
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -158,5 +162,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 這些令人讚嘆（WOW）的狗狗個人頭像是超棒的 
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 為我們設計的！如果你跟我們一樣喜愛它們，請到 Twitter 上追蹤她！
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

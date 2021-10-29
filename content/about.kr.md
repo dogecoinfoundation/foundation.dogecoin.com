@@ -20,9 +20,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 도지코인 재단은 비영리 단체이며 다음을 제공하고자 한다 :
 
-* 도지코인 가상화폐의 개발 및 변호 지원.
-* 도지코인 트레이드마크 보호 통하여 남용과 사기 막기.
-* 도지코인의 미래를 위한 개발 로드맵과 경영을 제공.
+- 도지코인 가상화폐의 개발 및 변호 지원.
+- 도지코인 트레이드마크 보호 통하여 남용과 사기 막기.
+- 도지코인의 미래를 위한 개발 로드맵과 경영을 제공.
 
 </div>
 
@@ -32,7 +32,6 @@ name = "Dogecoin Foundation"
 </div>
 
 <div class="title">
-
 
 ## 역사
 
@@ -45,6 +44,7 @@ name = "Dogecoin Foundation"
 풍부한 자문원에 의하여 재활성화 되어 앞으로의 10년 동안 도지코인을 성장시킬 준비가 되었다
 
 재단의 운영 원칙을 도지코인 성명서에서 읽을 수 있다 [도지코인 성명서](/kr/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -59,7 +59,6 @@ name = "Dogecoin Foundation"
 ## 이사회
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -114,7 +113,9 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 <div>
 
 ### Jared Birchall
+
 일론 머스크 대리 - 법률 & 재무 자문
+
 </div>
 
 <div>
@@ -125,6 +126,7 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 ### Shibetoshi Nakamoto (Billy)
 
 도지코인 창시자, 커뮤니티 & 밈 자문
+
 </div>
 
 <div>
@@ -132,6 +134,7 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 ### Max Keller
 
 도지코인 코어 개발자, 도지코인 기술 자문
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -142,6 +145,7 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 ### Vitalik Buterin
 
 이더리움 창시자, 블록체인 & 가상화폐 자문
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -161,5 +165,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 ! 저희가
 좋아하는 만큼 좋안하다면 트위터에서 그녀에게 팔로우 해주세요!
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

@@ -19,9 +19,9 @@ name = "Dogecoin Foundation"
 <div class="description">
 The Dogecoin Foundation is a not-for-profit organisation established to provide:
 
-* Support for the Dogecoin crypto-currency through development and advocacy.
-* Dogecoin trademark defense to prevent abuse and fraud.
-* A roadmap and governance for the future of Dogecoin.
+- Support for the Dogecoin crypto-currency through development and advocacy.
+- Dogecoin trademark defense to prevent abuse and fraud.
+- A roadmap and governance for the future of Dogecoin.
 
 </div>
 
@@ -44,6 +44,7 @@ re invigorated by members of the original core team along with fresh faces and n
 seasoned advisors ready to grow Dogecoin for the decade ahead.
 
 You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -58,7 +59,6 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 ## Board
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -113,7 +113,9 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 <div>
 
 ### Jared Birchall
+
 Representing Elon Musk - Legal & Financial Advisor
+
 </div>
 
 <div>
@@ -124,6 +126,7 @@ Representing Elon Musk - Legal & Financial Advisor
 ### Shibetoshi Nakamoto (Billy)
 
 OG Dogecoin Founder, Community & Memes Advisor
+
 </div>
 
 <div>
@@ -131,6 +134,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 ### Max Keller
 
 Dogecoin Core Developer, Dogecoin Technical Advisor
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -141,6 +145,7 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 ### Vitalik Buterin
 
 Ethereum Founder, Blockchain & Crypto Advisor
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -159,5 +164,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 These WOW doge PFPs were kindly made for us by the totally-amaze
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a> If you love them as
 much as we do give her a follow.
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

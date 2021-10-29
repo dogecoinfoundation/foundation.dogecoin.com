@@ -20,10 +20,10 @@ name = "Dogecoin Foundation"
 <div class="description">
 Dogecoinstiftelsen er en ideell organisasjon som er stiftet for :
 
-* å være en forkjemper for kryptovalutaen Dogecoin
-* å bidra til videreutviklingen av Dogecoin
-* å beskytte varemerket Dogecoin og jobbe aktivt for å forhindre misbruk og svindel
-* å lage en plan for fremtidig styring og utvikling av Dogecoin
+- å være en forkjemper for kryptovalutaen Dogecoin
+- å bidra til videreutviklingen av Dogecoin
+- å beskytte varemerket Dogecoin og jobbe aktivt for å forhindre misbruk og svindel
+- å lage en plan for fremtidig styring og utvikling av Dogecoin
 
 </div>
 
@@ -44,6 +44,7 @@ Stiftelsen ble etablert i 2014 av utviklerne i Dogecoin for å støtte og videre
 I 2021 fikk stiftelsen et friskt pust og et tilskudd av nye krefter. Noen av de opprinnelige utviklerene, en gruppe nye utviklere samt erfarne rådgivere, er klare for å fremme utvikling og vekst av Dogecoin i tiåret som kommer.
 
 Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/no/manifesto).
+
 </div>
 </div>
 <div class="right">
@@ -58,7 +59,6 @@ Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/no/man
 ## Styret
 
   <div class="underline"></div>
-
 
   <div class="members">
   <div class="member">
@@ -113,7 +113,9 @@ Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/no/man
 <div>
 
 ### Jared Birchall
+
 Representing Elon Musk - Legal & Financial Advisor
+
 </div>
 
 <div>
@@ -124,6 +126,7 @@ Representing Elon Musk - Legal & Financial Advisor
 ### Shibetoshi Nakamoto (Billy)
 
 OG Dogecoin Founder, Community & Memes Advisor
+
 </div>
 
 <div>
@@ -131,6 +134,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 ### Max Keller
 
 Dogecoin Core Developer, Dogecoin Technical Advisor
+
 </div>
 <div>
 <img title='Max' src="/max.png"/>
@@ -141,6 +145,7 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 ### Vitalik Buterin
 
 Ethereum Founder, Blockchain & Crypto Advisor
+
 </div>
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
@@ -159,5 +164,5 @@ Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook
 Disse WOW doge avatarene ble lagd til oss av den fantastiske 
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
 Hvis du liker dem like mye som vi gjør, følg henne på Twitter.
-<a href="https://twitter.com/dodgememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dodgememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
