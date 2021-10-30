@@ -54,6 +54,17 @@ $salmon: #F87B73;
     display: none;
     @media #{$media-size-phone} {
       display: block;
+      [data-theme="light"] & {
+        .dogegoin-dark {
+          display: none;
+        }
+      }
+
+      [data-theme="dark"] & {
+        .dogegoin-light {
+          display: none;
+        }
+      }
     }
   }
 
