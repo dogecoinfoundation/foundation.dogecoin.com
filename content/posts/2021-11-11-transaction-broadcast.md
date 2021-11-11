@@ -14,17 +14,17 @@ Some time later Binance notified us that they had account reconciliation issues.
 
 Yesterday November 10th we were notified that previously stuck transactions had suddenly relayed successfully, post 1.14.5 update; likely because minfees have been lowered in 1.14.5, making the previously valid but unrelayable transactions relayable. The sole example we have, from Binance, is a transaction with fees which are valid as of v1.14.5, but were invalid (too low) in 1.14.3 and before. Note, Binance updated directly from v1.14.3 to 1.14.5, in the past few days.
 
-Currently what we believe has happened is that the previously stuck transactions have been retried automatically, as would happen on each node restart after upgrade - and went through, since now the minimum required relay fee is lower.
+Currently what we believe has happened is that the previously stuck transactions have been retried automatically, as would happen on each node restart after upgrade - and went through, since now the minimum required relay fee is lower. This is correct behaviour as a result of reducing fees.
 
 ## Lessons
 
-* Invalid transactions don't have a defined timeout limit, but are typically disposed of due to memory limits. However they can hang around indefintely if nothing causes a memory pool clear.
 * Correct handling to cancel a transaction is to spend the to-be-cancelled transaction's inputs to a different transaction, which invalidates the first.
   * Ideally use replace-by-fee if available, but otherwise crafting and sending a transaction spending the previously chosen inputs, will invalidate the previous transaction.
+* Please note that transactions don't have a defined timeout period, but are typically disposed of due to memory limits.
 
 ## Guidance
 
-Note we do not anticipate this being a widespread problem, and have received no further reports of this happening. However for any providers with concerns about stagnant invalid transactions, we recommend stopping the nodes, removing the mempool.dat file just in case, and then starting the node with -zapwallettxes.
+We have received no further reports of this happening. For any providers with concerns about stagnant invalid transactions, we recommend stopping the nodes, removing the mempool.dat file just in case, and then starting the node with -zapwallettxes.
 
 For individual users with concerns, note that sending all of your Dogecoins back to yourself (ideally a new address, but you can use an existing one for this) will also spend any previous transaction outputs, and invalidate any such "stuck" transactions.
 
