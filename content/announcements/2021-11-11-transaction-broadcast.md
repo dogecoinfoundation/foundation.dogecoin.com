@@ -6,7 +6,7 @@ date = "2021-11-11"
   name = "Dogecoin Foundation"
 +++
 
-Binance has today paused Dogecoin withdrawals and stated they have found a "major issue" in Doecoin. We wanted to address this:
+Binance has today paused Dogecoin withdrawals and stated they have found a "minor issue" in Dogecoin. We wanted to address this:
 
 Several months ago (noting while an earlier post stated a year, first confirmed mention is April) Binance notified us they had cases where transactions were stuck, meaning they were not being mined successfully. We suggested Binance use RBF (replace by fee) on these transactions, which would replace the original transactions with a new transaction with a higher fee paid. Notably this was suggested because replace by fee invalidates the previous transaction (hence "replace"). As the transaction had RBF disabled, we recommended creating a new transaction manually, which would consume the same inputs to forcibly invalidate the previous transaction.
 
