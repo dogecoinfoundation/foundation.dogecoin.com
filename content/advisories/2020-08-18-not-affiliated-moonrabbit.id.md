@@ -1,5 +1,5 @@
 +++
-title = "Saran: Klaim Afiliasi dengan Yayasan Dogecoin"
+title = "Pernyataan: Klaim Afiliasi dengan Yayasan Dogecoin"
 date = "2021-08-18"
 [ author ]
   name = "Yayasan Dogecoin"

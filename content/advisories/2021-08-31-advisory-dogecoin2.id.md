@@ -1,6 +1,6 @@
 
 +++
-title = "Saran: Pernyataan Mengenai proyek kripto 'Dogecoin 2.0'"
+title = "Pernyataan: Respon mengenai proyek kripto 'Dogecoin 2.0'"
 date = "2021-08-31"
 [ author ]
   name = "Yayasan Dogecoin"
@@ -15,5 +15,4 @@ dari kemungkinan penyalahgunaan, kami telah meminta pengacara perlindungan merek
 produk.
 
 Kami berharap permintaan wajar kami akan melihat tim pengembangan mereka memilih nama baru untuk proyek mereka yang tidak
-melanggar hak dan reputasi proyek Dogecoin, dan kami menantikan inovasi apa pun yang mungkin mereka buat
-dalam usaha masa depan mereka.
+melanggar hak dan reputasi proyek Dogecoin, dan kami menantikan inovasi apa pun yang mungkin mereka buat dalam usaha masa depan mereka.
