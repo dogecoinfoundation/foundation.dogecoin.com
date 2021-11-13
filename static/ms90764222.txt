@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "foundation.dogecoin.com",
+  "Id": "457a63be-c672-407b-be3e-d3eef70bcf46"
+}
