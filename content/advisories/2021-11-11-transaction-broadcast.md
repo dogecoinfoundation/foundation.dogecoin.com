@@ -9,7 +9,7 @@ date = "2021-11-11"
 Note: A previous version of this advisory used "we" to refer to a group separate to the Foundation. It has been edited to
 clarify.
 
-Binance has today paused Dogecoin withdrawals and stated they have found a "minor issue" in Dogecoin. The Foundation wish to address this:
+Binance has today paused Dogecoin withdrawals and stated they have found a "minor issue" in Dogecoin. The Foundation wishes to address this:
 
 Several months ago (noting while an earlier post stated a year, first confirmed mention is April) Binance notified a group of Dogecoin Core maintainers that Binance had cases where transactions were stuck, meaning the transactions were not being mined successfully. The maintainers suggested Binance use RBF (replace by fee) on these transactions, which would replace the original transactions with a new transaction with a higher fee paid. Notably this was suggested because replace by fee invalidates the previous transaction (hence "replace"). As the transaction had RBF disabled, it was recommended that Binance create a new transaction manually, which would consume the same inputs to forcibly invalidate the previous transaction.
 
@@ -27,7 +27,7 @@ Based on the information availabie it appears that the previously stuck transact
 
 ## Guidance
 
-The Foundation have received no further reports of this happening. For any providers with concerns about stagnant invalid transactions, we recommend stopping the nodes, removing the mempool.dat file just in case, and then starting the node with -zapwallettxes.
+The Foundation has received no further reports of this happening. For any providers with concerns about stagnant invalid transactions, we recommend stopping the nodes, removing the mempool.dat file just in case, and then starting the node with `-zapwallettxes`.
 
 For individual users with concerns, note that sending all of your Dogecoins back to yourself (ideally a new address, but you can use an existing one for this) will also spend any previous transaction outputs, and invalidate any such "stuck" transactions.
 
