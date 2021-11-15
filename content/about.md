@@ -157,9 +157,12 @@ Ethereum Founder, Blockchain & Crypto Advisor
 </div>
 
 <div class="company">
-Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
-Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+Dogecoin Foundation operating as <b>Much Wow Ltd</b> and
+<b>MadeUpNumbers Ltd</b>, Registered Companies in England & Wales<br/>
+Company Numbers: 13726736 and 13602061<br/>
+Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
+
 <div class="tweet">
 These WOW doge PFPs were kindly made for us by the totally-amaze
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a> If you love them as
