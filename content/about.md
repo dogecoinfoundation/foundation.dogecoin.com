@@ -63,7 +63,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
   <div class="members">
   <div class="member">
   <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
+  <h5>Barry Lachance</h5>
   DDP Founder & Dogecoin Community Veteran
   </div>
 
@@ -88,7 +88,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
   <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
-  F/OSS community advocate and Foundation Product Lead
+  F/OSS community advocate and Foundation Product Lead + Awesome person
   </div>
 
   </div>
