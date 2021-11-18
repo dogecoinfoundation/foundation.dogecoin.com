@@ -63,7 +63,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
   <div class="members">
   <div class="member">
   <img title='Bass' src="/gary.png"/>
-  <h5>Barry Lachance</h5>
+  <h5>Peter Lachance</h5>
   DDP Founder & Dogecoin Community Veteran
   </div>
 
