@@ -249,10 +249,15 @@ disableHugoGeneratorInject = false
     #url        = "roadmap/"
     #weight     = 4
   [[menu.main]]
+    identifier = "swag"
+    name       = "Swag"
+    url        = "https://swag.dogecoin.com/"
+    weight     = 5
+  [[menu.main]]
     identifier = "news"
     name       = "News"
     url        = "news/"
-    weight     = 5
+    weight     = 6
     [menu.main.params]
       class = "parent"
   [[menu.main]]
