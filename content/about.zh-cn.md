@@ -157,10 +157,8 @@ F/OSS社区布道者兼基金会产品主管
 </div>
 
 <div class="company">
-狗狗币基金会是由注册于英格兰和威尔士的企业 <b>Much Wow Ltd</b> 和
-<b>MadeUpNumbers Ltd</b> 联合运营<br/>
-企业编号: 13726736 和 13602061<br/>
-注册地址: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
+Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
 <div class="tweet">
 这些惟妙惟俏令人赞叹（WOW）的狗狗肖像由才华横溢的
