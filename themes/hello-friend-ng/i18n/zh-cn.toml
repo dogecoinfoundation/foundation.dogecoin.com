@@ -18,6 +18,25 @@ other = "档案"
 [home]
 other = "主页"
 
+[dogecoin]
+other = "狗狗币"
+
+[foundation]
+other = "基金会"
+
+[onlygood]
+other = "每日正气"
+
+# Footer strings
+[dogecoinfoundation]
+other = "狗狗币基金会"
+
+[website-by]
+other = "网站设计"
+
+[theme-by]
+other = "网站主题"
+
 [notFound]
 other = "噢，找不到页面……"
 

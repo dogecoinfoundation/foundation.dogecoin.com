@@ -196,6 +196,52 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 5
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.zh-cn.menu]
+      [[languages.zh-cn.menu.main]]
+        identifier = "home"
+        name       = "主页"
+        url        = "/"
+        weight     = 1
+      [[languages.zh-cn.menu.main]]
+        identifier = "about"
+        name       = "关于"
+        url        = "about/"
+        weight     = 2
+      [[languages.zh-cn.menu.main]]
+        identifier = "manifesto"
+        name       = "宣言"
+        url        = "manifesto/"
+        weight     = 3
+      #[[languages.zh-cn.menu.main]]
+        #identifier = "roadmap"
+        #name       = "Roadmap"
+        #url        = "roadmap/"
+        #weight     = 4
+      [[languages.zh-cn.menu.main]]
+        identifier = "news"
+        name       = "新闻"
+        url        = "news/"
+        weight     = 5
+        [languages.zh-cn.menu.main.params]
+          class = "parent"
+      [[languages.zh-cn.menu.main]]
+        identifier = "press"
+        name       = "Press Releases"
+        url        = "press/"
+        weight     = 1
+        parent     = "news"
+      [[languages.zh-cn.menu.main]]
+        identifier = "advisories"
+        name       = "告示"
+        url        = "advisories/"
+        weight     = 2
+        parent     = "news"
+      [[languages.zh-cn.menu.main]]
+        identifier = "announcements"
+        name       = "公告"
+        url        = "announcements/"
+        weight     = 3
+        parent     = "news"
 
   [languages.pt]
     subtitle  = "Hello Friend NG Theme"
