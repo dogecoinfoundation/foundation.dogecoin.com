@@ -6,13 +6,11 @@
     <main class="main">
         <div class="left">
             <div class="title">
-                <h1>Dogecoin</h1>
-                <h2>Foundation</h2>
+                <h1>{{ i18n "dogecoin" }}</h1>
+                <h2>{{ i18n "foundation" }}</h2>
             </div>
             <div class="underline"></div>
-            {{- with .Site.Params.homeSubtitle }}
-                <p class="subtitle">{{.}}</p>
-            {{- end }}
+                <p class="subtitle">{{ i18n "onlygood"}}</p>
         </div>
         <div>
             <div class="doge-container desktop">
