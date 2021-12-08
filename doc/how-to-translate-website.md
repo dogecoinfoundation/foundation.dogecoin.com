@@ -9,6 +9,7 @@
     - [Markdown Editor](#markdown-editor)
   - [Update config.toml](#update-configtoml)
   - [Update langFlags.yaml](#update-langflagsyaml)
+  - [Create/Update translated-lang.toml](#createupdate-translated-langtoml)
   - [Translation](#translation)
   - [Test translation](#test-translation)
   - [Pull Request](#pull-request)
