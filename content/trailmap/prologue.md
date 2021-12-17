@@ -12,7 +12,7 @@ name = "Dogecoin Foundation"
 <div class="title">
 
 
- ## <img title='You are here!' width="60px" style='display: inline;' src="/marker.png"/>Dogecoin Trailmap: Prologue
+ ## <img width="60px" style='display: inline;' src="/marker.png"/>Dogecoin Trailmap: Prologue
 
 <div class="underline"></div>
 </div>
@@ -20,11 +20,11 @@ name = "Dogecoin Foundation"
 <div class="description">
  
 * [**Dogecoin Trailmap: Prologue**](/trailmap/prologue/) 
+* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
 * [Project: Libdogecoin](/trailmap/libdogecoin/)
 * [Project: Dogecoin Standard](/trailmap/standard/)
 * [Project: GigaWallet](/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
-* Task: Doge-In-A-Box (Core Containerisation)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
 * Partnership: Point of Sale (L2 app) 
@@ -85,7 +85,7 @@ Essentially the more utility the more useful, the more useful the more adoption,
 the more adoption the more Dogecoin gains traction as a serious universal currency 
 for people everywhere. 
 
-## Two coins starting with D..
+## Two coins starting with D...
 
 
 <div class="center">
@@ -100,13 +100,13 @@ A Denarius had no smart contracts, no scriptability, no DAPPs, and yet this coin
 controlled the world.
 
 
-We believe **Dogecoin** is on a simmilar trajectory, yet this time it's not the face 
+We believe **Dogecoin** is on a similar trajectory, yet this time it's not the face 
 of the Emperor controlling a centralised currency, but a friendly Doge welcoming 
 all to a decentralised and liberated currency for the people. 
 
 Whilst many crypto projects are trying to be stores of value such as BTC, or 
 engineering platforms such as ETH, we believe that the _innovative step_ has 
-already been made by Sotashi with the invetion of crypto _CURRENCY_.
+already been made by Satoshi with the invention of crypto _CURRENCY_.
 
 Dogecoin already has the fundamentals required to achieve these goals by focusing
 on simplicity, utility & reliability, and that's what this Trailmap is focused on.
@@ -115,7 +115,7 @@ on simplicity, utility & reliability, and that's what this Trailmap is focused o
 
 For the last eight years Dogecoin has closely tracked the aging Bitcoin C++/QT 
 desktop wallet, heroically maintained by the Dogecoin Core dev team. A decade 
-ago when crypto was in it's infancy this was a solid decision, but times change 
+ago when crypto was in its infancy this was a solid decision, but times change 
 and what was once useful at the foundation of crypto has lagged behind a world
 where most people transact on their phones, and integration with online retailers
 is paramount. 
@@ -140,10 +140,10 @@ that will allow _everyone_, not just the big players to participate in a way tha
 rewards them for their contribution to running the network, and at the same time 
 gives back to the whole community through charitable causes.
 
-## Timeline
+## Timeline.
 
 As you can imagine, setting off on such an adventure is not a small feat and 
-we are still just getting started. We already have some influencial friends
+we are still just getting started. We already have some influential friends
 on our side and a growing group of people who are getting ready to contribute
 development time to these Open Source projects. 
 
