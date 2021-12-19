@@ -130,6 +130,8 @@ developers and social platforms (to name a few), to rapidly integrate Dogecoin
 into their infrastructure with scalable backend solutions such as the 
 [GigaWallet Project](/trailmap/gigawallet/).
 
+<img class='center' src="/libdogecoin-ecosystem.png">
+
 Community safety is tackled with a proposed Dogecoin Keyring App & SDK that will 
 let Dogecoin users retain custody of their Dogecoin while integrating with the
 GigaWallet APIs so that mobile apps can transact Doge without holding your keys.
