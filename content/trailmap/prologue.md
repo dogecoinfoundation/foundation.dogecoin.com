@@ -59,7 +59,7 @@ than rulers, each whose projects and contributions stand or fall on their
 merits.
 
 This Trailmap represents a dog-walk the Dogecoin Foundation is committed to
-exploring and that we believe will lead to the success of Dogecoin.
+exploring and that we believe will contribute to Dogecoin's success.
 
 
 ## Why these projects? 
