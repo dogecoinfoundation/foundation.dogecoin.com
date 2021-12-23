@@ -289,11 +289,11 @@ disableHugoGeneratorInject = false
     name       = "Manifesto"
     url        = "manifesto/"
     weight     = 3
-  #[[menu.main]]
-    #identifier = "roadmap"
-    #name       = "Roadmap"
-    #url        = "roadmap/"
-    #weight     = 4
+  [[menu.main]]
+    identifier = "trailmap"
+    name       = "Trailmap"
+    url        = "trailmap/prologue/"
+    weight     = 4
   [[menu.main]]
     identifier = "news"
     name       = "News"
