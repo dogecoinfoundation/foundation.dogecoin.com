@@ -58,8 +58,8 @@ important that Dogecoin remains a decentralised project with shepherds rather
 than rulers, each whose projects and contributions stand or fall on their 
 merits.
 
-This Trailmap represents a dog-walk the Dogecoin Foundation is committed
-to exploring and which it believes are beneficial for the success of Dogecoin.
+This Trailmap represents a dog-walk the Dogecoin Foundation is committed to
+exploring and that we believe will lead to the success of Dogecoin.
 
 
 ## Why these projects? 
