@@ -1,5 +1,5 @@
 +++
-title = "Project: Dogecoin.com makeover & Dogepedia"
+title = "Project: Libdogecoin"
 date = "2021-12-10"
 type = "about"
 [ author ]
@@ -50,7 +50,7 @@ allow anyone to build a Dogecoin compliant product, without needing to
 worry about the deeper specifics of the crypto functions.  
 
 It’s important to note that libdogecoin will be a pure library, not 
-providing a ‘runnable’ node facility, it is intended that connecting 
+providing a ‘runnable’ node facility. It is intended that connecting 
 the bits together into an engine be done at the level above, via the 
 networking libraries of the host language.  
 
@@ -74,7 +74,7 @@ available as a simple C library with bindings for many languages, we multiply
 the community's ability to innovate. 
 
 * Want to create a new Dogecoin Wallet in Python? Ruby? Node.js? Do it!
-* Want to create a slimmed down Dogecoin node for a specific purpose (like [GigaWallet](/trailmap/gigawallet))? sure!
+* Want to create a slimmed down Dogecoin node for a specific purpose (like [GigaWallet](/trailmap/gigawallet))? Sure!
 * Want to create a shell utility for managing HD Dogecoin keypairs in Golang? Go nuts! 
 
 We're aiming to make the Dogecoin Ecosystem healthier as we:
@@ -87,7 +87,7 @@ We're aiming to make the Dogecoin Ecosystem healthier as we:
 <img class='center' src="/libdogecoin-purpose.png">
 
 These objectives are met primarily through the librarification of Dogecoin and validated by a 
-[Dogecoin Standard](/trialmap/standard) which will allow the community to have confidence in 
+[Dogecoin Standard](/trailmap/standard) which will allow the community to have confidence in 
 diverse implementations of Dogecoin Nodes and Wallets.   
 
 Libdogecoin is the underlying building block in the Foundation's plan to make this happen.

@@ -1,5 +1,5 @@
 +++
-title = "Project: Dogecoin.com makeover & Dogepedia"
+title = "Project: Dogecoin Standard"
 date = "2021-12-10"
 type = "about"
 [ author ]
@@ -47,7 +47,7 @@ name = "Dogecoin Foundation"
 The Dogecoin Standard will be a *Written Specification* and validating *test suite* derived 
 from the Dogecoin Core Wallet during the process of creating [libdogecoin](/trailmap/libdogecoin). 
 The Dogecoin Standard aims to fully document the reference implementation (Core Wallet), filling 
-the gap of the often asked for 'whitepaper' and providing docs to anyone trying to understand how 
+the gap of the often requested 'whitepaper' and providing docs to anyone trying to understand how 
 Dogecoin works.
 
 As we've seen recently with some exchanges, 'getting Dogecoin wallets right' isn't easy and right
@@ -70,18 +70,18 @@ the process of creating the Dogecoin Standard will be the creation of a companio
 that will effectively exercise any implementation of Dogecoin and be able to validate that 
 it is compliant.  
 
-This is a huge accelerator for a diverse Dogecoin ecosystem, when we can make changes to
+This is a huge accelerator for a diverse Dogecoin ecosystem: when we can make changes to
 our node and wallet implementations and validate immediately that they will still work 
 with the ecosystem, everyone moves faster.
 
 ### Community Proposal Process.
 
 For the first time the Dogecoin Protocol will be represented in a way that can be implemented 
-independently of the Core Wallet. This will provide the oportunity for the community to create
+independently of the Core Wallet. This will provide the opportunity for the community to create
 a robust change-process via DIPs (Dogecoin Improvement Proposals) which can be discussed broadly 
 in the community and with key stakeholders for a specified time prior to adoption.  
 
-We believe that a consensus based community (which we have via a decentralised network) should
+We believe that a consensus-based community (which we have via a decentralised network) should
 have a strong preference for experimental implementations that exercise DIPs and demonstrate their 
 effectiveness, similar to the W3C approach for web standards.
 

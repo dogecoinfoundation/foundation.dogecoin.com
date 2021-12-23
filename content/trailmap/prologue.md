@@ -68,7 +68,7 @@ Back in August we signed the [Dogecoin Manifesto](/manifesto) and welcomed
 the community to sign it by clicking the tweet button; the response was 
 overwhelmingly positive.  
 
-The Manifesto was our attempt at reducing down everything the community wanted 
+The Manifesto was our attempt at capturing everything the community wanted 
 from the Dogecoin project: a 'Currency of the people, for the people and by the 
 people', something humanity could really use, to buy a coffee or pay the rent.
 
@@ -92,8 +92,8 @@ for people everywhere.
 <img src="/denarius.png" width='50%' style='margin: auto;' alt="Denarius to Dogecoin">
 </div>
 
-There was a time when most of the 'known world' accepted a universal currency, that
-minted by Rome. A **Denarius**, 'about a day's wages' had one thing going for it, you 
+There was a time when most of the 'known world' accepted a universal currency,
+minted by Rome. A **Denarius**, 'about a day's wages' had one thing going for it: you 
 could spend it anywhere in the empire to satisfy your wants or needs, it had **utility**.
 
 A Denarius had no smart contracts, no scriptability, no DAPPs, and yet this coin once 
@@ -147,11 +147,13 @@ gives back to the whole community through charitable causes.
 As you can imagine, setting off on such an adventure is not a small feat and 
 we are still just getting started. We already have some influential friends
 on our side and a growing group of people who are getting ready to contribute
-development time to these Open Source projects. 
+development time to these open-source projects. 
 
 Over the next few months the Libdogecoin and GigaWallet projects will begin
 to take shape, and we have some early integrators who are interested in putting
-them to use in their projects.  
+them to use in their projects. These early projects are about laying a solid 
+foundation, while projects still to come will target improving transaction 
+throughput and scale. 
 
 Expect to see more of the projects on the Trailmap unlock with their own details,
 Git repositories and issues as they are refined and commence work into 2022. 

@@ -1,5 +1,5 @@
 +++
-title = "Project: Dogecoin.com makeover & Dogepedia"
+title = "Project: GigaWallet" 
 date = "2021-12-10"
 type = "about"
 [ author ]
@@ -57,20 +57,20 @@ service that any platform, exchange or retailer can run on their own infrastruct
 that provides a modern non-custodial approach to processing Dogecoin transactions.
 
 The GigaWallet project is an open-source initiative aimed at filling that gap by
-providing a node / api solution that can be set up in seconds and allow a developer
+providing a node / API solution that can be set up in seconds and allow a developer
 to add Dogecoin transactions to their platform, as easily as they might with any
 polished payment provider.
 
-The GigaWallet aims to provide two levels of API, one for processing and validating
+The GigaWallet aims to provide two levels of API, the first for processing and validating
 traditional Dogecoin transactions, with a modern event-architecture ready to connect
 with message queues and web APIs. The second will be APIs to integrate with the
-proposed Dogecoin Keyring App & SDK, this is a mobile-first solution that will allow
+proposed Dogecoin Keyring App & SDK. This is a mobile-first solution that will allow
 platforms that use the GigaWallet to issue charges directly from their Apps to the 
 Dogecoin Keyring App for approval by the user. This is important because it puts 
 the ownership of keys back in the hands of the user, without removing a platform's 
 ability to transact Dogecoin.
 
-We believe that providing both halves of the solution as an opensource project, 
+We believe that providing both halves of the solution as an open-source project, 
 backend as well as ready-to-integrate mobile SDK for making Dogecoin payments, will
 rapidly accelerate the uptake of Dogecoin by retailers, social media platforms, 
 game developers and more. 

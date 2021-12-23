@@ -46,8 +46,8 @@ name = "Dogecoin Foundation"
 
 Volunteers from the Doge Army have come together from all over the 
 world to work on a re-design of the Dogecoin.com website. Bluezr, CB & 
-Florian along with the amaze Hackclub teens Belle, Ella & Sam have been
-building out a whole new site which has a stack of new information, 
+Florian along with the amaze Hack Club teens Belle, Ella & Sam have been
+building out a whole new site which has a stack of new information: 
 from links to current projects and teams, to information on the network 
 and how you can get involved as a coder, a miner, a HODLr or a fan!
 
@@ -64,7 +64,7 @@ it!
 
 ## When Moon?
 
-Expect to see a preview up in early Jan for community feedback and 
+Expect to see a preview up in January for community feedback and 
 if all is well, a shiny new website shortly after. Wow! 
 
 </section>
