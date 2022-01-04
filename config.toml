@@ -295,10 +295,15 @@ disableHugoGeneratorInject = false
     url        = "trailmap/prologue/"
     weight     = 4
   [[menu.main]]
+    identifier = "codeofshibes"
+    name       = "Code of Shibes"
+    url        = "codeofshibes/"
+    weight     = 5
+  [[menu.main]]
     identifier = "news"
     name       = "News"
     url        = "news/"
-    weight     = 5
+    weight     = 6
     [menu.main.params]
       class = "parent"
   [[menu.main]]
