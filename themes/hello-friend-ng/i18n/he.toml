@@ -1,0 +1,60 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "תרגומים"
+
+[postAvailable]
+other = "זמין גם ב"
+
+
+# 404.html
+#
+[archives]
+other = "ארכיונים"
+
+[home]
+other = "בית"
+
+# Homepage strings
+[dogecoin]
+other = "קרן"
+
+[foundation]
+other = "דוג׳קוין"
+
+[onlygood]
+other = "תעשו רק טוב כל יום"
+
+# Footer strings
+[dogecoinfoundation]
+other = "קרן הדוג׳קוין"
+
+[website-by]
+other = "אתר מאת"
+
+[theme-by]
+other = "עיצוב מאת"
+
+
+[notFound]
+other = "אופס, העמוד לא נמצא..."
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "דקה אחת"
+other = "{{ .Count }} דקות"
+
+[tableOfContents]
+other = "תוכן העניינים"
+
+[wordCount]
+one   = "מילה אחת"
+other = "{{ .Count }} מילים"
+
+[lastModified]
+other = "עודכן לאחרונה"
