@@ -1,3 +1,6 @@
 public
 resources/_gen
 .idea
+START.sh
+.hugo_build.lock
+WEB TESTS.url

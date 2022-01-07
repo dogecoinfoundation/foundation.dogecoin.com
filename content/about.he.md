@@ -1,4 +1,4 @@
-+++ title = "About"
++++ title = "אודות"
 date = "2014-04-09"
 aliases = ["about-us","board"]
 type = "אודות"
@@ -43,7 +43,7 @@ governance and support for the Dogecoin project. In 2021 the Foundation has been
 re invigorated by members of the original core team along with fresh faces and new
 seasoned advisors ready to grow Dogecoin for the decade ahead.
 
-You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
+You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto/he).
 
 </div>
 </div>
