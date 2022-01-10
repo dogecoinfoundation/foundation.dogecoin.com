@@ -11,28 +11,28 @@ type = "manifesto"
 
 אנחנו מפתחים מטבע בשביל האנשים, </br>
 ואנחנו שואפים לעשות רק טוב כל יום. </br>
-דרך עבודה זו באנו להעריך:
+דרך עבודה זו למדנו להעריך:
 
-להיות **שימושיים**, אנחנו מעדיפים *תועלת* על פני *שנינות טכנית*. </br>
-Being **personable**, we value *individuals and interactions* over *profit-driven economics*.</br>
-Being **welcoming**, we value *collaboration and trust* over *competition and exclusivity*.</br>
-Being **reliable**, we value *working solutions* over *speed of delivery*. </br>
+ **שימושיות**, אנחנו מעדיפים *תועלת* על פני *שנינות טכנית*. </br>
+ **מכוונות לאנשים**, אנחנו מעדיפים *אנשים ואינטראקציות* על פני *כלכלה מונעת רווח*.</br>
+**אדיבות**, אנחנו מעדיפים *שיתוף פעולה ואמון* על פני *תחרותיות ובלעדיות*.</br>
+**אמינות**, אנחנו מעדיפים *פתרונות שעובדים* על פני *מהירות האספקה*. </br>
 
-That is, while there is value in the items on</br>
-the right, we value the items on the left more.
+כלומר, אף שאנו מעריכים את הערכים</br>
+שמאל, אנו מעריכים יותר את הערכים מימין.
 
 <div class="signatories">
-Signatories,
+חתימות,
 
 <div class="people">
 
-* -- Billy Markus
-* -- Gary Lachance
-* -- Jens Wiechers
-* -- Max Keller
-* -- Michi Lumin
-* -- Ross Nicoll
-* -- Timothy Stebbing
+* -- בילי מרקוס
+* -- גארי לאצ'נס
+* -- ג'נס וייצ'רס
+* -- מקס קלר
+* -- מיצ'י לומין
+* -- רוס ניקול
+* -- טימות'י סטבינג
 
 </div>
 </div>
