@@ -23,7 +23,7 @@ name = "Dogecoin Foundation"
 * [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
 * [Project: Libdogecoin](/trailmap/libdogecoin/)
 * [Project: Dogecoin Standard](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
+* [프로젝트: 기가지갑](/kr/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
