@@ -1,5 +1,5 @@
 +++
-title = "Dogecoin Trailmap: Prologue"
+title = "מפת הניווט של דוג'קוין: מבוא"
 date = "2021-12-10"
 type = "about"
 [ author ]
@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [**Dogecoin Trailmap: Prologue**](/trailmap/prologue/) 
-* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [Project: Libdogecoin](/trailmap/libdogecoin/)
-* [Project: Dogecoin Standard](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
+* [**מפת הניווט של דוג'קוין: מבוא**](/he/trailmap/prologue/) 
+* [Project: Dogecoin.com makeover & Dogepedia](/he/trailmap/website/)
+* [Project: Libdogecoin](/he/trailmap/libdogecoin/)
+* [Project: Dogecoin Standard](/he/trailmap/standard/)
+* [Project: GigaWallet](/he/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
@@ -85,22 +85,18 @@ Essentially the more utility the more useful, the more useful the more adoption,
 the more adoption the more Dogecoin gains traction as a serious universal currency 
 for people everywhere. 
 
-## Two coins starting with D...
+## שני מטבעות שמתחילים עם ד'...
 
 
 <div class="center">
 <img src="/denarius.png" width='50%' style='margin: auto;' alt="Denarius to Dogecoin">
 </div>
 
-There was a time when most of the 'known world' accepted a universal currency,
-minted by Rome. A **Denarius**, 'about a day's wages' had one thing going for it: you 
-could spend it anywhere in the empire to satisfy your wants or needs, it had **utility**.
-
-A Denarius had no smart contracts, no scriptability, no DAPPs, and yet this coin once 
-controlled the world.
+היה זמן בו ברוב "העולם הידוע" קיבל מטבע אוניברסלי, שמוטבע בל ידי רומא. **לדנריוס**, "בערך שכר של יום" היה יתרון אחד: אתה היית יכול להוציא את זה בכל מקום באימפריה כדי לספק את הצרכים או הרצונות שלך, היה לו **תועלת**.
+לדנריוס לא היה חוזים חכמים, לא היה לו scriptability, לא היה לו DAPPs, אבל עדיין המטבע הזה פעם שלט בעולם.
 
 
-We believe **Dogecoin** is on a similar trajectory, yet this time it's not the face 
+We believe **דוג'קוין** is on a similar trajectory, yet this time it's not the face 
 of the Emperor controlling a centralised currency, but a friendly Doge welcoming 
 all to a decentralised and liberated currency for the people. 
 
