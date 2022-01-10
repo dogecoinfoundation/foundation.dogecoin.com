@@ -3,7 +3,7 @@ date = "2014-04-09"
 aliases = ["about-us","board"]
 type = "אודות"
 [ author ]
-name = "קרן דוג׳קוין"
+name = "קרן דוג'קוין"
 +++
 
 <section class="presentation">
@@ -11,17 +11,17 @@ name = "קרן דוג׳קוין"
 
 <div class="title">
 
-## About the foundation
+## לגבי הקרן
 
   <div class="underline"></div>
 </div>
 
 <div class="description">
-קרן הדוג׳קוין היא ארגון ללא מטרות רווח שנוצרה על מנת לספק:
+קרן הדוג'קוין היא ארגון ללא מטרות רווח שנוצרה על מנת לספק:
 
 - תמיכה במטבע הדוג׳קוין באמצעות פיתוח והגנה משפטית.
 - הגנה על הסימן המסחרי של דוג׳קוין למניעת שימוש לרעה והונאה.
-- מפת דרכים וניהול לעתיד של דוג׳קוין.
+- מפת דרכים וניהול לעתיד של דוג'קוין.
 
 </div>
 
@@ -32,18 +32,15 @@ name = "קרן דוג׳קוין"
 
 <div class="title">
 
-## History
+## היסטוריה
 
 <div class="underline"></div>
 </div>
 
 <div class="description">
-The Foundation was established by members of the Dogecoin team in 2014 to provide
-governance and support for the Dogecoin project. In 2021 the Foundation has been
-re invigorated by members of the original core team along with fresh faces and new
-seasoned advisors ready to grow Dogecoin for the decade ahead.
+הקרן הוקמה על ידי חברים מפרויקט הדוג'קוין ב-2014 בכדי לספק ניהול ותמיכה לפרויקט הדוג'קוין. ב-2021 הקרן רוענן על ידי חברי הצוות המקורי ביחד עם עוד אנשים חדשים ויועצים חדשים ומקצועיים שמוכנים לעזור לדוג'קוין לגדול לעשור הקרוב.
 
-You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto/he).
+אפשר לקרוא לגבי העקרונות של הקרן ב-[מניפסטו דוג'קוין.](/manifesto/he).
 
 </div>
 </div>
