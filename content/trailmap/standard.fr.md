@@ -57,15 +57,13 @@ Ce que nous espérons réaliser en documentant Dogecoin a plusieurs facettes :
 
 Une chose dont nous avons fait l'expérience en essayant d'attirer plus de développeurs dans la communauté Dogecoin est la courbe d'apprentissage abrupte à laquelle sont confrontés même les développeurs expérimentés. 
 Actuellement, nous dirigeons les gens vers la documentation du Bitcoin en disant "C'est un peu comme ça mais il y a des différences", ce qui n'est pas utile à moins d'avoir un pocket-ross/michi/pat/max pour vous tenir la main. En créant une documentation 
-nous espérons voir une augmentation du nombre de développeurs qui s'installent dans l'espace Dogecoin. 
-Dogecoin, et c'est une bonne chose pour tout le monde.
+nous espérons voir une augmentation du nombre de développeurs qui s'installent dans l'espace Dogecoin, et c'est une bonne chose pour tout le monde.
 
 ### Suite de tests fonctionnels basés sur des normes
 
 Les normes sont fantastiques, mais si elles ne sont pas démontrables, elles ne tiennent pas la route. Une partie du 
 le processus de création de la norme Dogecoin sera la création d'une suite de test compagnon
-qui exercera effectivement toute mise en œuvre de Dogecoin et sera en mesure de valider que 
-qu'elle est conforme.  
+qui exercera effectivement toute mise en œuvre de Dogecoin et sera en mesure de valider qu'elle est conforme.  
 
 Il s'agit d'un énorme accélérateur pour un écosystème Dogecoin diversifié : lorsque nous pouvons apporter des changements à
 nos implémentations de nœuds et de portefeuilles et valider immédiatement qu'elles fonctionneront toujours 
@@ -83,9 +81,8 @@ avoir une forte préférence pour les mises en œuvre expérimentales qui exerce
 leur efficacité, similaire de l'approche du W3C pour les normes Web.
 
 La Fondation pense que le déplacement de la référence définitive du protocole Dogecoin de l'ancien
-*Core Wallet* à une *spécification* gérée par la communauté permettra d'assurer l'avenir de Dogecoin contre les 
+*Core Wallet* vers une *spécification* gérée par la communauté permettra d'assurer l'avenir de Dogecoin contre les 
 risques auxquels il est actuellement confronté en tant que porte-monnaie unique. Plus il y aura de portefeuilles conformes à la norme Dogecoin, plus le protocole est sécurisé par consensus d'implémentation. 
-la sécurité par consensus du réseau vivant repose sur la diversité des nœuds.
 
 
 
