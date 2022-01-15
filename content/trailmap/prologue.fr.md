@@ -83,7 +83,7 @@ pour les gens partout dans le monde.
 
 Il fut un temps où la plupart du "monde connu" acceptait une monnaie universelle,
 frappée par Rome. Un **Denarius**, "environ le salaire d'un jour" avait un avantage : vous 
-vous pouviez le dépenser n'importe où dans l'empire pour satisfaire vos désirs ou vos besoins, il avait une **utilité**.
+pouviez le dépenser n'importe où dans l'empire pour satisfaire vos désirs ou vos besoins, il avait une **utilité**.
 
 Un Denarius n'avait pas de contrats intelligents, pas de script, pas de DAPP, et pourtant cette pièce a, un jour, 
 contrôlé le monde.
@@ -98,12 +98,12 @@ ou des plateformes d'ingénierie comme ETH, nous pensons que l'étape innovante 
 faite par Satoshi avec l'invention de la crypto _MONNAIE_.
 
 Dogecoin possède déjà les fondamentaux nécessaires pour atteindre ces objectifs en se concentrant
-sur la simplicité, l'utilité et la fiabilité, et c'est sur cela que se concentre cette feuille de route.
+sur la simplicité, l'utilité et la fiabilité, et c'est sur cela que se concentre cette trailmap.
 
 ## Utilité grâce a une integration rapide.
 
-Au cours des huit derniers exercices, le Dogecoin a suivi de près l'évolution du portefeuille de bureau Bitcoin C++/QT 
-maintenu héroïquement par l'équipe de développement Dogecoin Core.
+Au cours des huit dernière années, le Dogecoin a suivi de près l'évolution du portefeuille de bureau Bitcoin C++/QT 
+maintenu héroïquement par l'équipe de développement du Dogecoin Core.
 Il y a dix ans, quand la crypto était à ses débuts, c'était une décision solide, mais les temps changent 
 et ce qui était autrefois utile à la base de la crypto a pris du retard sur un monde
 où la plupart des gens font des transactions sur leurs téléphones, et où l'intégration avec les détaillants en ligne
@@ -111,7 +111,7 @@ est primordiale.
 
 La trailmap de la fondation fournit une voie à suivre pour sécuriser le Dogecoin
 à travers la diversification du réseau (ouvrant la voie à de nouveaux nœuds plus rapides), et à
-consolider ce le Dogecoin par le biais d'un standard Dogecoin écrit, prouvable, avec 
+consolider ce le Dogecoin, par le biais d'un standard Dogecoin écrit, prouvable, avec 
 des tests complets.
 
 En outre, il offre de nouvelles possibilités aux fournisseurs de services de paiement, aux détaillants, aux 
@@ -121,24 +121,23 @@ dans leur infrastructure grâce à des solutions dorsales évolutives telles que
 
 <img class='center' src="/libdogecoin-ecosystem.png">
 
-La sécurité de la communauté est abordée avec une proposition d'application et de kit de développement de Keyring Dogecoin qui permettra de conserver la possession de leurs Dogecoins tout en s'intégrant aux API de
+La sécurité de la communauté est abordée avec une proposition d'application et de kit de développement de Dogecoin Keyring qui permettra de conserver la possession de leurs Dogecoins tout en s'intégrant aux API du
 GigaWallet afin que les applications mobiles puissent effectuer des transactions en Dogecoin sans détenir vos clés.
 
 La Fondation travaille également avec Vitalik (fondateur de la blockchain Ethereum)
 sur l'élaboration d'une proposition "Doge" unique pour une version de PoS "Community Staking" qui permettra à _tous_, et pas seulement aux gros détenteurs,
-de récompenser pour leur contribution au fonctionnement du réseau, et en même temps 
+d'être récompenser pour leur contribution au fonctionnement du réseau, et en même temps 
 de redonner à l'ensemble de la communauté par le biais de causes caritatives.
 
 ## Timeline.
 
 Comme vous pouvez l'imaginer, se lancer dans une telle aventure n'est pas une mince affaire et nous ne faisons que commencer. 
-Nous avons déjà des amis influents
-de notre côté et un groupe de plus en plus important de personnes qui se préparent à contribuer
-temps de développement à ces projets open-source. 
+Nous avons déjà des amis influents de notre côté et un groupe de plus en plus important de personnes qui se préparent à contribuer, du
+temps de développement, à ces projets open-source. 
 
 Au cours des prochains mois, les projets Libdogecoin et GigaWallet vont commencer à prendre forme, et nous avons quelques intégrateurs précoces qui sont intéressé à les utiliser dans leurs projets. Ces premiers projets ont pour but de poser des bases solides, tandis que les projets à venir viseront à améliorer le débit et l'échelle des transactions. 
 
-Attendez-vous à voir davantage de projets sur la feuille de route se débloquer avec leurs propres détails,
+Attendez-vous à voir davantage de projets sur la Trailmap se débloquer avec leurs propres détails,
 Git Repo et problèmes au fur et à mesure qu'ils sont affinés et que le travail commence en 2022. 
 
 
