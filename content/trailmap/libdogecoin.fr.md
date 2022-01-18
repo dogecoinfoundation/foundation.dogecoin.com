@@ -19,11 +19,11 @@ name = "Dogecoin Fondation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [Projet: Libdogecoin](/trailmap/libdogecoin/)
-* [Projet: Dogecoin Standard](/trailmap/standard/)
-* [**Projet: GigaWallet**](/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com makeover & Dogepedia](fr/trailmap/website/)
+* [Projet: Libdogecoin](fr/trailmap/libdogecoin/)
+* [Projet: Dogecoin Standard](fr/trailmap/standard/)
+* [**Projet: GigaWallet**](fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
 * Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
 * Proposition: Community Staking (Proof of Stake)
@@ -55,7 +55,7 @@ des bits ensemble dans un moteur se fasse au niveau supérieur, via les biblioth
 de réseau du langage hôte.  
 
 Pendant le processus d'extraction des éléments fondamentaux du Dogecoin Core
-Wallet (implémentation de référence) nous visons à documenter "comment fonctionne Dogecoin" sous la forme d'une suite de tests et de documents que nous appelons le [standard Dogecoin] (/trailmap/standard).
+Wallet (implémentation de référence) nous visons à documenter "comment fonctionne Dogecoin" sous la forme d'une suite de tests et de documents que nous appelons le [standard Dogecoin] (fr/trailmap/standard).
 En faisant cela, nous serons en mesure de vérifier que l'implémentation Libdogecoin
 interne de Dogecoin est correcte par rapport au wallet original, et donc fournir 
 un mécanisme permettant à toute implémentation future de Dogecoin de vérifier sa conformité
@@ -73,7 +73,7 @@ disponible comme une simple bibliothèque C avec des liens pour de nombreux lang
 la capacité de la communauté à innover. 
 
 * Vous voulez créer un nouveau walet Dogecoin en Python ? Ruby ? Node.js ? Faites-le !
-* Vous voulez créer un nœud Dogecoin réduit pour un but spécifique (comme [GigaWallet](/trailmap/gigawallet)) ? Bien sûr !
+* Vous voulez créer un nœud Dogecoin réduit pour un but spécifique (comme [GigaWallet](fr/trailmap/gigawallet)) ? Bien sûr !
 * Vous voulez créer un utilitaire shell pour gérer les paires de clés HD Dogecoin en Golang ? Allez-y ! 
 
 Notre objectif est de rendre l'écosystème Dogecoin plus sain en :
@@ -86,7 +86,7 @@ Notre objectif est de rendre l'écosystème Dogecoin plus sain en :
 <img class='center' src="/libdogecoin-purpose.png">
 
 Ces objectifs sont atteints principalement par la documentation du Dogecoin et validés par une 
-[norme Dogecoin] (/trailmap/standard) qui permettra à la communauté d'avoir confiance dans les diverses implémentations des nœuds et des portefeuilles Dogecoin. 
+[norme Dogecoin] (fr/trailmap/standard) qui permettra à la communauté d'avoir confiance dans les diverses implémentations des nœuds et des portefeuilles Dogecoin. 
 
 Libdogecoin est l'élément de base du plan de la Fondation pour y parvenir.
 
