@@ -212,11 +212,11 @@ disableHugoGeneratorInject = false
         name       = "宣言"
         url        = "manifesto/"
         weight     = 3
-      #[[languages.zh-cn.menu.main]]
-        #identifier = "roadmap"
-        #name       = "Roadmap"
-        #url        = "roadmap/"
-        #weight     = 4
+      [[languages.zh-cn.menu.main]]
+        identifier = "trailmap"
+        name       = "路线"
+        url        = "trailmap/prologue"
+        weight     = 4
       [[languages.zh-cn.menu.main]]
         identifier = "news"
         name       = "新闻"
