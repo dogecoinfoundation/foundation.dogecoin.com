@@ -16,7 +16,7 @@ simultaneously tackling changes at a pace that keeps-up with other cryptocurrenc
 
 On January 23rd, 2022, three members of the Foundation, Michi Lumin, Ross Nicoll, and Tim Stebbing 
 will be participating in a video AMA (Ask-Me-Anything) with the community. The AMA will be live 
-streamed [here](youtu.be/jctze9jZfTQ). In anticipation of the AMA, a short update of recent Foundation 
+streamed [here](https://youtu.be/jctze9jZfTQ). In anticipation of the AMA, a short update of recent Foundation 
 activities, all of which have been undertaken for the benefit of the Dogecoin community, includes: 
 
  *   Launching the first [Dogecoin Trailmap](/trailmap/prologue/) to provide a vision for the future of the Dogecoin ecosystem. 
@@ -39,7 +39,7 @@ activities, all of which have been undertaken for the benefit of the Dogecoin co
 
  *   Ensuring that the Dogecoin name, logo, and memes remain available for the community to use freely. 
 
- *   Liaising with the community, investors, technologists and other stakeholders around the world, to devise and implement opportunities for cryptocurrency, to future-proof it for everyone. 
+ *   Liaising with the community, investors, technologists and other stakeholders around the world, to devise and implement opportunities for the cryptocurrency, to future-proof it for everyone. 
 
 Importantly, all of these actions have been taken to ensure that Dogecoin remains the People’s 
 cryptocurrency for years to come. The Foundation is dedicated, as always, to **D**oing **O**nly **G**ood **E**veryday. 
