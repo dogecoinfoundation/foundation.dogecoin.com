@@ -19,11 +19,11 @@ name = "Dogecoin Fondation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](fr/trailmap/website/)
-* [Projet: Libdogecoin](fr/trailmap/libdogecoin/)
-* [Projet: Dogecoin Standard](fr/trailmap/standard/)
-* [**Projet: GigaWallet**](fr/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Projet: Libdogecoin](/fr/trailmap/libdogecoin/)
+* [Projet: Dogecoin Standard](/fr/trailmap/standard/)
+* [**Projet: GigaWallet**](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
 * Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
 * Proposition: Community Staking (Proof of Stake)
@@ -44,7 +44,7 @@ name = "Dogecoin Fondation"
 
 ## GigaWallet, un service Dogecoin prêt à l'emploi pour votre plateforme.
 
-Comme nous l'avons mentionné dans le [Prologue](fr/trailmap/prologue), nous croyons que l'utilité 
+Comme nous l'avons mentionné dans le [Prologue](/fr/trailmap/prologue), nous croyons que l'utilité 
 vient de l'adoption et que l'adoption vient de l'utilité, c'est une boucle qui est 
 actuellement lente en raison de la réticence autour de l'adoption de la plateforme. 
   

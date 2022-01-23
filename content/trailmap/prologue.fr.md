@@ -19,11 +19,11 @@ name = "Dogecoin Fondation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](fr/trailmap/website/)
-* [Projet: Libdogecoin](fr/trailmap/libdogecoin/)
-* [Projet: Dogecoin Standard](fr/trailmap/standard/)
-* [**Projet: GigaWallet**](fr/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Projet: Libdogecoin](/fr/trailmap/libdogecoin/)
+* [Projet: Dogecoin Standard](/fr/trailmap/standard/)
+* [**Projet: GigaWallet**](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
 * Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
 * Proposition: Community Staking (Proof of Stake)
@@ -55,7 +55,7 @@ Cette feuille de route représente une promenade que la Fondation Dogecoin s'est
 
 ## Pourquoi ces projets ?
 
-Au mois d'août, nous avons signé le [Dogecoin Manifesto](fr/manifeste) et invité la communauté à le signer en cliquant sur le bouton de partage de tweet : la réponse a été 
+Au mois d'août, nous avons signé le [Dogecoin Manifesto](/fr/manifesto) et invité la communauté à le signer en cliquant sur le bouton de partage de tweet : la réponse a été 
 très positive.  
 
 Le Manifeste était notre tentative de capturer tout ce que la communauté voulait 
@@ -115,7 +115,7 @@ des tests complets.
 En outre, il offre de nouvelles possibilités aux fournisseurs de services de paiement, aux détaillants, aux 
 développeurs de jeux et les plateformes sociales (pour n'en citer que quelques-uns), d'intégrer rapidement le Dogecoin 
 dans leur infrastructure grâce à des solutions dorsales évolutives telles que le 
-[GigaWallet Project] (fr/trailmap/gigawallet/).
+[GigaWallet Project](/fr/trailmap/gigawallet/).
 
 <img class='center' src="/libdogecoin-ecosystem.png">
 

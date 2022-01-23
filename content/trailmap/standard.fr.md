@@ -19,11 +19,11 @@ name = "Dogecoin Fondation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](fr/trailmap/website/)
-* [Projet: Libdogecoin](fr/trailmap/libdogecoin/)
-* [Projet: Dogecoin Standard](fr/trailmap/standard/)
-* [**Projet: GigaWallet**](fr/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Projet: Libdogecoin](/fr/trailmap/libdogecoin/)
+* [Projet: Dogecoin Standard](/fr/trailmap/standard/)
+* [**Projet: GigaWallet**](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
 * Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
 * Proposition: Community Staking (Proof of Stake)
@@ -43,7 +43,7 @@ name = "Dogecoin Fondation"
 ## Dogecoin Standard - Un cahier des charges.
 
 Le standard Dogecoin sera une *spécification écrite* et une *suite de tests* de validation dérivées 
-du Dogecoin Core Wallet au cours du processus de création de [libdogecoin] (fr/trailmap/libdogecoin). 
+du Dogecoin Core Wallet au cours du processus de création de [libdogecoin](/fr/trailmap/libdogecoin). 
 Le standard Dogecoin a pour but de documenter complètement l'implémentation de référence (Core Wallet), comblant ainsi le manque de "whitepaper" souvent demandé. 
 et fournir des documents à quiconque essaie de comprendre le fonctionnement du Dogecoin. 
 

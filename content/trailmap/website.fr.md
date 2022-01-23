@@ -19,11 +19,11 @@ name = "Dogecoin Fondation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](fr/trailmap/website/)
-* [Projet: Libdogecoin](fr/trailmap/libdogecoin/)
-* [Projet: Dogecoin Standard](fr/trailmap/standard/)
-* [**Projet: GigaWallet**](fr/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Projet: Libdogecoin](/fr/trailmap/libdogecoin/)
+* [Projet: Dogecoin Standard](/fr/trailmap/standard/)
+* [**Projet: GigaWallet**](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
 * Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
 * Proposition: Community Staking (Proof of Stake)
