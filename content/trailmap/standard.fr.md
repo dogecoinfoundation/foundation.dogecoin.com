@@ -30,6 +30,8 @@ name = "Dogecoin Fondation"
 * Partenariat: Point de vente (L2 app) 
 </div>
 
+</div>
+
 <div class="right">
 <img class="dogegoin-light" src="/logo-standard.jpg" alt="Dogecoin logo">
 <img class="dogegoin-dark" src="/logo-standard.jpg" alt="Dogecoin logo">

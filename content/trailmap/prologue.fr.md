@@ -30,6 +30,8 @@ name = "Dogecoin Fondation"
 * Partenariat: Point de vente (L2 app) 
 </div>
 
+</div>
+
 <div class="right">
 <img class="dogegoin-light" src="/trailmap.png" alt="Dogecoin logo">
 <img class="dogegoin-dark" src="/trailmap.png" alt="Dogecoin logo">
@@ -40,11 +42,11 @@ name = "Dogecoin Fondation"
 
 <section class='board'>
 
-## Qu'est-ce que le Dogecoin Trailmap ?
+## Qu'est-ce que le Dogecoin Trailmap?
   
 Bien que "feuille de route" soit un terme couramment utilisé lorsque de nouvelles crypto-monnaies sont lancées, il évoque une voie rigide à suivre, dirigée par une seule entreprise ou "leader".  
 
-  **Dogecoin est un projet open-source basé sur le consensus et dirigé par la communauté et sa direction est formée par les nombreux contributeurs individuels et organisationnels aux différents projets de la blockchain et de l'écosystème Dogecoin.**  
+**Dogecoin est un projet open-source basé sur le consensus et dirigé par la communauté et sa direction est formée par les nombreux contributeurs individuels et organisationnels aux différents projets de la blockchain et de l'écosystème Dogecoin.**  
 
 La direction de Dogecoin est pavée par les nombreux projets que la communauté 
 estime qu'ils correspondent le mieux à sa direction. C'est une décision très intentionnelle : il est important que
@@ -53,7 +55,7 @@ Dogecoin reste un projet décentralisé avec des bergers plutôt que des dirigea
 Cette feuille de route représente une promenade que la Fondation Dogecoin s'est engagée à suivre et qui, selon nous, contribueront au succès de Dogecoin.
 
 
-## Pourquoi ces projets ?
+## Pourquoi ces projets?
 
 Au mois d'août, nous avons signé le [Dogecoin Manifesto](/fr/manifesto) et invité la communauté à le signer en cliquant sur le bouton de partage de tweet : la réponse a été 
 très positive.  
