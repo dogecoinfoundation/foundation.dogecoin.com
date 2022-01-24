@@ -12,18 +12,18 @@ name = "Dogecoin Foundation"
 <div class="title">
 
 
- ## <img width="60px" style='display: inline;' src="/marker.png"/>도지코인 트레일맵: 도입부
+ ## <img width="60px" style='display: inline;' src="/marker.png"/>Dogecoin Trailmap: Prologue
 
 <div class="underline"></div>
 </div>
 
 <div class="description">
  
-* [**도지코인 트레일맵: 도입부**](/kr/trailmap/prologue/) 
-* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [Project: Libdogecoin](/trailmap/libdogecoin/)
-* [Project: Dogecoin Standard](/trailmap/standard/)
-* [프로젝트: 기가지갑](/kr/trailmap/gigawallet/)
+* [**Dogecoin Trailmap: Prologue**](/kr/trailmap/prologue/) 
+* [Project: Dogecoin.com makeover & Dogepedia](/kr/trailmap/website/)
+* [Project: Libdogecoin](/kr/trailmap/libdogecoin/)
+* [Project: Dogecoin Standard](/kr/trailmap/standard/)
+* [Project: GigaWallet](/kr/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)

@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/trailmap/prologue/) 
-* [**Project: Dogecoin.com makeover & Dogepedia**](/trailmap/website/)
-* [Project: Libdogecoin](/trailmap/libdogecoin/)
-* [Project: Dogecoin Standard](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/kr/trailmap/prologue/) 
+* [**Project: Dogecoin.com makeover & Dogepedia**](/kr/trailmap/website/)
+* [Project: Libdogecoin](/kr/trailmap/libdogecoin/)
+* [Project: Dogecoin Standard](/kr/trailmap/standard/)
+* [Project: GigaWallet](/kr/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
@@ -42,29 +42,28 @@ name = "Dogecoin Foundation"
 
 <section class='board'>
 
-## Dogecoin.com makeover.
+## Dogecoin.com 재디자인.
 
-Volunteers from the Doge Army have come together from all over the 
-world to work on a re-design of the Dogecoin.com website. Bluezr, CB & 
-Florian along with the amaze Hack Club teens Belle, Ella & Sam have been
-building out a whole new site which has a stack of new information: 
-from links to current projects and teams, to information on the network 
-and how you can get involved as a coder, a miner, a HODLr or a fan!
+도지코인 커뮤니티의 지원자들이 전세계에서
+모여 도지코인 웹사이트를 재꾸민다. Bluezr, CB &
+Florian 그리고 Hack Club의 십대들 Belle, Ella & Sam은
+새로운 정보가 많은 새로운 사이트를 건설해왔다: 현재 진행중인 프로젝트과 팀들의 링크, 네트워크에 대한 정보 
+그리고 당신도 coder, 채굴인 혹은 HODlr 또는 팬으로서 어떻게 기여할 수 있는 지에 대한 정보도!
 
 ## Dogepedia.
 
-One of the key parts of the re-design will be the Dogepedia section. 
-Good Shibes MishaBoar & Richard have scoured Reddit, Twitter and the 
-net to compile a list of FAQs that can grow over time and become a real 
-resource for the community. 
+재디자인의 핵심 중 하나는 Dogepedia 부분이다.
+착한 Shibe Mishaboar와 Richard는 Reddit, Twitter 그리고 인터넷을 조사해
+시간이 지남에 따라 커질 수 있으며 커뮤니티를 위한 리소스가 될
+FAQ 목록을 수집하였다.  
 
-Our hope is that by making each Q&A a directly link-able page, we're 
-arming the Doge Army with the tools to destroy FUD wherever they find
-it!
+저희의 기대는 각 Q&A를 바로 링크할 수 있는 페이지로 만들어,
+도지코인 커뮤니티가 FUD를 파괴할 수 있는 도구를 쥐어줄 것이라고
+기대한다!
 
 ## When Moon?
 
-Expect to see a preview up in January for community feedback and 
-if all is well, a shiny new website shortly after. Wow! 
+1월달에 커뮤니티 피드백을 받을 프리뷰를 기대하시고
+모든 것이 잘된다면, 곧이어 새로운 웹사이트가 나올 것입니다. 와우!
 
 </section>

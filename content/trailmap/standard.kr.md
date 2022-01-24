@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/trailmap/prologue/) 
-* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [Project: Libdogecoin](/trailmap/libdogecoin/)
-* [**Project: Dogecoin Standard**](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
+* [Dogecoin Trailmap: Prologue](/kr/trailmap/prologue/) 
+* [Project: Dogecoin.com makeover & Dogepedia](/kr/trailmap/website/)
+* [Project: Libdogecoin](/kr/trailmap/libdogecoin/)
+* [**Project: Dogecoin Standard**](/kr/trailmap/standard/)
+* [Project: GigaWallet](/kr/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
@@ -45,7 +45,7 @@ name = "Dogecoin Foundation"
 ## Dogecoin Standard - A Specification.
 
 The Dogecoin Standard will be a *Written Specification* and validating *test suite* derived 
-from the Dogecoin Core Wallet during the process of creating [libdogecoin](/trailmap/libdogecoin). 
+from the Dogecoin Core Wallet during the process of creating [libdogecoin](/kr/trailmap/libdogecoin). 
 The Dogecoin Standard aims to fully document the reference implementation (Core Wallet), filling 
 the gap of the often requested 'whitepaper' and providing docs to anyone trying to understand how 
 Dogecoin works.
@@ -54,7 +54,7 @@ As we've seen recently with some exchanges, 'getting Dogecoin wallets right' isn
 now to understand how Dogecoin works you need to read the code, or have been part of the Dogecoin
 project from the early days. What we hope to achieve by documenting Dogecoin is multi-faceted:
 
-### Lower the barrier for new Devs.
+### 새로운 개발자들의 진입장벽 낮추기.
 
 One thing we've experienced trying to get more devs into the Dogecoin community is the steep 
 learning curve faced by even experienced developers. Currently we're pointing people at the

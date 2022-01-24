@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/trailmap/prologue/) 
-* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [**Project: Libdogecoin**](/trailmap/libdogecoin/)
-* [Project: Dogecoin Standard](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
+* [도지코인 트레일맵: 도입부](/kr/trailmap/prologue/) 
+* [Project: Dogecoin.com makeover & Dogepedia](/kr/trailmap/website/)
+* [**Project: Libdogecoin**](/kr/trailmap/libdogecoin/)
+* [Project: Dogecoin Standard](/kr/trailmap/standard/)
+* [Project: GigaWallet](/kr/trailmap/gigawallet/)
 * Project: Dogecoin Keyring (App / SDK)
 * Project: RadioDoge (Starlink + Radio nodes for remote locations)
 * Proposal: Community Staking (Proof of Stake)
@@ -42,54 +42,54 @@ name = "Dogecoin Foundation"
 
 <section class='board'>
 
-## Libdogecoin, a clean C library of Dogecoin building blocks.
+## Libdogecoin, 도지코인의 건설자재에 해당하는 clean C library.
 
-Libdogecoin will be a complete implementation of the Dogecoin Protocols, 
-as a C library (and series of bindings to popular languages) which will 
-allow anyone to build a Dogecoin compliant product, without needing to 
-worry about the deeper specifics of the crypto functions.  
+Libdogecoin은 도지코인 프로토콜의 완전한 구현으로,
+C library (그리고 인기있는 언어로 되어있는 binding series)로서
+누구나 도지코인 준수 제품을 만들수 있게 해줄 것이며, 보다 더 상세한
+가상화폐 function을 걱정하지 않아도 될 것 이다.
 
-It’s important to note that libdogecoin will be a pure library, not 
-providing a ‘runnable’ node facility. It is intended that connecting 
-the bits together into an engine be done at the level above, via the 
-networking libraries of the host language.  
+중요시 할 것은 libdogecoin은 오로지 library일 것이며,
+'실행가능한' 노드 facility를 제공하는 것이 아니다. 윗 단계에서, 
+host language networking libraries를 통하여, engine이 
+형성될 수 있도록 서로 연결하는 것이 의도이다.
 
-During the process of extracting the fundamentals from the Dogecoin Core
-Wallet (reference implementation) we aim to document 'how Dogecoin works' 
-as a suite of tests and documents we are calling the [Dogecoin Standard](/trailmap/standard).
-By doing this we will be able to verify that the Libdogecoin implementation
-of Dogecoin's internals is accurate to the OG wallet, and thus provide 
-a mechanism for any future Dogecoin implementations to verify compliance
-with the Dogecoin Network.
+도지코인 코어 지갑에서 근본적인 요소를 추출하는 과정에서 (reference implementation)
+우리는 '도지코인 작동 원리'를 문서화하는 것을 목표로 하고 있으며
+이는 여러개의 test와 문서의 모음으로 이를 [Dogecoin Standard](/kr/trailmap/standard) 이라 한다.
+이를 통하여 Libdogecoin 구현의 도지코인 내부 시스템이
+OG(원조) 지갑에 정확하게 일치하는 것을 확인하며, 즉
+미래의 도지코인 구현이 도지코인 네트워크에 준수하는 것을
+확인 하는 메커니즘을 제공하게 된다.
 
-## Why, what does this do for Dogecoin?
+## Why, 이는 도지코인을 위하여 무엇을 제공하는가?
 
-It's all about utility through adoption, and adoption comes through integration. 
-Right now the aging Dogecoin Core wallet is heavy with desktop metaphors that
-made sense a decade ago, and encumbered with facilities which slow down development
-and would better be broken out into utilities. 
+채택을 통한 유용성, 그리고 채택은 구현을 통하여 일어난다. 
+지금으로서 나이가 어느 정도 있는  도지코언 코어는 10년전의 상황에는 적절했던 
+데스크톱용 metaphor로 무거우며, 또한 개발을 늦추는 facilities로 인해 방해를 받고 있으며
+이는 utilities으로 분해하는 것이 나을 것이다.
 
-We believe that by taking the core functionality from Dogecoin and making it
-available as a simple C library with bindings for many languages, we multiply
-the community's ability to innovate. 
+저희는 도지코인의 코어 작동원리를 가지고
+여러 언어에 대한 binding이 있는 단순한 C library로 제공하여,
+커뮤니티가 혁신을 일으킬 수 있는 능력을 배로 늘리는 것이라고 생각한다.
 
-* Want to create a new Dogecoin Wallet in Python? Ruby? Node.js? Do it!
-* Want to create a slimmed down Dogecoin node for a specific purpose (like [GigaWallet](/trailmap/gigawallet))? Sure!
-* Want to create a shell utility for managing HD Dogecoin keypairs in Golang? Go nuts! 
+* Python을 위한 도지코인 지갑을 만들고 싶나요? Ruby? Node.js? Do it!
+* 특정한 목적을 위하여 가벼운 도지코인 노드를 만들고 싶나요 (예를 들어 [GigaWallet](/kr/trailmap/gigawallet))? Sure!
+* Golang에서 HD 도지코인 keypair를 관리하기 위한 shell utility를 만들고 싶나요? Go nuts! 
 
-We're aiming to make the Dogecoin Ecosystem healthier as we:
+저희는 도지코인 에코시스템을 보다더 건강하게 만드는 것을 목표로 하고 있으며 그 방법으로는:
 
-* Diversify the dependence on the Core Wallet as the single definition of the Dogecoin Blockchain. 
-* Increase the options for standard-based wallet & node implementations to be developed. 
-* Increase the integration options to improve adoption of Dogecoin by platforms. 
-* Improve the process of joining the Dogecoin network so more people run Dogecoin nodes. 
+* 도지코인 블록체인의 단일 정의인 코어 지갑에 대한 의존성을 다양화. 
+* standard-based 지갑과 개발될 노드 구현 선택지를 늘리는 것. 
+* 구현/통합 선택지를 늘려 플랫폼의 도지코인 채택을 개선. 
+* 도지코인 네트워크에 참여하는 프로세스를 개선하여 보다 더 많은 사람들이 도지코인 노드를 운영하게 하는 것. 
 
 <img class='center' src="/libdogecoin-purpose.png">
 
-These objectives are met primarily through the librarification of Dogecoin and validated by a 
-[Dogecoin Standard](/trailmap/standard) which will allow the community to have confidence in 
-diverse implementations of Dogecoin Nodes and Wallets.   
+이 목표들은 일차적으로 Dogecoin의 librarification을 통하여 완수가 되며
+[Dogecoin Standard](/kr/trailmap/standard) 을 통하여 검증을 받아 커뮤니티가
+다양화 된 도지코인 노드와 지갑의 구현에 대한 자신감을 가질 수 있게 해줄 것이다.
 
-Libdogecoin is the underlying building block in the Foundation's plan to make this happen.
+Libdogecoin은 재단의 이를 실현 시키기 위한 계획 중에 제일의 구성 요소에 해당한다.
 
 </section>
