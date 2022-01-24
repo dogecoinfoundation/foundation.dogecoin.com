@@ -19,7 +19,7 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [도지코인 트레일맵: 도입부](/kr/trailmap/prologue/) 
+* [Dogecoin Trailmap: Prologue](/kr/trailmap/prologue/) 
 * [Project: Dogecoin.com makeover & Dogepedia](/kr/trailmap/website/)
 * [**Project: Libdogecoin**](/kr/trailmap/libdogecoin/)
 * [Project: Dogecoin Standard](/kr/trailmap/standard/)
