@@ -170,6 +170,10 @@ disableHugoGeneratorInject = false
   [[params.social]]
     name = "reddit"
     url  = "https://www.reddit.com/r/dogecoindev"
+  
+  [[params.social]]
+    name = "discord"
+    url  = "https://discord.gg/dogecoin"
 
 [languages]
   [languages.en]
