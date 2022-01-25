@@ -125,7 +125,7 @@ centralised 화폐가 한 황제의 얼굴을 지니고 있는 것이 아닌,
 
 또한 이는 결제 수단, 상점, 게임 개발자, 소셜 플랫폼을 위한 길을 열어주며,
 보다 빠르게 도지코인을 그들의 인프라에 통합할 수 있도록 다음과 같은 scalable backend 솔루션을 제공해줄 것,
-[GigaWallet Project](/trailmap/gigawallet/).
+[GigaWallet Project](/kr/trailmap/gigawallet/).
 
 <img class='center' src="/libdogecoin-ecosystem.png">
 
