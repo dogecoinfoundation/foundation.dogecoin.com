@@ -1,7 +1,7 @@
 +++
 title = "Projet: GigaWallet" 
 date = "2021-12-10"
-type = "À propos"
+type = "about"
 [ author ]
 name = "Dogecoin Fondation"
 +++
