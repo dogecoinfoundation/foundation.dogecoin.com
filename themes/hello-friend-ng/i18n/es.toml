@@ -16,7 +16,19 @@ other = "También disponible en"
 other = "Archivo"
 
 [home]
-other = "Home"
+other = "Inicio"
+
+[Dogecoin-Foundation]
+other = "Fundación Dogecoin"
+
+[by]
+other = "Autor/es"
+
+[Advisories]
+other = "Avisos"
+
+[Announcements]
+other = "Anuncios"
 
 [notFound]
 other = "Oops, página no encontrada…"
