@@ -23,23 +23,23 @@ other = "Oops, página no encontrada…"
 
 # Homepage strings
 [dogecoin]
-other = "Dogecoin"
+other = "Fundación"
 
 [foundation]
-other = "Foundation"
+other = "Dogecoin"
 
 [onlygood]
 other = "Do Only Good Everyday"
 
 # Footer strings
 [dogecoinfoundation]
-other = "Dogecoin foundation"
+other = "Fundación Dogecoin"
 
 [website-by]
-other = "Website by"
+other = "Sitio web por"
 
 [theme-by]
-other = "Theme by"
+other = "Tema creado por"
 
 
 # posts/single.html
