@@ -18,20 +18,28 @@ other = "Archivo"
 [home]
 other = "Inicio"
 
-[Dogecoin-Foundation]
-other = "Fundación Dogecoin"
-
-[by]
-other = "Autor/es"
-
-[Advisories]
-other = "Avisos"
-
-[Announcements]
-other = "Anuncios"
-
 [notFound]
 other = "Oops, página no encontrada…"
+
+# Homepage strings
+[dogecoin]
+other = "Dogecoin"
+
+[foundation]
+other = "Foundation"
+
+[onlygood]
+other = "Do Only Good Everyday"
+
+# Footer strings
+[dogecoinfoundation]
+other = "Dogecoin foundation"
+
+[website-by]
+other = "Website by"
+
+[theme-by]
+other = "Theme by"
 
 
 # posts/single.html
