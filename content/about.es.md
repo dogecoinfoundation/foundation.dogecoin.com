@@ -42,7 +42,7 @@ La Fundación Dogecoin es una organización sin ánimo de lucro establecida para
 La Fundación fue establecida por miembros del equipo de Dogecoin en 2014 para administrar y dar soporte al proyecto Dogecoin. En 2021 ha sido
 refundada por los miembros del equipo original junto con nuevas caras y asesores experimentados, listos para hacer crecer Dogecoin en la próxima década.
 
-Puede leer acerca de los principios rectores de la Fundación en [El Manifiesto Dogecoin](/manifesto).
+Puede leer acerca de los principios rectores de la Fundación en [El Manifiesto Dogecoin](/es/manifesto).
 
 </div>
 </div>

@@ -30,7 +30,7 @@ Hemos estado pensando en lo que significa Dogecoin: como un proyecto técnico y 
 
 Creemos que juntos, estos pilares clave que encarnan "Hacer solo el bien todos los días" nos guiarán hacia adelante a medida que tomamos decisiones y avanzamos el ecosistema Dogecoin.
 
-[El Manifiesto Dogecoin](/manifesto)
+[El Manifiesto Dogecoin](/es/manifesto)
 
 Si puedes, por favor ‘firma’ el Manifiesto pulsando el enlace de tweeter al final de la página del Manifiesto. Esto le dirá al mundo lo que representa la Familia Dogecoin!
 
@@ -38,7 +38,7 @@ Si puedes, por favor ‘firma’ el Manifiesto pulsando el enlace de tweeter al 
 
 Uno de los principios clave del Manifiesto es que valoramos la *colaboración y la confianza* por encima de la *competición y la exclusividad*. Con eso en mente, hemos establecido un pequeño, pero muy inteligente y sorprendente grupo de asesores con experiencia en diversidad de áreas que serán aliados y defensores de Dogecoin a medida que buscamos crecer y desarrollar el ecosistema.
 
-[Consulte aquí nuestra lista de asombrosos Asesores](/about), y asegúrate de darles un poco de amor por ofrecer su valioso tiempo.
+[Consulte aquí nuestra lista de asombrosos Asesores](/es/about), y asegúrate de darles un poco de amor por ofrecer su valioso tiempo.
 
 ### El precio del éxito
 
