@@ -19,6 +19,7 @@ name = "Dogecoin Foundation"
 <div class="description">
 La Dogecoin Foundation è un'organizzazione senza fini di lucro creata per:
 
+  
 - Supportare la criptovaluta Dogecoin attraverso lo sviluppo e il patrocinio.
 - Protegge e prevernire dagli abusi e dalle frodi il marchio Dogecoin.
 - Stabilire una tabella di marcia sulla gestione e sul futuro di Dogecoin. 
