@@ -11,17 +11,17 @@ name = "Dogecoin Foundation"
 
 <div class="title">
 
-## About the foundation
+## La Fondazione
 
   <div class="underline"></div>
 </div>
 
 <div class="description">
-The Dogecoin Foundation is a not-for-profit organisation established to provide:
+La Dogecoin Foundation è un'organizzazione senza fini di lucro creata per:
 
-- Support for the Dogecoin crypto-currency through development and advocacy.
-- Dogecoin trademark defense to prevent abuse and fraud.
-- A roadmap and governance for the future of Dogecoin.
+- Supportare la criptovaluta Dogecoin attraverso lo sviluppo e il patrocinio.
+- Protegge e prevernire dagli abusi e dalle frodi il marchio Dogecoin.
+- Stabilire una tabella di marcia sulla gestione e sul futuro di Dogecoin. 
 
 </div>
 
@@ -32,18 +32,18 @@ The Dogecoin Foundation is a not-for-profit organisation established to provide:
 
 <div class="title">
 
-## History
+## Storia
 
 <div class="underline"></div>
 </div>
 
 <div class="description">
-The Foundation was established by members of the Dogecoin team in 2014 to provide
-governance and support for the Dogecoin project. In 2021 the Foundation has been
-re invigorated by members of the original core team along with fresh faces and new
-seasoned advisors ready to grow Dogecoin for the decade ahead.
+La Fondazione è stata creata dal team di Dogecoin nel 2014 con lo scopo
+di gestire e supportare il progetto Dogecoin. Nel 2021 la Fondazione è stata
+rafforzata dal team di sviluppo del originale con l'ingresso di esperti e consulenti
+che sono pronti a far grescere Dogecoin nel prossimo decennio.
 
-You can read about the Foundation's guiding principles in [The Dogecoin Manifesto](/manifesto).
+Puoi leggere i principi della Fondazione [The Dogecoin Manifesto](/manifesto).
 
 </div>
 </div>
@@ -56,7 +56,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 <section class="board">
   <div>
 
-## Board
+## Esperti
 
   <div class="underline"></div>
 
@@ -100,7 +100,7 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
 <div class="inner">
 <div class="title">
 
-## Advisors
+## Consulenti
 
 <div class="underline"></div>
 </div>
