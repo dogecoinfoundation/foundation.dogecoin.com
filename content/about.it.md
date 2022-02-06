@@ -41,9 +41,9 @@ La Dogecoin Foundation è un'organizzazione senza fini di lucro creata per:
 La Fondazione è stata creata dal team di Dogecoin nel 2014 con lo scopo
 di gestire e supportare il progetto Dogecoin. Nel 2021 la Fondazione è stata
 rafforzata dal team di sviluppo del originale con l'ingresso di esperti e consulenti
-che sono pronti a far grescere Dogecoin nel prossimo decennio.
+che sono pronti a far crescere Dogecoin nel prossimo decennio.
 
-Puoi leggere i principi della Fondazione [The Dogecoin Manifesto](/manifesto).
+Puoi leggere i principi della Fondazione nel [The Dogecoin Manifesto](/manifesto).
 
 </div>
 </div>
@@ -64,13 +64,13 @@ Puoi leggere i principi della Fondazione [The Dogecoin Manifesto](/manifesto).
   <div class="member">
   <img title='Bass' src="/gary.png"/>
   <h5>Gary Lachance</h5>
-  DDP Founder & Dogecoin Community Veteran
+  DDP Fondatore &  Veterano della Comunità Dogecoin
   </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>
   <h5>Jens Wiechers</h5>
-  OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+  OG Veterano della Dogecoin Foundation, Foundation Legal & Governance
   </div>
 
   <div class="member">
