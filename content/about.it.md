@@ -76,19 +76,19 @@ Puoi leggere i principi della Fondazione nel [The Dogecoin Manifesto](/manifesto
   <div class="member">
   <img title='Lead Vocals, Guitar' src="/michi.png"/>
   <h5>Michi Lumin</h5>
-  Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+  Dogecoin Core Blockchain Developer, Tecnico della Fondazione
   </div>
 
   <div class="member">
   <img title='Lead Guitar, Vocals' src="/ross.png"/>
   <h5>Ross Nicoll</h5>
-  Dogecoin Core Blockchain Developer
+  Sviluppatore Blockchain Dogecoin Core
   </div>
 
   <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
-  F/OSS community advocate and Foundation Product Lead
+  F/OSS Difensore della Comunità e Responsabile della Fondazione
   </div>
 
   </div>
@@ -114,7 +114,7 @@ Puoi leggere i principi della Fondazione nel [The Dogecoin Manifesto](/manifesto
 
 ### Jared Birchall
 
-Representing Elon Musk - Legal & Financial Advisor
+Rappresentante di Elon Musk - Legale e Consulente finanziario
 
 </div>
 
@@ -125,7 +125,7 @@ Representing Elon Musk - Legal & Financial Advisor
 
 ### Shibetoshi Nakamoto (Billy)
 
-OG Dogecoin Founder, Community & Memes Advisor
+OG Fondatore Dogecoin , Consulente Comunità e Memes
 
 </div>
 
@@ -133,7 +133,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 
 ### Max Keller
 
-Dogecoin Core Developer, Dogecoin Technical Advisor
+Sviluppatore Dogecoin Core, Consulente Tecnico Dogecoin
 
 </div>
 <div>
@@ -144,7 +144,7 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 
 ### Vitalik Buterin
 
-Ethereum Founder, Blockchain & Crypto Advisor
+Fondatore Ethereum, Consulente Blockchain & Cripto
 
 </div>
 <div>
@@ -157,15 +157,15 @@ Ethereum Founder, Blockchain & Crypto Advisor
 </div>
 
 <div class="company">
-Dogecoin Foundation operating as <b>Much Wow Ltd</b> and
-<b>MadeUpNumbers Ltd</b>, Registered Companies in England & Wales<br/>
-Company Numbers: 13726736 and 13602061<br/>
-Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+Dogecoin Foundation opera come <b>Much Wow Ltd</b> e
+<b>MadeUpNumbers Ltd</b>, Società registrate in Inghilterra e Galles<br/>
+Numeri Azienda: 13726736 e 13602061<br/>
+Indirizzo registrato: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
 
 <div class="tweet">
-These WOW doge PFPs were kindly made for us by the totally-amaze
-<a href="https://twitter.com/Dogememegirl">@dogememegirl</a> If you love them as
-much as we do give her a follow.
+Questi WOW doge PFPs sono realizzati e donati generosamente dalla fantastica
+<a href="https://twitter.com/Dogememegirl">@dogememegirl</a> Se anche tu li ami
+tanto come noi, seguila!
 <a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
