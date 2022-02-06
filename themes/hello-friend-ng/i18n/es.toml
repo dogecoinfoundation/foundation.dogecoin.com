@@ -16,10 +16,30 @@ other = "También disponible en"
 other = "Archivo"
 
 [home]
-other = "Home"
+other = "Inicio"
 
 [notFound]
 other = "Oops, página no encontrada…"
+
+# Homepage strings
+[dogecoin]
+other = "Fundación"
+
+[foundation]
+other = "Dogecoin"
+
+[onlygood]
+other = "Do Only Good Everyday"
+
+# Footer strings
+[dogecoinfoundation]
+other = "Fundación Dogecoin"
+
+[website-by]
+other = "Sitio web por"
+
+[theme-by]
+other = "Tema creado por"
 
 
 # posts/single.html
