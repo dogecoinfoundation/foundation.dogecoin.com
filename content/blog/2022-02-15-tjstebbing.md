@@ -62,10 +62,10 @@ a community that values fun, values helping others in need, and values people.
 
 1. Dogecoin is not a joke. It is true that it started as joke, and still maintains its LOL attitude – but it is 
    a *lot* more than a joke to millions of people. My typical response to people who claim that Dogecoin is just 
-   a joke is: “Dogecoin started as a joke, but we're no longer joking”. We have the same strong technical 
+   a joke is: “Dogecoin started as a joke, but we're no longer just joking”. We have the same strong technical 
    fundamentals as Bitcoin, but with much better parameters that make a lot more sense as a global currency for 
-   everyday use. Folk who can’t see past the ‘funny dog’ logo are lazy researchers, or too heavily invested in the 
-   old system to be honest about the facts. 
+   everyday use. Folk who can’t see past the ‘funny dog’ logo as their main criticism are lazy researchers, or too 
+   heavily invested in the old system to be honest about the facts. 
 
 2. The Dogecoin Community has a terrific ethos and strives towards worthwhile ideals. It is absolutely a currency 
    for the People, by the People, and the Do Only Good Everyday mantra is at the heart of that. 
