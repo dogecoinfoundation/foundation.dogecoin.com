@@ -129,8 +129,8 @@ place; it showed me how Dogecoin could be a positive change for regular folk, an
 any other metric. 
 
 There are many folks who ask,</br> 
-“Why don't the devs burn Doge to make the price go up?” or </br>
-“Why not cap supply?”. </br>
+“*Why don't the devs burn Doge to make the price go up*?” or </br>
+“*Why not cap supply?*”. </br>
 These kinds of questions belie the intent of folk looking to make a quick dollar at the expense of others. There are 
 many ways Dogecoin could potentially make a small group of folk rich (just look at all the 'pump ‘n dump’ scam tokens 
 out there trying to do just that), but fundamentally Dogecoin needs to be a currency and not a ‘pump ‘n dump’ scheme
@@ -215,7 +215,7 @@ the incumbent financial establishment. Lead primarily as a two-pronged attack fr
 planet and (ii) crypto is used for sex, drugs and terrorism (oh no, save the children!) 
 
 **Goal 3**: Establish possible paths forward that defuse these attack vectors by: (i)Tackling the FUD by arming 
-the community with facts they can share (see [Dogepedia/new website project (https://foundation.dogecoin.com/trailmap/website/));
+the community with facts they can share (see [Dogepedia/new website project](https://foundation.dogecoin.com/trailmap/website/));
 (ii) Discussing greener alternatives to PoW through technical proposals; (iii) Significantly widening the use 
 of Dogecoin through integrations with mainstream retail and services to water down the accusations of 
 'shady usage'; and (iv) Build in charitable purposes and NGO usage that would make Dogecoin indispensable 
