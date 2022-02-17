@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [เส้นทางของ Dogecoin : บทนำ](/trailmap/prologue/) 
-* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/trailmap/website/)
-* [**โครงการ: Libdogecoin**](/trailmap/libdogecoin/)
-* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/trailmap/standard/)
-* [โครงการ: กระเป๋าเงินกิกะ GigaWallet](/trailmap/gigawallet/)
+* [**เส้นทางของ Dogecoin : บทนำ**](/th/trailmap/prologue/) 
+* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/th/trailmap/website/)
+* [โครงการ: Libdogecoin](/th/trailmap/libdogecoin/)
+* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/th/trailmap/standard/)
+* [โครงการ: กระเป๋าเงินกิกะ GigaWallet](/th/trailmap/gigawallet/)
 * โครงการ: Dogecoin Keyring (App / SDK)
 * โครงการ: RadioDoge (Starlink + Radio nodes for remote locations)
 * การนำเสนอโครงการ: Community Staking (Proof of Stake)
@@ -130,7 +130,7 @@ Dogecoin Core เฝ้าดูด้วยความเพียรพยา
 นอกจากนี้ยังเสนอช่องทางใหม่ให้แก่ผู้ให้บริการชำระเงิน ผู้ค้าปลีก ผู้พัฒนาเกม และแพลตฟอร์มโซเชียล
 (ซึ่งเป็นเพียงไม่กี่ตัวอย่างเท่านั้น) เพื่อบูรณาการ Dogecoin เข้ากับโครงสร้างพื้นฐานอย่างรวดเร็ว
 ด้วยโซลูชั่นซอฟต์แวร์ของระบบหลังบ้าน (Backend) ที่ปรับขนาดได้ เช่น โครงการ GigaWallet
-[โครงการกระเป๋ากิกะ GigaWallet](/trailmap/gigawallet/).
+[โครงการกระเป๋ากิกะ GigaWallet](/th/trailmap/gigawallet/).
 
 
 <img class='center' src="/libdogecoin-ecosystem.png">

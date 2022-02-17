@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [เส้นทางของ Dogecoin : บทนำ](/trailmap/prologue/) 
-* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/trailmap/website/)
-* [**โครงการ: Libdogecoin**](/trailmap/libdogecoin/)
-* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/trailmap/standard/)
-* [โครงการ: กระเป๋าเงินกิกะ GigaWallet](/trailmap/gigawallet/)
+* [เส้นทางของ Dogecoin : บทนำ](/th/trailmap/prologue/) 
+* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/th/trailmap/website/)
+* [**โครงการ: Libdogecoin**](/th/trailmap/libdogecoin/)
+* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/th/trailmap/standard/)
+* [โครงการ: กระเป๋าเงินกิกะ GigaWallet](/th/trailmap/gigawallet/)
 * โครงการ: Dogecoin Keyring (App / SDK)
 * โครงการ: RadioDoge (Starlink + Radio nodes for remote locations)
 * การนำเสนอโครงการ: Community Staking (Proof of Stake)
@@ -57,7 +57,7 @@ name = "Dogecoin Foundation"
 
 During the process of extracting the fundamentals from the Dogecoin Core
 Wallet (reference implementation) we aim to document 'how Dogecoin works' 
-as a suite of tests and documents we are calling the [Dogecoin Standard](/trailmap/standard).
+as a suite of tests and documents we are calling the [Dogecoin Standard](/th/trailmap/standard).
 By doing this we will be able to verify that the Libdogecoin implementation
 of Dogecoin's internals is accurate to the OG wallet, and thus provide 
 a mechanism for any future Dogecoin implementations to verify compliance

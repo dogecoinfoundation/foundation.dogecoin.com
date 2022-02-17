@@ -19,11 +19,11 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [เส้นทางของ Dogecoin : บทนำ](/trailmap/prologue/) 
-* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/trailmap/website/)
-* [**โครงการ: Libdogecoin**](/trailmap/libdogecoin/)
-* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/trailmap/standard/)
-* [โครงการ: กระเป๋าเงินกิกะ GigaWallet](/trailmap/gigawallet/)
+* [เส้นทางของ Dogecoin : บทนำ](/th/trailmap/prologue/) 
+* [โครงการ: การแปลงโฉมเว็บไซต์ Dogecoin.com และ สารานุกรมน้องหมา Dogepedia](/th/trailmap/website/)
+* [โครงการ: Libdogecoin](/th/trailmap/libdogecoin/)
+* [โครงการ: มาตรฐาน Dogecoin - Dogecoin Standard](/th/trailmap/standard/)
+* [**โครงการ: กระเป๋าเงินกิกะ GigaWallet**](/th/trailmap/gigawallet/)
 * โครงการ: Dogecoin Keyring (App / SDK)
 * โครงการ: RadioDoge (Starlink + Radio nodes for remote locations)
 * การนำเสนอโครงการ: Community Staking (Proof of Stake)
