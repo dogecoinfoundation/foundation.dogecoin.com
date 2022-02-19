@@ -273,6 +273,57 @@ disableHugoGeneratorInject = false
     weight    = 12
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+  [languages.es]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 13
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        identifier = "home"
+        name       = "Inicio"
+        url        = "/"
+        weight     = 1
+      [[languages.es.menu.main]]
+        identifier = "about"
+        name       = "Acerca de"
+        url        = "about/"
+        weight     = 2
+      [[languages.es.menu.main]]
+        identifier = "manifesto"
+        name       = "Manifiesto"
+        url        = "manifesto/"
+        weight     = 3
+      [[languages.es.menu.main]]
+        identifier = "trailmap"
+        name       = "Hoja de ruta"
+        url        = "trailmap/prologue"
+        weight     = 4
+      [[languages.es.menu.main]]
+        identifier = "news"
+        name       = "Noticias"
+        url        = "news/"
+        weight     = 5
+        [languages.es.menu.main.params]
+          class = "parent"
+      [[languages.es.menu.main]]
+        identifier = "press"
+        name       = "Comunicados de prensa"
+        url        = "press/"
+        weight     = 1
+        parent     = "news"
+      [[languages.es.menu.main]]
+        identifier = "advisories"
+        name       = "Avisos"
+        url        = "advisories/"
+        weight     = 2
+        parent     = "news"
+      [[languages.es.menu.main]]
+        identifier = "announcements"
+        name       = "Anuncios"
+        url        = "announcements/"
+        weight     = 3
+        parent     = "news"
+
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -306,6 +357,12 @@ disableHugoGeneratorInject = false
     name       = "Press Releases"
     url        = "press/"
     weight     = 1
+    parent     = "news"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Dev Blog"
+    url        = "blog/"
+    weight     = 2
     parent     = "news"
   [[menu.main]]
     identifier = "advisories"
