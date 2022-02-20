@@ -46,7 +46,7 @@ name = "Dogecoin Foundation"
 
 來自世界各地的狗狗大軍志工已經聚集在一起，重新設計 Dogecoin.com 網站。Bluezr、CB、Florian 和來自 Hack Club 才華洋溢的青年們 Belle、Ella、Sam 已打造了一個全新網站。該網站提供許多新資訊：從近期專案和團隊的連結，到相關網路資訊，還有關於你如何以開發者/礦工/HODLr或粉絲的身分參與！
 
-</br>
+
 ## Dogepedia 狗狗幣百科.
 
 改造的其中一個重點就是狗狗幣百科。
@@ -54,7 +54,7 @@ name = "Dogecoin Foundation"
 
 我們將每一則問答設計成便於直接連結的頁面，希望這能成為狗狗大軍的裝備，在遇到 FUD（Fear, Uncertainty & Doubt，面對未知前景與負面消息時的恐懼、不確定和懷疑）時擊破它們！
 
-</br>
+
 ## When Moon?
 
 預計在 2022 年 1 月釋出預覽，收集社群回饋。如果沒問題，閃亮的新網站很快就要正式上線了。Wow！
