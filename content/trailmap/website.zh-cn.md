@@ -12,7 +12,7 @@ name = "狗狗币基金会"
 <div class="title">
 
 
- ## <img width="60px" style='display: inline;' src="/marker.png"/>Project: Dogecoin.com makeover & Dogepedia
+ ## <img width="60px" style='display: inline;' src="/marker.png"/>项目：Dogecoin.com 官网全新设计 & 狗狗币百科大全
 
 <div class="underline"></div>
 </div>
