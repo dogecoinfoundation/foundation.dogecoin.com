@@ -8,7 +8,7 @@ date = "2022-02-24"
 
 Recently Ross [made public his decision](https://rnicoll.name/posts/2022-02-16-stepping-away/) to 
 step back from involvement in the Foundation as a Director, and more generally from 
-active development in the crypto-space. 
+active development in the crypto space. 
 
 While this is news to many in the community, Ross had made his intentions clear to 
 the Core developers almost a year ago and has been working quietly behind the scenes 
