@@ -157,12 +157,13 @@ $salmon: #F87B73;
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 0 15%;
 
         &:nth-child(2),
         &:nth-child(4),
         &:nth-child(5),
-        &:nth-child(7) {
+        &:nth-child(7),
+        &:nth-child(10) {
+          padding: 0 15%;
           [data-theme="dark"] & {
             background-color: $dark-background;
           }
@@ -190,7 +191,7 @@ $salmon: #F87B73;
             margin: 5px 0 0 0;
             font-size: 14px;
           }
-          &:nth-child(1), &:nth-child(3), &:nth-child(5) {
+          &:nth-child(1), &:nth-child(3), &:nth-child(5),&:nth-child(7), &:nth-child(8){
             margin-bottom: 15px;
           }
         }
@@ -273,6 +274,23 @@ $salmon: #F87B73;
 
         h3::after {
           border-bottom: 3px solid $salmon;
+        }
+      }
+
+      > div:nth-child(9) {
+        background-color: $sky;
+      }
+
+      > div:nth-child(10) {
+        align-items: flex-start;
+        flex-direction: column;
+
+        h3 {
+          color: $sky;
+        }
+
+        h3::after {
+          border-bottom: 3px solid $sky;
         }
       }
     }

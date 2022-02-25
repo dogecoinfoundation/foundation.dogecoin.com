@@ -77,12 +77,6 @@ DDP 創辦人、<br>狗狗幣社群老將
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-狗狗幣核心區塊鏈開發者
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 開源軟體社群推廣者、<br>基金會首席產品經理
@@ -147,6 +141,18 @@ Elon Musk 代表、<br>法律與財務顧問
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+狗狗幣核心開發者、<br>技術顧問
+
+</div>
+
 
 </div>
 </div>

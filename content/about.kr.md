@@ -80,12 +80,6 @@ OG 도지코인 재단 베테랑, 재단 법률 & 경영
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-도지코인 코어 블록체인 개발자
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
@@ -150,6 +144,18 @@ F/OSS 커뮤니티 지지자 및 재단 프로덕트 리더
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+도지코인 기술 자문
+
+</div>
+
 
 </div>
 </div>

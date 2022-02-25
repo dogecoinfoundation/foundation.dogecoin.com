@@ -79,12 +79,6 @@ Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Doge
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-  Dogecoin Core Blockchain Developer
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
   F/OSS community advocate and Foundation Product Lead
@@ -149,6 +143,18 @@ Ethereum Founder, Blockchain & Crypto Advisor
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+Dogecoin Technical Advisor
+
+</div>
+
 
 </div>
 </div>

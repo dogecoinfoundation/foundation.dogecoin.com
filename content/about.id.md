@@ -81,12 +81,6 @@ Developer Inti Blockchain Dogecoin, Spesialis Utama Yayasan
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-Developer Inti Blockchain Dogecoin
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 Advokat Komunitas F/OSS dan Pimpinan Produk Yayasan
@@ -151,6 +145,18 @@ Founder Ethereum, Penasihat Blockchain & Kripto
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+Penasihat Teknis Dogecoin
+
+</div>
+
 
 </div>
 </div>
