@@ -15,7 +15,7 @@ the Core developers almost a year ago and has been working quietly behind the sc
 to create a sustainable transition for his role in the Dogecoin project. 
 
 With this in mind, Ross has been instrumental in the re-establishment of the Dogecoin 
-Foundation in 2021. The Foundation has been set-up to ensure that Dogecoin prospers 
+Foundation in 2021. The Foundation has been set up to ensure that Dogecoin prospers 
 into the future through a diverse ecosystem of projects and teams, working in 
 collaboration toward making Dogecoin a long-term sustainable cryptocurrency.
 
