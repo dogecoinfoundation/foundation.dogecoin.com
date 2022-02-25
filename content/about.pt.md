@@ -77,12 +77,6 @@ Programadora Principal do Blockchain da Dogecoin, Engenheira Principal da Funda�
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-Programador Principal do Blockchain da Dogecoin
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 Defensor da Comunidade F/OSS e Diretor de Produtos da Fundação
@@ -147,6 +141,18 @@ Fundador do Ethereum, Conselheiro de Blockchain & Crypto
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+Conselheiro Técnico de Dogecoin
+
+</div>
+
 
 </div>
 </div>

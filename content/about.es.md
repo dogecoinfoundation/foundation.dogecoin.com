@@ -79,12 +79,6 @@ Puede leer acerca de los principios rectores de la Fundación en [El Manifiesto 
   </div>
 
   <div class="member">
-  <img title='Primera Guitarra, Vocalista' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-  Desarrollador de Blockchain Dogecoin Core
-  </div>
-
-  <div class="member">
   <img title='Batería' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
   Defensor de la comunidad, software libre de códico abierto y Director de Productos de la Fundación
@@ -149,6 +143,18 @@ Fundador de Ethereum, Consejero de Blockchain y Crypto
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+Consejero técnico de Dogecoin
+
+</div>
+
 
 </div>
 </div>
