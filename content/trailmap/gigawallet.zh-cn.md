@@ -42,7 +42,7 @@ name = "Dogecoin Foundation"
 
 <section class='board'>
 
-## GigaWallet，为您的平台提供适用于企业的狗狗币服务。
+## GigaWallet，为您的平台提供企业级的狗狗币服务。
 
 正如我們在[序言](/zh-cn/trailmap/prologue)提到的，我们相信实用性来自于采用，而采用也来源于实用性，这是一个反馈循环，由于平台采用方面的争执，它现在正在缓慢发展。
 
