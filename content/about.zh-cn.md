@@ -80,12 +80,6 @@ DDP创始人 & 狗狗币社区元老
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-狗狗币核心区块链开发者
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 F/OSS社区布道者兼基金会产品主管
@@ -150,6 +144,18 @@ F/OSS社区布道者兼基金会产品主管
 <div>
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
+
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+狗狗币技术顾问
+
+</div>
+
 
 </div>
 </div>
