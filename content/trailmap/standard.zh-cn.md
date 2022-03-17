@@ -30,6 +30,7 @@ name = "Dogecoin Foundation"
 * Partnership: Point of Sale (L2 app) 
 </div>
 
+</div>
 
 <div class="right">
 <img class="dogegoin-light" src="/logo-standard.jpg" alt="Dogecoin logo">
