@@ -1,5 +1,5 @@
 +++
-title = "Project: Dogecoin Standard"
+title = "狗狗币标准"
 date = "2021-12-10"
 type = "about"
 [ author ]
@@ -42,54 +42,31 @@ name = "Dogecoin Foundation"
 
 <section class='board'>
 
-## Dogecoin Standard - A Specification.
+## 狗狗币标准——规范
 
-The Dogecoin Standard will be a *Written Specification* and validating *test suite* derived 
-from the Dogecoin Core Wallet during the process of creating [libdogecoin](/trailmap/libdogecoin). 
-The Dogecoin Standard aims to fully document the reference implementation (Core Wallet), filling 
-the gap of the often requested 'whitepaper' and providing docs to anyone trying to understand how 
-Dogecoin works.
+狗狗币标准是未来在创建 libdogecoin 的过程中从狗狗币核心钱包里衍生出的书面规范（Written Specification）和验证测试组件（validating test suite）。狗狗币标准旨在完整地记录参考执行（核心钱包），用来填补经常被问到的“白皮书”的空白，并向任何想了解狗狗币如何工作的人提供信息。
+ 
+正如我们最近在一些交易所看到的那样，“行使使用狗狗币钱包的权利”并不容易，而且目前您需要阅读代码或者是在早期就已经参与过狗狗币项目才能了解狗狗币是如何运作的。我们希望通过档案化狗狗币来实现以下多方面的目标：
 
-As we've seen recently with some exchanges, 'getting Dogecoin wallets right' isn't easy and right
-now to understand how Dogecoin works you need to read the code, or have been part of the Dogecoin
-project from the early days. What we hope to achieve by documenting Dogecoin is multi-faceted:
 
-### Lower the barrier for new Devs.
+### 降低新开发者的参与门槛
 
-One thing we've experienced trying to get more devs into the Dogecoin community is the steep 
-learning curve faced by even experienced developers. Currently we're pointing people at the
-Bitcoin documentation and saying "It's a bit like this but there are differences", which is 
-not helpful unless you have a pocket-ross/michi/pat/max to hold your hand. By creating developer 
-focused documentation we hope to see a rise in the number of developers moving into the 
-Dogecoin space, and that's good for everyone.
+我们之前在试图让更多开发者加入狗狗币社区时发现，即便是经验丰富的开发者也需要面临陡峭的学习曲线。目前，我们跟他们讲解的时候只能指向比特币文档并说“有点像这样，但不完全一样”，如果没有ross/michi/pat/max这些OG手把手地教学是很难快速上手的。通过创建以开发者为中心的文档，我们希望看到进入狗狗币领域的开发者数量有所增加，这对每个人都是有好处的。
 
-### Standard-based functional test suite
+### 基于标准的功能测试组件
 
-Standards are fantastic, but unless they are provable they don't hold much water. Part of 
-the process of creating the Dogecoin Standard will be the creation of a companion test-suite
-that will effectively exercise any implementation of Dogecoin and be able to validate that 
-it is compliant.  
+标准是非常棒的，但除非它们是可以被证明的，否则它们并没有多少用处。创建狗狗币标准的过程里有一部分将是要创建一个配套的测试组件，该组件将有效地运行狗狗币的任何执行实施并能够验证它是否合规。
+ 
+对于一个多样化的狗狗币生态系统来说，这是一个巨大的加速器：当我们能够对节点和钱包的执行进行更改并且立即就能验证它们与生态系统的兼容性，大家的进展会变得更快。
 
-This is a huge accelerator for a diverse Dogecoin ecosystem: when we can make changes to
-our node and wallet implementations and validate immediately that they will still work 
-with the ecosystem, everyone moves faster.
 
-### Community Proposal Process.
+### 社区提案流程
 
-For the first time the Dogecoin Protocol will be represented in a way that can be implemented 
-independently of the Core Wallet. This will provide the opportunity for the community to create
-a robust change-process via DIPs (Dogecoin Improvement Proposals) which can be discussed broadly 
-in the community and with key stakeholders for a specified time prior to adoption.  
+狗狗币协议将首次以可以以独立于核心钱包之外的方式来呈现。这将为社区提供机会，通过 DIPs（Dogecoin Improvement Proposals；狗狗币改进提案）来创建一个强大的变更流程，该流程可以在社区中广泛的被讨论，并且还可以在采用之前的特定时间内与主要利益相关者进行讨论。
 
-We believe that a consensus-based community (which we have via a decentralised network) should
-have a strong preference for experimental implementations that exercise DIPs and demonstrate their 
-effectiveness, similar to the W3C approach for web standards.
+我们认为，以共识为基础的社区（它是我们通过去中心化网络所拥有的）应该尽量使用 DIPs 并在使用过程中验证其有效性，这有点类似于制定网络标准使用的W3C 方法。
 
-The Foundation believes that moving the definitive Dogecoin Protocol reference from the old Core Wallet 
-*implementation* to a community managed *specification* will secure the future of Dogecoin from the 
-risks it currently faces existing as a single Wallet only. The more Dogecoin Standard *compliant* wallet 
-implementations exist, the more secure-by-implementation-consensus the *protocol* becomes, much as the 
-consensus-based safety of the live network rests on diversity of nodes.
+我们基金会相信，将最终的狗狗币协议参考从旧的核心钱包执行转移到一个社区管理的规范中，这将确保狗狗币在未来避免目前面临的仅作为单一钱包存在的风险。符合狗狗币标准的钱包存在的越多，协议的执行共识就变得越安全，就像基于共识的实时网络的安全性是依靠于节点的多样性一样。
 
 
 
