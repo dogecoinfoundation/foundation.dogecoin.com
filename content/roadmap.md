@@ -1,5 +1,5 @@
 +++
-title = "Dogecoin Foundation Roadmap"
+title = "Dog Walk"
 date = "2021-08-15"
 [ author ]
   name = "Dogecoin Foundation"

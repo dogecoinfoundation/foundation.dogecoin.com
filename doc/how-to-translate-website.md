@@ -9,6 +9,7 @@
     - [Markdown Editor](#markdown-editor)
   - [Update config.toml](#update-configtoml)
   - [Update langFlags.yaml](#update-langflagsyaml)
+  - [Create/Update translated-lang.toml](#createupdate-translated-langtoml)
   - [Translation](#translation)
   - [Test translation](#test-translation)
   - [Pull Request](#pull-request)
@@ -47,12 +48,19 @@ git checkout -b personal-lang-trans-branch
 ## Update config.toml
 
 * Open file '```config.toml```' at root path.
-* Add according language (eg. translated-lang) in ```[languages] ``` section.
+* Add according language (eg. translated-lang) in ```[languages]``` section.
+* Add menu items of Home Page in your 'translated-lang' section (eg. ```zh-cn``` is ```[languages.zh-cn.menu]``` and following ```[[languages.zh-cn.menu.main]]```).
 
 ## Update langFlags.yaml
 
 * Open file '```themes/hello-friend-ng/data/langFlags.yaml```'.
-* Add according language (eg. translated-lang) in ```langFlags.yaml```
+* Add according language (eg. translated-lang) in ```langFlags.yaml```.
+
+## Create/Update translated-lang.toml
+
+* Create file if it does NOT exist '```themes/hello-friend-ng/i18n/translated-lang.toml```' (eg. '```themes/hello-friend-ng/i18n/zh-cn.toml```').
+* Update file if it does exist '```themes/hello-friend-ng/i18n/translated-lang.toml```' (eg. '```themes/hello-friend-ng/i18n/zh-cn.toml```').
+
 
 ## Translation
 

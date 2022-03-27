@@ -80,12 +80,6 @@ DDP创始人 & 狗狗币社区元老
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-狗狗币核心区块链开发者
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 F/OSS社区布道者兼基金会产品主管
@@ -151,15 +145,30 @@ F/OSS社区布道者兼基金会产品主管
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
 
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+狗狗币技术顾问
+
+</div>
+
+
 </div>
 </div>
 <div class="bottom"></div>
 </div>
 
 <div class="company">
-Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
-Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+狗狗币基金会是由注册于英格兰和威尔士的企业 <b>Much Wow Ltd</b> 和
+<b>MadeUpNumbers Ltd</b> 联合运营<br/>
+企业编号: 13726736 和 13602061<br/>
+注册地址: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
+
 <div class="tweet">
 这些惟妙惟俏令人赞叹（WOW）的狗狗肖像由才华横溢的
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>

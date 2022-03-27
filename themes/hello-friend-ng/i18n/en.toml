@@ -18,6 +18,27 @@ other = "Archives"
 [home]
 other = "Home"
 
+# Homepage strings
+[dogecoin]
+other = "Dogecoin"
+
+[foundation]
+other = "Foundation"
+
+[onlygood]
+other = "Do Only Good Everyday"
+
+# Footer strings
+[dogecoinfoundation]
+other = "Dogecoin foundation"
+
+[website-by]
+other = "Website by"
+
+[theme-by]
+other = "Theme by"
+
+
 [notFound]
 other = "Oops, page not found…"
 

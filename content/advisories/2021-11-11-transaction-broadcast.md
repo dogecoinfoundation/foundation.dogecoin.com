@@ -17,7 +17,7 @@ Some time later Binance notified the maintainers that they had account reconcili
 
 Yesterday November 10th Binance notified the maintainers that previously stuck transactions had suddenly relayed successfully, post 1.14.5 update; likely because minfees have been lowered in 1.14.5, making the previously valid but unrelayable transactions relayable. The sole example provided is a transaction with fees which are valid as of v1.14.5, but were invalid (too low) in 1.14.3 and before. Note, Binance updated directly from v1.14.3 to 1.14.5, in the past few days.
 
-Based on the information availabie it appears that the previously stuck transactions have been retried automatically, as would happen on each node restart after upgrade - and went through, since now the minimum required relay fee is lower. This is correct behaviour as a result of reducing fees.
+Based on the information available it appears that the previously stuck transactions have been retried automatically, as would happen on each node restart after upgrade - and went through, since now the minimum required relay fee is lower. This is correct behaviour as a result of reducing fees.
 
 ## Lessons
 

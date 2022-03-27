@@ -81,12 +81,6 @@ Developer Inti Blockchain Dogecoin, Spesialis Utama Yayasan
   </div>
 
   <div class="member">
-  <img title='Lead Guitar, Vocals' src="/ross.png"/>
-  <h5>Ross Nicoll</h5>
-Developer Inti Blockchain Dogecoin
-  </div>
-
-  <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
 Advokat Komunitas F/OSS dan Pimpinan Produk Yayasan
@@ -152,15 +146,31 @@ Founder Ethereum, Penasihat Blockchain & Kripto
 <img title='Vitalik' src="/vitalik.png"/>
 </div>
 
+<div>
+<img title='Ross' src="/ross.png"/>
+</div>
+<div>
+
+### Ross Nicoll
+
+Penasihat Teknis Dogecoin
+
+</div>
+
+
 </div>
 </div>
 <div class="bottom"></div>
 </div>
 
 <div class="company">
-Dogecoin Foundation operating as <b>MadeUpNumbers Ltd</b>, a Registered Company in England & Wales <br/>
-Company Number: 13602061 Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+Yayasan Dogecoin dioperasikan sebagai <b>Much Wow Ltd</b> dan
+<b>MadeUpNumbers Ltd</b>, Perusahaan Terdaftar di England & Wales<br/>
+Nomor Perusahaan: 13726736 dan 13602061<br/>
+Alamat Terdaftar: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
+
+
 <div class="tweet">
 PFP doge WOW ini dibuat dengan baik untuk kami oleh yang benar-benar menakjubkan
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a>
