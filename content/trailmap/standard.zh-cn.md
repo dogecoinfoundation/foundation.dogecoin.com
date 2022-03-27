@@ -19,15 +19,15 @@ name = "Dogecoin Foundation"
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/trailmap/prologue/) 
-* [Project: Dogecoin.com makeover & Dogepedia](/trailmap/website/)
-* [Project: Libdogecoin](/trailmap/libdogecoin/)
-* [**Project: Dogecoin Standard**](/trailmap/standard/)
-* [Project: GigaWallet](/trailmap/gigawallet/)
-* Project: Dogecoin Keyring (App / SDK)
-* Project: RadioDoge (Starlink + Radio nodes for remote locations)
-* Proposal: Community Staking (Proof of Stake)
-* Partnership: Point of Sale (L2 app) 
+* [狗狗币循迹路线：序言](/trailmap/prologue/) 
+* [项目：Dogecoin.com 官网全新设计 & 狗狗币百科大全](/trailmap/website/)
+* [项目：Libdogecoin](/trailmap/libdogecoin/)
+* [**项目：狗狗币标准**](/trailmap/standard/)
+* [项目：GigaWallet](/trailmap/gigawallet/)
+* 项目：狗狗币Keyring (App / SDK)
+* 项目：RadioDoge (Starlink + 偏远地区采用无线电节点)
+* 倡议：社区抵押 (权益证明)
+* 合作：Point of Sale (L2 app) 
 </div>
 
 </div>
