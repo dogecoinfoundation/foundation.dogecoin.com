@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trailmaps on Dogecoin Foundation</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/</link><description>Recent content in Trailmaps on Dogecoin Foundation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://foundation.dogecoin.com/zh-cn/trailmap/index.xml" rel="self" type="application/rss+xml"/><item><title>Project: Libdogecoin</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/libdogecoin/</link><pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/trailmap/libdogecoin/</guid><description>Project: Libdogecoin
+狗狗币循迹路线: 序言 项目：Dogecoin.com 官网全新设计 &amp;amp; 狗狗币百科大全 项目：Libdogecoin 项目：狗狗币标准 项目：GigaWallet 项目：狗狗币Keyring (App / SDK) 项目：RadioDoge (Starlink + 偏远地区采用无线电节点) 倡议：社区抵押 (权益证明) 合作：Point of Sale (L2 app)
+LIBDOGECOIN, 一个简洁的狗狗币C语言组件库 Libdogecoin将是狗狗币协议的完整应用，作为 C 库（以及与流行语言的一系列绑定），它将允许任何人构建兼容狗狗币的产品，而无需担心加密功能的更深层次的细节。
+重要的是要注意 Libdogecoin 将是一个纯库，不提供“可运行”节点设施。旨在通过宿主语言的网络库在上面的级别将这些位连接到一个引擎中。
+在从狗狗币核心钱包（作为参考）中提取基础知识的过程中，我们的目标是将“狗狗币的工作原理”记录为一套我们称之为狗狗币标准的测试和文档。通过这样做，我们将能够验证狗狗币内部的 Libdogecoin 应用在 OG 钱包是能够正确运行的，从而为任何未来的狗狗币应用提供一种机制来验证与狗狗币网络的兼容性。
+为什么这样做？这样做对狗狗币有什么好处？ 这一切都是为了让狗狗币支付被广泛接受从而增加狗狗币的用途，而通过功能集成可以促进接受度。现在，老旧的狗狗币核心钱包还是十年标准，这严重阻碍了开发速度，最好将其分解为不同的实用程序。
+我们相信，通过从狗狗币获取核心功能并将其作为一个简单的C语言库提供给开发者，并绑定多种语言，我们可以增加社区的创新能力。
+想用Python、Ruby或Node.js创建一个新的狗狗币钱包吗？没问题！ 想要为特定目的（如 GigaWallet）创建一个精简的狗狗币节点？当然可以！ 想要创建一个shell实用程序来管理Golang中的HD Dogecoin密钥对？去做吧！ 我们的目标是让狗狗币生态系统更健康，因此我们：
+多样化，不再让核心钱包作为狗狗币区块链的单一定义。 增加要开发的基于标准的钱包和节点实现的选项。 增加集成选项以提高各平台对狗狗币的采用。 改进加入狗狗币网络的流程，让更多人运行狗狗币节点。 这些目标主要通过Libdogecoin来实现，并通过狗狗币标准进行验证，这将使社区对狗狗币节点和钱包的各种应用充满信心。
+Libdogecoin是基金会实现这一目标的计划中的基本组成部分。</description></item><item><title>狗狗币循迹路线：序言</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/prologue/</link><pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/trailmap/prologue/</guid><description>狗狗币循迹路线：序言 狗狗币循迹路线: 序言 项目：Dogecoin.com 官网全新设计 &amp;amp; 狗狗币百科大全 项目：Libdogecoin 项目：狗狗币标准 项目：GigaWallet 项目：狗狗币Keyring (App / SDK) 项目：RadioDoge (Starlink + 偏远地区采用无线电节点) 倡议：社区抵押 (权益证明) 合作：Point of Sale (L2 app) 什么是狗狗币循迹路线？ 一般在某个新的加密货币发布时，往往会使用 路线图 这个术语来阐述该加密货币的发展前景，然后由单个公司或者 &amp;lsquo;领导者&amp;rsquo; 按部就班的执行发展计划即可。
+狗狗币是由社区驱动并且基于社区共识的开源项目，其发展方向取决于大量的个人贡献者以及团队贡献者围绕狗狗币区块链及其生态圈所开发的各种项目。
+狗狗币的未来是经由社区探讨并认同最适合狗狗币的发展方向达成一致共识后确定下来的。这样做其实是有意而为之：狗狗币在保持去中心化的同时，需要的是诸位牧羊人的指引而不是来自各个统治者的教条主义，这一点尤为重要，因此每个项目及其贡献者都有权对狗狗币的发展方向孰优孰劣进行评估。
+循迹路线形象的描绘了狗狗嗅路似的探索方式，狗狗币基金会坚信以这种方式进行贡献能促成狗狗币的成功。
+为什么是这些项目？ 追溯到2021年的八月份，我们签署了狗狗币宣言并邀请社区通过点击社交媒体分享按钮的方式进行联名签署；活动的反馈相当正面积极。
+宣言的目的是为了综述所有来自社区对于狗狗币项目的期许：一种‘属于人民，源自于民，用之于民’的货币，人们可以方便的用来购买咖啡或者缴纳房租。
+因此宣言的第一条价值观就是：秉承 实用原则, 重视 效果与实用 胜过 唯技术论。
+这便是基金会产生该循迹路线的基本指导思想，事实上我们笃信这个基本指导思想可以用如下简单易懂的方式进行表述： 实用性 → 接受度， 实用性 → 接受度！ 实用性 → 接受度&amp;hellip; 就是这样。
+基本上就是，越实用就越有用，越有用就越容易被接受，越容易被接受，狗狗币就越能吸引大众并成为一种被普遍采用的通用型货币。
+两种以D开头的币&amp;hellip;Two coins starting with D&amp;hellip; 曾几何时，在当时‘已知的世界范围内’流行过一种通用货币，它就是罗马发行的货币。这个 迪纳厄斯币 ，‘作为日薪’有且只有一个功能：你可以在帝国的任何地方用它来购买日常所需，所以它具有 实用性。</description></item><item><title>狗狗币标准</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/standard/</link><pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/trailmap/standard/</guid><description>Project: Dogecoin Standard 狗狗币循迹路线：序言 项目：Dogecoin.com 官网全新设计 &amp;amp; 狗狗币百科大全 项目：Libdogecoin 项目：狗狗币标准 项目：GigaWallet 项目：狗狗币Keyring (App / SDK) 项目：RadioDoge (Starlink + 偏远地区采用无线电节点) 倡议：社区抵押 (权益证明) 合作：Point of Sale (L2 app) 狗狗币标准——规范 狗狗币标准是未来在创建 libdogecoin 的过程中从狗狗币核心钱包里衍生出的书面规范（Written Specification）和验证测试组件（validating test suite）。狗狗币标准旨在完整地记录参考执行（核心钱包），用来填补经常被问到的“白皮书”的空白，并向任何想了解狗狗币如何工作的人提供信息。
+正如我们最近在一些交易所看到的那样，“行使使用狗狗币钱包的权利”并不容易，而且目前您需要阅读代码或者是在早期就已经参与过狗狗币项目才能了解狗狗币是如何运作的。我们希望通过档案化狗狗币来实现以下多方面的目标：
+降低新开发者的参与门槛 我们之前在试图让更多开发者加入狗狗币社区时发现，即便是经验丰富的开发者也需要面临陡峭的学习曲线。目前，我们跟他们讲解的时候只能指向比特币文档并说“有点像这样，但不完全一样”，如果没有ross/michi/pat/max这些OG手把手地教学是很难快速上手的。通过创建以开发者为中心的文档，我们希望看到进入狗狗币领域的开发者数量有所增加，这对每个人都是有好处的。
+基于标准的功能测试组件 标准是非常棒的，但除非它们是可以被证明的，否则它们并没有多少用处。创建狗狗币标准的过程里有一部分将是要创建一个配套的测试组件，该组件将有效地运行狗狗币的任何执行实施并能够验证它是否合规。
+对于一个多样化的狗狗币生态系统来说，这是一个巨大的加速器：当我们能够对节点和钱包的执行进行更改并且立即就能验证它们与生态系统的兼容性，大家的进展会变得更快。
+社区提案流程 狗狗币协议将首次以可以以独立于核心钱包之外的方式来呈现。这将为社区提供机会，通过 DIPs（Dogecoin Improvement Proposals；狗狗币改进提案）来创建一个强大的变更流程，该流程可以在社区中广泛的被讨论，并且还可以在采用之前的特定时间内与主要利益相关者进行讨论。
+我们认为，以共识为基础的社区（它是我们通过去中心化网络所拥有的）应该尽量使用 DIPs 并在使用过程中验证其有效性，这有点类似于制定网络标准使用的W3C 方法。
+我们基金会相信，将最终的狗狗币协议参考从旧的核心钱包执行转移到一个社区管理的规范中，这将确保狗狗币在未来避免目前面临的仅作为单一钱包存在的风险。符合狗狗币标准的钱包存在的越多，协议的执行共识就变得越安全，就像基于共识的实时网络的安全性是依靠于节点的多样性一样。</description></item><item><title>项目：Dogecoin.com 官网全新设计 &amp; 狗狗币百科大全</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/website/</link><pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/trailmap/website/</guid><description>Project: Dogecoin.com makeover &amp;amp; Dogepedia 狗狗币循迹路线：序言 项目：Dogecoin.com 官网全新设计 &amp;amp; 狗狗币百科大全 项目：Libdogecoin 项目：狗狗币标准 项目：GigaWallet 项目：狗狗币Keyring (App / SDK) 项目：RadioDoge (Starlink + 偏远地区采用无线电节点) 倡议：社区抵押 (权益证明) 合作：Point of Sale (L2 app) Dogecoin.com 官网全新设计。 来自世界各地的志愿者们纷纷加入狗狗币军团，致力于重新设计 Dogecoin.com 官方网站。 Bluezr，CB 和 Florian 以及 Hack Club 的青少年 Belle、Ella 和 Sam 一起建立了一个包含大量新信息的全新官方站点：不仅包括当前的项目信息和团队信息，还包括网络上的相关公开信息，以及如何以程序员、矿工、持有者或粉丝的身份参与其中！
+狗狗币百科大全。 狗狗币百科大全 将是网站重新设计的关键部分之一。优秀的狗狗币布道者 MishaBoar 和 Richard 通过搜索 Reddit、Twitter 和互联网编制了一份常见问题解答列表，这些问题会随着时间的推移而增长并成为社区真正有价值的资源库。
+我们希望每个问答都有链接供点击后可直接跳转的页面，并鼓励狗狗币军团用工具来武装自己，使其无论在任何地方都能有效的摧毁FUD！
+什么时候登月？ 很期待在一月份收到社区的反馈，如果一切顺利，不久便会有一个闪亮的新网站。 Wow！</description></item><item><title>项目：GigaWallet</title><link>https://foundation.dogecoin.com/zh-cn/trailmap/gigawallet/</link><pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/trailmap/gigawallet/</guid><description>项目：GigaWallet 狗狗币循迹路线：序言 项目：Dogecoin.com 官网全新设计 &amp;amp; 狗狗币百科大全 项目：Libdogecoin 项目：狗狗币标准 项目：GigaWallet 项目：Dogecoin Keyring (App / SDK) 项目：RadioDoge (星链 + 远边区无线电节点) 倡议：社区抵押 (权益证明) 合作：Point of Sale (L2 app) GigaWallet，为您的平台提供企业级的狗狗币服务。 正如我們在序言提到的，我们相信实用性来自于采用，而采用也来源于实用性，这是一个反馈循环，由于平台采用方面的争执，它现在正在缓慢发展。
+这份循迹路线里的许多提议都专注于缩短开发周期，以及让开发者更顺畅的将狗狗币整合进他们的平台。
+在此进程中的一项关键障碍是，缺少完全适应性，一种能使任何平台，交易所或零售商都能在他们的基础架构上运行的，并能提供一个现代化，非托管方式来处理狗狗币交易的后端服务。
+GigaWallet这个开源项目，旨在通过提供节点/API方式填补上述空缺，它可以在数秒内设置并允许开发者在他们的平台上添加狗狗币交易，如同和其它完善且成熟的付款供应商一样容易。
+GigaWallet旨在提供两层API，第一层以处理和验证传统狗狗币的交易，用一个符合现代设计思路的事件驱动架构，可随时准备好连接消息队列和网络APIs。第二层是将APIs与提议的狗狗币Keyring应用程序和SDK相融合。这是一个移动端优先的解决方案，它将允许平台使用GigaWallet对从他们的应用程序到狗狗币Keyring应用程序上被批准的用户直接收费。这很重要，因为它将密钥的所有权交回给了用户，却不会影响狗狗币在平台交易的功能。
+我们相信，作为一项开源项目，后端程序，并配合即插即用的移动端SDK来为狗狗币的支付提供两部分的解决方案，将迅速加速狗狗币在零售商，社交媒体，游戏开发者等平台的使用。</description></item></channel></rss>
