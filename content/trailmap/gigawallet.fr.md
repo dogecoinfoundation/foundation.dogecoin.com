@@ -46,13 +46,13 @@ name = "Dogecoin Fondation"
 
 Comme nous l'avons mentionné dans le [Prologue](/fr/trailmap/prologue), nous croyons que l'utilité 
 vient de l'adoption et que l'adoption vient de l'utilité, c'est une boucle qui est 
-actuellement lente en raison de la réticence autour de l'adoption de la plateforme. 
+actuellement lente en raison de la réticence autour de l'adoption. 
   
 Beaucoup d'initiatives dans cette feuille de route sont axées sur la diminution du temps
-pour le développement, et à faciliter le chemin pour les développeurs qui cherchent à intégrer Dogecoin
+pour le développement, et à faciliter le travail pour les développeurs qui cherchent à intégrer Dogecoin
 dans leurs plateformes.
 
-L'un des principaux obstacles dans cette aventure est l'absence d'un service backend adapté à l'usage, que n'importe quelle plateforme bourse ou détaillant pourrait utiliser, et
+L'un des principaux obstacles, dans cette aventure, est l'absence d'un service backend adapté à l'usage, que n'importe quelle plateforme échange ou détaillant pourrait utiliser, et
 qui offre une approche moderne et non contraignante du traitement des transactions en Dogecoin.
 
 Le projet GigaWallet est une initiative open-source visant à combler cette lacune en
@@ -64,7 +64,7 @@ Le GigaWallet vise à fournir deux niveaux d'API. Le premier pour le traitement 
 Dogecoin Keyring App pour approbation par l'utilisateur. C'est important car cela remet 
 la propriété des clés dans les mains de l'utilisateur, sans enlever à la plateforme la capacité de faire des transactions en Dogecoin.
 
-Nous pensons que fournir les deux moitiés de la solution comme un projet open-source, 
+Nous pensons que fournir les deux parties de la solution comme un projet open-source, 
 le backend ainsi que le SDK mobile prêt à être intégré pour effectuer des paiements en Dogecoin, va
 accélérer rapidement l'adoption du Dogecoin par les détaillants, les plateformes de réseaux sociaux, 
 les développeurs de jeux et autres. 
