@@ -51,7 +51,7 @@ soucier des spécificités des fonctions cryptographiques.
 
 Il est important de noter que libdogecoin sera une bibliothèque pure, ne 
 fournissant qu'une installation de nœud "exécutable". Il est prévu que la connexion 
-des bits ensemble dans un moteur se fasse au niveau supérieur, via les bibliothèques 
+des bits ensemble se fasse au niveau supérieur, via les bibliothèques 
 de réseau du langage hôte.  
 
 Pendant le processus d'extraction des éléments fondamentaux du Dogecoin Core
@@ -69,7 +69,7 @@ qui avaient un sens il y a dix ans, et encombré d'installations qui ralentissen
 et qui seraient mieux réparties en utilitaires. 
 
 Nous croyons qu'en prenant la fonctionnalité de base de Dogecoin et en la rendant
-disponible comme une simple bibliothèque C avec des liens pour de nombreux langages, nous multiplions
+disponible comme une simple bibliothèque C, avec des liens pour de nombreux langages, nous multiplions
 la capacité de la communauté à innover. 
 
 * Vous voulez créer un nouveau walet Dogecoin en Python ? Ruby ? Node.js ? Faites-le !
