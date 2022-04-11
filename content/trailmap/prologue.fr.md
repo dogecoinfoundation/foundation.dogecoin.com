@@ -42,7 +42,7 @@ name = "Dogecoin Fondation"
 
 <section class='board'>
 
-## Qu'est-ce que le Dogecoin Trailmap?
+## Qu'est-ce que la Dogecoin Trailmap?
   
 Bien que "feuille de route" soit un terme couramment utilisé lorsque de nouvelles crypto-monnaies sont lancées, il évoque une voie rigide à suivre, dirigée par une seule entreprise ou "leader".  
 
@@ -52,7 +52,7 @@ La direction de Dogecoin est pavée par les nombreux projets que la communauté
 estime qu'ils correspondent le mieux à sa direction. C'est une décision très intentionnelle : il est important que
 Dogecoin reste un projet décentralisé avec des bergers plutôt que des dirigeants, chacun des projets et les contributions se tiennent ou échouent sur leurs propres mérites.
 
-Cette feuille de route représente une promenade que la Fondation Dogecoin s'est engagée à suivre et qui, selon nous, contribueront au succès de Dogecoin.
+Cette feuille de route représente un chemin que la Fondation Dogecoin s'est engagée à suivre et qui, selon nous, contribuera au succès de Dogecoin.
 
 
 ## Pourquoi ces projets?
@@ -89,12 +89,12 @@ Un Denarius n'avait pas de contrats intelligents, pas de script, pas de DAPP, et
 contrôlé le monde.
 
 
-Nous pensons que **Dogecoin** est sur une trajectoire similaire, mais cette fois ce n'est pas le visage 
+Nous pensons que le **Dogecoin** est sur une trajectoire similaire, mais cette fois ce n'est pas le visage 
 de l'Empereur contrôlant une monnaie centralisée, mais un Doge amical et accueillant 
 sur une monnaie décentralisée et libérée pour le peuple. 
 
 Alors que de nombreux projets de crypto-monnaies tentent d'être des "stores of value" comme BTC, ou 
-ou des plateformes d'ingénierie comme ETH, nous pensons que l'étape innovante a déjà été 
+ou des plateformes d'ingénierie comme l'Ethereum, nous pensons que l'étape innovante a déjà été 
 faite par Satoshi avec l'invention de la crypto _MONNAIE_.
 
 Dogecoin possède déjà les fondamentaux nécessaires pour atteindre ces objectifs en se concentrant
@@ -124,7 +124,7 @@ dans leur infrastructure grâce à des solutions dorsales évolutives telles que
 La sécurité de la communauté est abordée avec une proposition d'application et de kit de développement de Dogecoin Keyring qui permettra de conserver la possession de leurs Dogecoins tout en s'intégrant aux API du
 GigaWallet afin que les applications mobiles puissent effectuer des transactions en Dogecoin sans détenir vos clés.
 
-La Fondation travaille également avec Vitalik (fondateur de la blockchain Ethereum)
+La Fondation travaille également avec Vitalik Buterin (fondateur de la blockchain Ethereum)
 sur l'élaboration d'une proposition "Doge" unique pour une version de PoS "Community Staking" qui permettra à _tous_, et pas seulement aux gros détenteurs,
 d'être récompenser pour leur contribution au fonctionnement du réseau, et en même temps 
 de redonner à l'ensemble de la communauté par le biais de causes caritatives.
@@ -137,8 +137,8 @@ temps de développement, à ces projets open-source.
 
 Au cours des prochains mois, les projets Libdogecoin et GigaWallet vont commencer à prendre forme, et nous avons quelques intégrateurs précoces qui sont intéressé à les utiliser dans leurs projets. Ces premiers projets ont pour but de poser des bases solides, tandis que les projets à venir viseront à améliorer le débit et l'échelle des transactions. 
 
-Attendez-vous à voir davantage de projets sur la Trailmap se débloquer avec leurs propres détails,
-Git Repo et problèmes au fur et à mesure qu'ils sont affinés et que le travail commence en 2022. 
+Attendez-vous à voir davantage de projets sur la Trailmap se développer avec leurs propres explications,
+Git Repo et contraintes au fur et à mesure qu'ils sont affinés et que le travail commence en 2022. 
 
 
 &mdash; Dogecoin Fondation team. 
