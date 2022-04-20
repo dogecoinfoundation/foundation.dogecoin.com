@@ -317,7 +317,7 @@ disableHugoGeneratorInject = false
         identifier = "announcements"
         name       = "발표"
         url        = "announcements/"
-        weight     = 4
+        weight     = 3
         parent     = "news"
 
   [languages.id]
@@ -426,5 +426,5 @@ disableHugoGeneratorInject = false
     identifier = "announcements"
     name       = "Announcements"
     url        = "announcements/"
-    weight     = 4
+    weight     = 3
     parent     = "news"
