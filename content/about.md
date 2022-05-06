@@ -167,7 +167,9 @@ Dogecoin Technical Advisor
 Dogecoin Foundation operating as <b>Much Wow Ltd</b> and
 <b>MadeUpNumbers Ltd</b>, Registered Companies in England & Wales<br/>
 Company Numbers: 13726736 and 13602061<br/>
-Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
+Registered Address: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF</br>
+Dogecoin Address: DSVw8wkkTXccdq78etZ3UwELrmpfvAiVt1</br>
+Ethereum Address: 0x5178c829b446aa25e4cf753bd3e9bb5f9d4db761</br>
 </div>
 
 <div class="tweet">
