@@ -365,6 +365,12 @@ disableHugoGeneratorInject = false
     weight     = 2
     parent     = "news"
   [[menu.main]]
+    identifier = "jobs"
+    name       = "Jobs"
+    url        = "jobs/"
+    weight     = 2
+    parent     = "news"
+  [[menu.main]]
     identifier = "advisories"
     name       = "Advisories"
     url        = "advisories/"
