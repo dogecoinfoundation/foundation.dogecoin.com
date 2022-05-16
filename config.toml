@@ -267,6 +267,58 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 11
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.kr.menu]
+      [[languages.kr.menu.main]]
+        identifier = "home"
+        name       = "홈"
+        url        = "/"
+        weight     = 1
+      [[languages.kr.menu.main]]
+        identifier = "about"
+        name       = "재단에 대하여"
+        url        = "about/"
+        weight     = 2
+      [[languages.kr.menu.main]]
+        identifier = "manifesto"
+        name       = "성명서"
+        url        = "manifesto/"
+        weight     = 3
+      [[languages.kr.menu.main]]
+        identifier = "trailmap"
+        name       = "트레일맵/로드맵"
+        url        = "trailmap/prologue"
+        weight     = 4
+      [[languages.kr.menu.main]]
+        identifier = "news"
+        name       = "뉴스"
+        url        = "news/"
+        weight     = 5
+        [languages.kr.menu.main.params]
+          class = "parent"
+      [[languages.kr.menu.main]]
+        identifier = "press"
+        name       = "뉴스"
+        url        = "press/"
+        weight     = 1
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "blog"
+        name       = "개발자 블로그"
+        url        = "blog/"
+        weight     = 2
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "advisories"
+        name       = "주의보"
+        url        = "advisories/"
+        weight     = 2
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "announcements"
+        name       = "발표"
+        url        = "announcements/"
+        weight     = 3
+        parent     = "news"
 
   [languages.id]
     subtitle  = "Hello Friend NG Theme"

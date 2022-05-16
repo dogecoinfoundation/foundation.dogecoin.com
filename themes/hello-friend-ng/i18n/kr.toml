@@ -1,0 +1,60 @@
+# Translations for Korean
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "번역"
+
+[postAvailable]
+other = "준비 되어있는"
+
+
+# 404.html
+#
+[archives]
+other = "기록"
+
+[home]
+other = "홈"
+
+# Homepage strings
+[dogecoin]
+other = "도지코인"
+
+[foundation]
+other = "재단"
+
+[onlygood]
+other = "매일 좋은 일을 하자(Do Only Good Everyday)"
+
+# Footer strings
+[dogecoinfoundation]
+other = "도지코인 재단"
+
+[website-by]
+other = "웹사이트"
+
+[theme-by]
+other = "테마"
+
+
+[notFound]
+other = "아이고, 페이지를 찾을 수 없습니다…"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "일 분"
+other = "{{ .Count }} 분"
+
+[tableOfContents]
+other = "목차"
+
+[wordCount]
+one   = "한 단어"
+other = "{{ .Count }} 단어"
+
+[lastModified]
+other = "마지막 업데이트"
