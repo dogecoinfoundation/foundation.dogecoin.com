@@ -65,24 +65,28 @@ You can read about the Foundation's guiding principles in [The Dogecoin Manifest
   <img title='Bass' src="/gary.png"/>
   <h5>Gary Lachance</h5>
   DDP Founder & Dogecoin Community Veteran
+  </br>Twitter: <a href='https://twitter.com/GaryLachance'>GaryLachance</a>
   </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>
   <h5>Jens Wiechers</h5>
   OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+  </br>Twitter: <a href='https://twitter.com/jwiechers'>Jwiechers</a>
   </div>
 
   <div class="member">
   <img title='Lead Vocals, Guitar' src="/michi.png"/>
   <h5>Michi Lumin</h5>
   Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+  </br>Twitter: <a href='https://twitter.com/michilumin'>michilumin</a>
   </div>
 
   <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
-  F/OSS community advocate and Foundation Product Lead
+  Director / Product Lead
+  </br>Twitter: <a href='https://twitter.com/tjstebbing'>tjstebbing</a>
   </div>
 
   </div>
