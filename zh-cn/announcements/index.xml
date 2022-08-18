@@ -1,38 +1,25 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Announcements on Dogecoin Foundation</title><link>https://foundation.dogecoin.com/zh-cn/announcements/</link><description>Recent content in Announcements on Dogecoin Foundation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://foundation.dogecoin.com/zh-cn/announcements/index.xml" rel="self" type="application/rss+xml"/><item><title>Dogecoin.com redesign ready for preview and feedback</title><link>https://foundation.dogecoin.com/zh-cn/announcements/2022-06-15-website-relaunch/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/announcements/2022-06-15-website-relaunch/</guid><description>Nine months ago we set about building a community group to overhaul the old dogecoin.com website, and create a team who could collectively work on any future websites for Dogecoin.
-After putting out the call for volunteers on Reddit and Twitter we gathered a group of around 20 Shibes with a wide variety of talents: from writing and translation, to HTML, CSS and graphic design.
-Since then the team, beginning with foundation.</description><content type="html"><![CDATA[<p>Nine months ago we set about building a community group to overhaul the old
-dogecoin.com website, and create a team who could collectively work on any
-future websites for Dogecoin.</p>
-<p>After putting out the call for volunteers on Reddit and Twitter we gathered a
-group of around 20 Shibes with a wide variety of talents: from writing and
-translation, to HTML, CSS and graphic design.</p>
-<p>Since then the team, beginning with foundation.dogecoin.com developed a
-system for publishing, translating and maintaining websites for the Dogecoin
-community. The next step was to apply that system to a full re-design of the
-dogecoin.com site.</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Announcements on Dogecoin Foundation</title><link>https://foundation.dogecoin.com/zh-cn/announcements/</link><description>Recent content in Announcements on Dogecoin Foundation</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://foundation.dogecoin.com/zh-cn/announcements/index.xml" rel="self" type="application/rss+xml"/><item><title>为重建Dogecoin.com提供预览和征集意见</title><link>https://foundation.dogecoin.com/zh-cn/announcements/2022-06-15-website-relaunch/</link><pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/announcements/2022-06-15-website-relaunch/</guid><description>九个月前，我们开始着手组建一个社区团队来改造旧的dogecoin.com网站，这个团队将在未来负责狗狗币网站的各种工作。
+在Reddit和Twitter上发出志愿者招募令后，我们招募到了大约20名狗狗爱好者并组建了团队，他们多才多艺，擅长写作、翻译、HTML、CSS以及图形设计。
+团队从foundation.dogecoin.com开始，为狗狗币社区开发了一套发布、翻译和维护网站的系统，下一步的工作是用该系统对dogecoin.com网站进行全面的重新设计。
+preview.dogecoin.com 现在，我们希望征集社区对新网站预览的反馈意见，新网站预览可点击preview.dogecoin.com查看。
+目前翻译还没有全部完成，还有一些移动端的小问题，但是我们还是很激动的提前2周放出预览，让大家浏览狗狗百科的文章，可以通过GitHub issues 提建议包括参与进来。
+如果你想成为网络团队的一员，请联系Paulo(Inevitable360)以获得Discord服务器和GitHub项目的邀请。你的工作需要使用git以及markdown，具体使用方法我们有一些社区成员可以帮助到您。
+向所有帮助实现这一切的人表示深深的感谢！他们是:
+CB，Belle，Bluezr，Ella，Florian，Ishan，Sam，Michi，Misha，Paulo，Richard，Tim，Florian，Mishaboar，Dogememegirl，Adi，Doge Norway，Doge France，Bobdos，BeanieFi，Claudiu05，CresentOdyssey，Dogespacewizard，Emon，Horizon，Lars，Mademeday，Memetaverse，RasoulYamazaki以及其他我们可能漏掉的人。
+&amp;ndash; 狗狗币网络团队
+PS：你可能还想知道比如开发人员目前在关注什么，GitHub链接在哪里，该如何参与进来，等等问题&amp;hellip;&amp;hellip;我们目前已经对dogecoin.org网址进行了保护，后边我们将研究一下，如何对其进行最好的利用，我们将把dogecoin.org作为狗狗币开发者的门户，而dogecoin.com将作为狗狗币用户门户。</description><content type="html"><![CDATA[<p>九个月前，我们开始着手组建一个社区团队来改造旧的dogecoin.com网站，这个团队将在未来负责狗狗币网站的各种工作。</p>
+<p>在Reddit和Twitter上发出志愿者招募令后，我们招募到了大约20名狗狗爱好者并组建了团队，他们多才多艺，擅长写作、翻译、HTML、CSS以及图形设计。</p>
+<p>团队从foundation.dogecoin.com开始，为狗狗币社区开发了一套发布、翻译和维护网站的系统，下一步的工作是用该系统对dogecoin.com网站进行全面的重新设计。</p>
 <hr>
 <h3 id="previewdogecoincom">preview.dogecoin.com</h3>
 <img class="dogegoin-light" src="/website-redesign.png" alt="Dogecoin Website">
-<p>Today we would love to welcome community feedback on the preview of the new
-website, which you can see at <a href="https://preview.dogecoin.com">preview.dogecoin.com</a></p>
-<p>The translations are not all in place yet and there are some minor mobile issues,
-however we&rsquo;re excited to get this out as a preview for a two week period to let
-folk have a read through the &ldquo;Dogepedia&rdquo; articles, make suggestions via the <a href="https://github.com/dogecoinfoundation/dogecoin.com/issues">GitHub issues</a>
-system or even get involved.</p>
-<p>If you&rsquo;re keen to be part of the website team reach out to Paulo (Inevitable360)
-for an invitation to the Discord server and the GitHub project.  You will need to
-work with <em>git</em> and <em>markdown</em> however we&rsquo;ve got some great community members who
-are available to help explain the process.</p>
-<p>A huge shout-out to all the people who have made this possible:</p>
-<p>CB, Belle, Bluezr, Ella, Florian, Ishan, Sam, Michi, Misha, Paulo, Richard, Tim,
-Florian, Mishaboar, Dogememegirl, Adi, Doge Norway, Doge France, Bobdos, BeanieFi,
-Claudiu05, CresentOdyssey, Dogespacewizard, Emon, Horizon, Lars, Mademeday, Memetaverse,
-Rasoul, Yamazaki .. and anyone else we&rsquo;ve missed! Thank you!</p>
-<p>&ndash; The Web Team</p>
-<p>PS: You might be wondering where the developer focused content is, links to GitHub, how
-to get involved etc.. we&rsquo;ve actually secured the dogecoin.org domain and will be
-looking at how we can best use that as a &lsquo;Dogecoin Developer Portal&rsquo; to accompany
-dogecoin.com as the &lsquo;Dogecoin User Portal&rsquo;.</p>
+<p>现在，我们希望征集社区对新网站预览的反馈意见，新网站预览可点击<a href="https://preview.dogecoin.com">preview.dogecoin.com</a>查看。</p>
+<p>目前翻译还没有全部完成，还有一些移动端的小问题，但是我们还是很激动的提前2周放出预览，让大家浏览狗狗百科的文章，可以通过<a href="https://github.com/dogecoinfoundation/dogecoin.com/issues">GitHub issues</a> 提建议包括参与进来。</p>
+<p>如果你想成为网络团队的一员，请联系Paulo(Inevitable360)以获得Discord服务器和GitHub项目的邀请。你的工作需要使用git以及markdown，具体使用方法我们有一些社区成员可以帮助到您。</p>
+<p>向所有帮助实现这一切的人表示深深的感谢！他们是:</p>
+<p>CB，Belle，Bluezr，Ella，Florian，Ishan，Sam，Michi，Misha，Paulo，Richard，Tim，Florian，Mishaboar，Dogememegirl，Adi，Doge Norway，Doge France，Bobdos，BeanieFi，Claudiu05，CresentOdyssey，Dogespacewizard，Emon，Horizon，Lars，Mademeday，Memetaverse，RasoulYamazaki以及其他我们可能漏掉的人。</p>
+<p>&ndash; 狗狗币网络团队</p>
+<p>PS：你可能还想知道比如开发人员目前在关注什么，GitHub链接在哪里，该如何参与进来，等等问题&hellip;&hellip;我们目前已经对dogecoin.org网址进行了保护，后边我们将研究一下，如何对其进行最好的利用，我们将把dogecoin.org作为狗狗币开发者的门户，而dogecoin.com将作为狗狗币用户门户。</p>
 ]]></content></item><item><title>Ross Nicoll担任狗狗币基金会顾问</title><link>https://foundation.dogecoin.com/zh-cn/announcements/2022-02-24-update-ross/</link><pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate><guid>https://foundation.dogecoin.com/zh-cn/announcements/2022-02-24-update-ross/</guid><description>近期，Ross宣布他将退出狗狗币基金会不再担任董事，他将不再像过去一样在加密货币领域保持活跃。
 对社区的很多人来说，这有点突然。不过实际上，Ross在一年前就把自己的想法告诉了狗狗币的核心开发者们，并且为确保工作的平稳交接继续默默贡献了自己的才华。
 Ross在2021年重建狗狗币基金会的工作中发挥了重要作用。基金会的成立，保障了狗狗币在未来将通过多样化的项目和团队生态以持续繁荣，致力于让狗狗币成为长期持续发展的加密货币。
