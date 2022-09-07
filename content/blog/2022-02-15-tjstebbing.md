@@ -7,7 +7,7 @@ date = "2022-02-15"
 
 I know that for non-devs (or ‘not-yet-devs' 😉), it can sometimes be difficult to make sense of technical talk. 
 I think that a part of my job as an Engineer at the Dogecoin Foundation is to explain technical things in terms 
-non-tech folk can understand. Because of this, I’d like to ramble a bit about the [Trailmap](/tralmap/prologue), 
+non-tech folk can understand. Because of this, I’d like to ramble a bit about the [Trailmap](/trailmap/prologue), 
 about the goals we have and the projects that we’re hoping will fulfil them. I want to chat a bit about what the 
 Foundation has achieved and why it exists because I think those are important. I want to talk about the projects 
 I see as important and a bit about the motivation around why that is. So, make yourself a hot beverage and strap 
