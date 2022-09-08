@@ -35,7 +35,7 @@ engagement. Essentially, foster a ‘Dogecoin developer ecosystem’ of hundreds
 many projects.
 
 The first Foundation projects - Libdogecoin (Dogecoin C library) and GigaWallet (payment service) - are key stepping stones toward making 
-this goal a reality. As we've begun to see the fruits of these labors with the first release of Libdogecoin release - and many devs wrapping 
+this goal a reality. As we've begun to see the fruits of these labors with the first release of Libdogecoin - and many devs wrapping 
 and using the library from different languages - we want to take the opportunity to see what amazing new things folk can build using these 
 and other tools. *Enter the Dogeathon!*
 
