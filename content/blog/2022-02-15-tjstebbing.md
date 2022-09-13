@@ -153,9 +153,7 @@ pushing folks away.
 I talk a lot about the 'Dogecoin Ecosystem' with people and have spent the last 4 months engaging with and welcoming some 
 really cool groups to the Dogecoin space.  [Hack Club](https://hackclub.com/) is a world-wide network of teens and young 
 folk who are amazing devs looking to engage in exciting projects. The Foundation has been exploring projects with them, 
-some announced and others still in the works (you may have seen the recent [TeamSeas project](https://dogecoin.com/teamseas/) 
-that saw us work in collaboration with some amaze Hack Club teens that saw the Dogecoin Community unite for the good of 
-the planet).    
+some announced and others still in the works (you may have seen the recent TeamSeas project that saw us work in collaboration with some amaze Hack Club teens that saw the Dogecoin Community unite for the good of the planet).    
 
 We've also been engaging with and encouraging startups and investors who are looking at building-out the next ring of 
 services that sit atop L1 by supporting them as they build.  Recently we’ve had interactions with governments about the 
