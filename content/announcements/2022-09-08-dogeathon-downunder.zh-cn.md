@@ -1,5 +1,5 @@
 +++
-title = "首届狗狗币黑客马拉松大会Announcing the Inaugural Dogecoin Hackathon"
+title = "首届狗狗币黑客马拉松大会"
 date = "2022-09-08"
 [ author ]
   name = "Dogecoin Foundation"
