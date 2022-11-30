@@ -6,7 +6,7 @@ date = "2022-01-21"
 +++
 
 The Dogecoin Foundation, established and led by members of the original core development team 
-and long-time members of the Dogecoin community, has responsibility for providing governance 
+and long-time members of the Dogecoin community, has responsibility for providing advocacy 
 and support for the Dogecoin cryptocurrency project.  
 
 Since 2014, the Foundation's sole mission has been to protect and support the Dogecoin project, 
