@@ -25,14 +25,14 @@ other = "あっ、ページが見つかりません……"
 # posts/single.html
 #
 [readingTime]
-one   = "一分"
+one   = "１分"
 other = "{{ .Count }}分"
 
 [tableOfContents]
 other = "目次"
 
 [wordCount]
-one   = "一文字"
+one   = "１文字"
 other = "{{ .Count }}文字"
 
 [lastModified]
