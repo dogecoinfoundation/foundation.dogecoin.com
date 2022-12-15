@@ -341,10 +341,15 @@ disableHugoGeneratorInject = false
     url        = "trailmap/prologue/"
     weight     = 4
   [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 5
+  [[menu.main]]
     identifier = "news"
     name       = "News"
     url        = "news/"
-    weight     = 5
+    weight     = 6
     [menu.main.params]
       class = "parent"
   [[menu.main]]
@@ -352,12 +357,6 @@ disableHugoGeneratorInject = false
     name       = "Press Releases"
     url        = "press/"
     weight     = 1
-    parent     = "news"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Dev Blog"
-    url        = "blog/"
-    weight     = 2
     parent     = "news"
   [[menu.main]]
     identifier = "jobs"
