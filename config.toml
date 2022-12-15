@@ -341,9 +341,9 @@ disableHugoGeneratorInject = false
     url        = "trailmap/prologue/"
     weight     = 4
   [[menu.main]]
-    identifier = "blog"
+    identifier = "blogMain"
     name       = "Blog"
-    url        = "blog/"
+    url        = "/blog/"
     weight     = 5
   [[menu.main]]
     identifier = "news"
@@ -364,6 +364,13 @@ disableHugoGeneratorInject = false
     url        = "jobs/"
     weight     = 2
     parent     = "news"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "blog/"
+    weight     = 2
+    parent     = "news"
+
   [[menu.main]]
     identifier = "advisories"
     name       = "Advisories"
