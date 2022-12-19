@@ -61,11 +61,6 @@ Du kan lese om verdigrunnlaget til stiftelsen i [The Dogecoin Manifesto](/no/man
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
-  DDP Founder & Dogecoin Community Veteran
-  </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>

@@ -59,12 +59,6 @@ type = "about"
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
- 
-DDP创始人 & 狗狗币社区元老 
-  </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>

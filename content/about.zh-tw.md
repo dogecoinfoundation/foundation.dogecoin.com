@@ -58,11 +58,6 @@ name = "Dogecoin Foundation"
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
-DDP 創辦人、<br>狗狗幣社群老將
-  </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>
