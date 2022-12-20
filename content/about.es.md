@@ -60,11 +60,6 @@ Puede leer acerca de los principios rectores de la Fundación en [El Manifiesto 
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='En el bajo' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
-  Fundador DDP & Veterano de la comunidad Dogecoin
-  </div>
 
   <div class="member">
   <img title='A los teclados' src="/jens.png"/>

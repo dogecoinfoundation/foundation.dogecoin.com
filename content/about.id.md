@@ -62,11 +62,6 @@ Anda dapat membaca tentang prinsip panduan yayasan di [Manifesto Dogecoin](/id/m
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
-DDP Founder & Veteran Komunitas Dogecoin
-  </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>

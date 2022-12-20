@@ -58,11 +58,6 @@ Pode ler acerca dos princípios que guiam a fundação [no Manifesto Dogecoin](/
   <div class="underline"></div>
 
   <div class="members">
-  <div class="member">
-  <img title='Bass' src="/gary.png"/>
-  <h5>Gary Lachance</h5>
-Fundador DDP & Veterano da Comunidade Dogecoin
-  </div>
 
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>
