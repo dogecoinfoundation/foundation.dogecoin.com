@@ -20,12 +20,12 @@ name = "Dogecoin Fondation"
 <div class="description">
  
 * [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Projet: Dogecoin.com transformation & Dogepedia](/fr/trailmap/website/)
 * [**Projet: Libdogecoin**](/fr/trailmap/libdogecoin/)
 * [Projet: Dogecoin Standard](/fr/trailmap/standard/)
 * [Projet: GigaWallet](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
-* Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
+* Projet: RadioDoge (Starlink + Nœuds radio pour les régions éloignées)
 * Proposition: Community Staking (Proof of Stake)
 * Partenariat: Point de vente (L2 app) 
 </div>
@@ -42,41 +42,25 @@ name = "Dogecoin Fondation"
 
 <section class='board'>
 
-## Libdogecoin, une bibliothèque C de blocs de construction Dogecoin.
+## Libdogecoin, une bibliothèque C de construction de blocs Dogecoin.
 
-Libdogecoin sera une implémentation complète des protocoles Dogecoin, 
-sous la forme d'une bibliothèque C (et d'une série de liaisons avec les langages populaires) qui 
-permettra à quiconque de construire un produit compatible avec Dogecoin, sans avoir à se 
-soucier des spécificités des fonctions cryptographiques.  
+Libdogecoin sera une implémentation complète des protocoles Dogecoin, sous la forme d'une bibliothèque C (et d'une série de liens vers des langages populaires) qui permettra à quiconque de construire un produit conforme à Dogecoin, sans avoir à se soucier des spécificités plus complexes des fonctions cryptographiques.  
 
-Il est important de noter que libdogecoin sera une bibliothèque pure, ne 
-fournissant qu'une installation de nœud "exécutable". Il est prévu que la connexion 
-des bits ensemble se fasse au niveau supérieur, via les bibliothèques 
-de réseau du langage hôte.  
+Il est important de noter que libdogecoin sera une bibliothèque pure, ne fournissant pas une installation de nœud ‘exécutable’. Il est prévu que la connexion des bits ensemble dans un moteur soit faite au niveau supérieur, via les bibliothèques de réseau du langage hôte.  
 
-Pendant le processus d'extraction des éléments fondamentaux du Dogecoin Core
-Wallet (implémentation de référence) nous visons à documenter "comment fonctionne Dogecoin" sous la forme d'une suite de tests et de documents que nous appelons le [standard Dogecoin](/fr/trailmap/standard).
-En faisant cela, nous serons en mesure de vérifier que l'implémentation Libdogecoin
-interne de Dogecoin est correcte par rapport au wallet original, et donc fournir 
-un mécanisme permettant à toute implémentation future de Dogecoin de vérifier sa conformité
-avec le réseau Dogecoin.
+Au cours du processus d'extraction des fondamentaux du Dogecoin Core Wallet (implémentation de référence), nous visons à documenter 'comment fonctionne Dogecoin' sous la forme d'une suite de tests et de documents que nous appelons le [Dogecoin Standard](/fr/trailmap/standard). En faisant cela, nous serons en mesure de vérifier que l'implémentation Libdogecoin des internes de Dogecoin est exacte au portefeuille OG, et ainsi fournir un mécanisme pour toutes les implémentations futures de Dogecoin pour vérifier la conformité avec le réseau Dogecoin.
 
 ## Pourquoi, qu'est-ce que ça fait pour le Dogecoin ?
 
-Il s'agit de l'utilité par l'adoption, et l'adoption passe par l'intégration. 
-Actuellement, le portefeuille vieillissant Dogecoin Core est lourd de métaphores de bureau, qui
-qui avaient un sens il y a dix ans, et encombré d'installations qui ralentissent le développement
-et qui seraient mieux réparties en utilitaires. 
+Il s'agit de l'utilité par l'adoption, et l'adoption passe par l'intégration. À l'heure actuelle, le portefeuille Dogecoin Core vieillissant est lourd de métaphores de bureau qui avaient un sens il y a dix ans, et encombré d'installations qui ralentissent le développement et seraient mieux réparties en utilitaires. 
 
-Nous croyons qu'en prenant la fonctionnalité de base de Dogecoin et en la rendant
-disponible comme une simple bibliothèque C, avec des liens pour de nombreux langages, nous multiplions
-la capacité de la communauté à innover. 
+Nous pensons qu'en prenant la fonctionnalité de base de Dogecoin et en la rendant disponible sous la forme d'une simple bibliothèque C avec des liens pour de nombreux langages, nous multiplions la capacité de la communauté à innover. 
 
 * Vous voulez créer un nouveau walet Dogecoin en Python ? Ruby ? Node.js ? Faites-le !
 * Vous voulez créer un nœud Dogecoin réduit pour un but spécifique (comme [GigaWallet](/fr/trailmap/gigawallet)) ? Bien sûr !
 * Vous voulez créer un utilitaire shell pour gérer les paires de clés HD Dogecoin en Golang ? Allez-y ! 
 
-Notre objectif est de rendre l'écosystème Dogecoin plus sain en :
+Nous visons à rendre l'écosystème Dogecoin plus sain en :
 
 * Diversifiant la dépendance au Core Wallet comme définition unique de la Blockchain Dogecoin. 
 * Augmentant les options de développement de portefeuilles et de nœuds standard. 
@@ -85,8 +69,7 @@ Notre objectif est de rendre l'écosystème Dogecoin plus sain en :
 
 <img class='center' src="/libdogecoin-purpose.png">
 
-Ces objectifs sont atteints principalement par la documentation du Dogecoin et validés par une 
-[norme Dogecoin](/fr/trailmap/standard) qui permettra à la communauté d'avoir confiance dans les diverses implémentations des nœuds et des portefeuilles Dogecoin. 
+Ces objectifs sont atteints principalement par la documentation de Dogecoin et validés par un [stantard Dogecoin](/fr/trailmap/standard) qui permettra à la communauté d'avoir confiance dans les diverses implémentations des nœuds et des portefeuilles Dogecoin. 
 
 Libdogecoin est l'élément de base du plan de la Fondation pour y parvenir.
 

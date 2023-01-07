@@ -12,20 +12,20 @@ name = "Dogecoin Fondation"
 <div class="title">
 
 
- ## <img width="60px" style='display: inline;' src="/marker.png"/>Project: GigaWallet 
+ ## <img width="60px" style='display: inline;' src="/marker.png"/>Projet: GigaWallet 
 
 <div class="underline"></div>
 </div>
 
 <div class="description">
  
-* [Dogecoin Trailmap: Prologue](/fr/trailmap/prologue/) 
-* [Projet: Dogecoin.com makeover & Dogepedia](/fr/trailmap/website/)
+* [Trailmap Dogecoin: Prologue](/fr/trailmap/prologue/) 
+* [Projet: Dogecoin.com transformation & Dogepedia](/fr/trailmap/website/)
 * [Projet: Libdogecoin](/fr/trailmap/libdogecoin/)
 * [Projet: Dogecoin Standard](/fr/trailmap/standard/)
 * [**Projet: GigaWallet**](/fr/trailmap/gigawallet/)
 * Projet: Dogecoin Keyring (App / SDK)
-* Projet: RadioDoge (Starlink + Radio nodes pour région éloignée)
+* Projet: RadioDoge (Starlink + Nœuds radio pour les régions éloignées)
 * Proposition: Community Staking (Proof of Stake)
 * Partenariat: Point de vente (L2 app) 
 </div>
@@ -42,32 +42,20 @@ name = "Dogecoin Fondation"
 
 <section class='board'>
 
-## GigaWallet, un service Dogecoin prêt à l'emploi pour votre plateforme.
+## GigaWallet, un service enterprise-ready Dogecoin pour votre plateforme.
 
-Comme nous l'avons mentionné dans le [Prologue](/fr/trailmap/prologue), nous croyons que l'utilité 
-vient de l'adoption et que l'adoption vient de l'utilité, c'est une boucle qui est 
-actuellement lente en raison de la réticence autour de l'adoption. 
+Comme nous l'avons mentionné dans le [Prologue](/fr/trailmap/prologue), nous croyons que l'utilité vient de l'adoption et que l'adoption vient de l'utilité, c'est une boucle qui est actuellement lente en raison de la réticence autour de l'adoption. 
   
-Beaucoup d'initiatives dans cette feuille de route sont axées sur la diminution du temps
-pour le développement, et à faciliter le travail pour les développeurs qui cherchent à intégrer Dogecoin
-dans leurs plateformes.
+La plupart des initiatives de la trailmap visent à réduire la durée du cycle de développement et à faciliter la tâche des développeurs qui souhaitent intégrer le dogecoin dans leurs plateformes.
 
-L'un des principaux obstacles, dans cette aventure, est l'absence d'un service backend adapté à l'usage, que n'importe quelle plateforme échange ou détaillant pourrait utiliser, et
-qui offre une approche moderne et non contraignante du traitement des transactions en Dogecoin.
+L'un des principaux obstacles à cette évolution est l'absence d'un service backend adapté à l'usage, que toute plateforme, exchange ou détaillant peut exécuter sur sa propre infrastructure, en offrant une approche moderne et non contraignante du traitement des transactions Dogecoin.
 
 Le projet GigaWallet est une initiative open-source visant à combler cette lacune en
-fournissant une solution node / API qui peut être mise en place en quelques secondes et permettre à un développeur
-d'ajouter des transactions en Dogecoin à sa plate-forme, aussi facilement qu'avec n'importe quel fournisseur de
-paiement standard.
+fournissant une solution nœud / API qui peut être mise en place en quelques secondes et ainsi permettre à un développeur d'ajouter les transactions Dogecoin à sa plate-forme, aussi facilement qu'avec n'importe quel fournisseur de paiement standard.
 
-Le GigaWallet vise à fournir deux niveaux d'API. Le premier pour le traitement et la validation des transactions traditionnelles Dogecoin, avec une architecture événementielle moderne prête à être connectée avec des files d'attente de messages et des API Web. Le deuxième sera des API à intégrer avec l'application et le kit de développement de Dogecoin Keyring. Il s'agit d'une solution "mobile-first" qui permettra aux plateformes qui utilisent le GigaWallet d'émettre des frais directement depuis leurs applications vers 
-Dogecoin Keyring App pour approbation par l'utilisateur. C'est important car cela remet 
-la propriété des clés dans les mains de l'utilisateur, sans enlever à la plateforme la capacité de faire des transactions en Dogecoin.
+GigaWallet vise à fournir deux niveaux d'API, le premier pour le traitement et la validation des transactions traditionnelles en Dogecoin, avec une architecture événementielle moderne, prête à se connecter aux files d'attente de messages et aux APIs Web. Le second sera lui constitué d'APIs à intégrer au kit de développement de Dogecoin Keyring & au SDK proposés. Il s'agit d'une solution "mobile-first" qui permettra aux plateformes utilisant GigaWallet d'émettre des frais directement depuis leurs applications vers l'application Dogecoin Keyring pour une approbation par l'utilisateur. Cette solution est importante car elle remet la propriété des clés entre les mains de l'utilisateur, sans pour autant supprimer la capacité d'une plateforme à effectuer des transactions en Dogecoin.
 
-Nous pensons que fournir les deux parties de la solution comme un projet open-source, 
-le backend ainsi que le SDK mobile prêt à être intégré pour effectuer des paiements en Dogecoin, va
-accélérer rapidement l'adoption du Dogecoin par les détaillants, les plateformes de réseaux sociaux, 
-les développeurs de jeux et autres. 
+Nous pensons que le fait de fournir les deux parties de la solution sous la forme d'un projet open-source, le backend ainsi que le SDK mobile prêt à être intégré pour effectuer des paiements en Dogecoin, va accélérer rapidement l'adoption du Dogecoin par les détaillants, les plateformes de réseaux sociaux, les développeurs de jeux et plus. 
 
 
 </section>

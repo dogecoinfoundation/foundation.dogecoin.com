@@ -56,8 +56,7 @@ networking libraries of the host language.
 
 During the process of extracting the fundamentals from the Dogecoin Core
 Wallet (reference implementation) we aim to document 'how Dogecoin works' 
-as a suite of tests and documents we are calling the [Dogecoin Standard](/trailmap/standard).
-By doing this we will be able to verify that the Libdogecoin implementation
+as a suite of tests and documents we are calling the [Dogecoin Standard](/trailmap/standard). By doing this we will be able to verify that the Libdogecoin implementation
 of Dogecoin's internals is accurate to the OG wallet, and thus provide 
 a mechanism for any future Dogecoin implementations to verify compliance
 with the Dogecoin Network.

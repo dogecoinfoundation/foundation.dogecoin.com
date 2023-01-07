@@ -44,15 +44,9 @@ name = "Dogecoin Foundation"
 
 ## Dogecoin Standard - A Specification.
 
-The Dogecoin Standard will be a *Written Specification* and validating *test suite* derived 
-from the Dogecoin Core Wallet during the process of creating [libdogecoin](/trailmap/libdogecoin). 
-The Dogecoin Standard aims to fully document the reference implementation (Core Wallet), filling 
-the gap of the often requested 'whitepaper' and providing docs to anyone trying to understand how 
-Dogecoin works.
+The Dogecoin Standard will be a *Written Specification* and validating *test suite* derived from the Dogecoin Core Wallet during the process of creating [libdogecoin](/trailmap/libdogecoin). The Dogecoin Standard aims to fully document the reference implementation (Core Wallet), filling the gap of the often requested 'whitepaper' and providing docs to anyone trying to understand how Dogecoin works.
 
-As we've seen recently with some exchanges, 'getting Dogecoin wallets right' isn't easy and right
-now to understand how Dogecoin works you need to read the code, or have been part of the Dogecoin
-project from the early days. What we hope to achieve by documenting Dogecoin is multi-faceted:
+As we've seen recently with some exchanges, 'getting Dogecoin wallets right' isn't easy and right now to understand how Dogecoin works you need to read the code, or have been part of the Dogecoin project from the early days. What we hope to achieve by documenting Dogecoin is multi-faceted:
 
 ### Lower the barrier for new Devs.
 

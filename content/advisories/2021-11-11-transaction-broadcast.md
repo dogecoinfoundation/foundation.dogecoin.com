@@ -22,7 +22,7 @@ Based on the information available it appears that the previously stuck transact
 ## Lessons
 
 * Correct handling to cancel a transaction is to spend the to-be-cancelled transaction's inputs to a different transaction, which invalidates the first.
-  * Ideally use replace-by-fee if available, but otherwise crafting and sending a transaction spending the previously chosen inputs, will invalidate the previous transaction.
+* Ideally use replace-by-fee if available, but otherwise crafting and sending a transaction spending the previously chosen inputs, will invalidate the previous transaction.
 * Please note that transactions don't have a defined timeout period, but are typically discarded due to memory limits.
 
 ## Guidance
