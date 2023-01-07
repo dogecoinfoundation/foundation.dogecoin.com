@@ -13,14 +13,33 @@ other = "Aussi disponible en"
 # 404.html
 #
 [archives]
-other = "Les archives"
+other = "Archives"
 
 [home]
 other = "Accueil"
 
-[notFound]
-other = "Oups, page non trouvée …"
+# Homepage strings
+[dogecoin]
+other = "Dogecoin"
 
+[foundation]
+other = "Fondation"
+
+[onlygood]
+other = "Do Only Good Everyday"
+
+# Footer strings
+[dogecoinfoundation]
+other = "Fondation Dogecoin"
+
+[website-by]
+other = "Site web par"
+
+[theme-by]
+other = "Thème par"
+
+[notFound]
+other = "Oups, page non trouvée..."
 
 # posts/single.html
 #
@@ -36,4 +55,10 @@ one   = "Un Mot"
 other = "{{ .Count }} Mots"
 
 [lastModified]
-other = "Mise à jour"
+other = "Dernière mise à jour"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Fondation Dogecoin"

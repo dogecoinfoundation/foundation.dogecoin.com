@@ -37,3 +37,9 @@ other = "{{ .Count }} parole"
 
 [lastModified]
 other = "Ultimo aggiornamento"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

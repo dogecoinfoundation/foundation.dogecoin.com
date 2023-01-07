@@ -37,3 +37,9 @@ other = "{{ .Count }} शब्द"
 
 [lastModified]
 other = "आखरी अपडेट"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

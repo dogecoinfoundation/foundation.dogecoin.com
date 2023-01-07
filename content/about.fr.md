@@ -22,7 +22,7 @@ La Fondation Dogecoin est une organisation à but non lucratif créée pour four
 
 - Un soutien à la crypto-monnaie Dogecoin par le biais du développement et de la promotion.
 - La défense de la marque Dogecoin pour prévenir les abus et les fraudes.
-- Une feuille de route et une gouvernance pour l'avenir de Dogecoin.
+- Une trailmap et une gouvernance pour l'avenir de Dogecoin.
 
 </div>
 
@@ -39,10 +39,9 @@ La Fondation Dogecoin est une organisation à but non lucratif créée pour four
 </div>
 
 <div class="description">
-La Fondation a été créée par des membres de l'équipe Dogecoin en 2014 pour assurer la gouvernance et le soutien au projet Dogecoin.
-En 2021, la Fondation a été revigorée par les membres de l'équipe d'origine, ainsi que par de nouveaux visages et de nouveaux conseillers expérimentés, prêts à faire croître le Dogecoin pour la décennie à venir.
+La Fondation a été créée par des membres de l'équipe Dogecoin en 2014 pour assurer la gouvernance et le soutien au projet Dogecoin. En 2021, la Fondation a été revigorée par les membres de l'équipe d'origine, ainsi que par de nouveaux visages et de nouveaux conseillers expérimentés, prêts à faire croître le Dogecoin pour la décennie à venir.
 
-Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Dogecoin [The Dogecoin Manifesto](/fr/manifesto).
+Vous pouvez lire les principes directeurs de la Fondation dans le [Manifeste Dogecoin](/fr/manifesto).
 
 </div>
 </div>
@@ -157,13 +156,13 @@ Dogecoin Technical Advisor
 </div>
 
 <div class="company">
-Dogecoin Foundation opérant en tant que <b>Much Wow Ltd</b> et
+La Fondation Dogecoin opérant en tant que <b>Much Wow Ltd</b> et
 <b>MadeUpNumbers Ltd</b>, Sociétés enregistrées en Angleterre et au Pays de Galles<br/>
 Numéros d'entreprise: 13726736 and 13602061<br/>
 Adresse enregistrée: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
   
-Les caricatures Doges ont été gentiment réalisées pour nous par la talentueuse
+Les PPs Doges ont été gentiment réalisées pour nous par la talentueuse
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a> ! Si vous les aimez autant que nous, suivez-la. Much wow !
 <a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
