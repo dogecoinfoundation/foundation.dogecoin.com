@@ -6,8 +6,14 @@
     <main class="main">
         <div class="left">
             <div class="title">
+                {{ if not (eq $.Site.Language.Lang "fr") }}
                 <h1>{{ i18n "dogecoin" }}</h1>
                 <h2>{{ i18n "foundation" }}</h2>
+                {{ end }}
+                {{ if eq $.Site.Language.Lang "fr" }}
+                <h2>{{ i18n "foundation" }}</h2>
+                <h1>{{ i18n "dogecoin" }}</h1>
+                {{ end }}
             </div>
             <div class="underline"></div>
                 <p class="subtitle">{{ i18n "onlygood"}}</p>

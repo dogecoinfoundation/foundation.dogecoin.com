@@ -34,3 +34,9 @@ other = "Táboa de contidos"
 [wordCount]
 one   = "Unha Palabra"
 other = "{{ .Count }} Palabras"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

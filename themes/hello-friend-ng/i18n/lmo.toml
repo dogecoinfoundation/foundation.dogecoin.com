@@ -37,3 +37,9 @@ other = "{{ .Count }} paroll"
 
 [lastModified]
 other = "Last update"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

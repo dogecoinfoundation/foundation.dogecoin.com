@@ -37,3 +37,9 @@ other = "{{ .Count }} Kelime"
 
 [lastModified]
 other = "Son güncelleme"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

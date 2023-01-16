@@ -56,3 +56,9 @@ other = "{{ .Count }}字"
 
 [lastModified]
 other = "最后修改"
+
+##############################
+# website header SEO
+##############################
+["meta[title]"]
+other = "Dogecoin Foundation"

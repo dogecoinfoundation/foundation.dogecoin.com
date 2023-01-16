@@ -2,7 +2,7 @@
 title = "Allégations d'affiliation à la Fondation Dogecoin"
 date = "2021-08-18"
 [ author ]
-  name = "Dogecoin Foundation"
+  name = "Dogecoin Fondation"
 +++
 
 Ni le projet Dogecoin, ni la Fondation Dogecoin, ainsi qu'aucun développeur ou entité affiliée n'ont établi de partenariat avec MoonRabbit AngoZaibatsu ou toute autre entité affiliée, y compris la prétendue "Fondation Dogecoin" utilisant le domaine doge.org. Cette prétendue organisation et ce domaine sont, pour autant que nous ayons pu le vérifier, gérés par les mêmes personnes qui dirigent MoonRabbit AngoZaibatsu. 

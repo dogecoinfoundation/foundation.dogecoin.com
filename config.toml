@@ -181,6 +181,70 @@ disableHugoGeneratorInject = false
     subtitle  = "Hello Friend NG Theme"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        identifier = "home"
+        name       = "Accueil"
+        url        = "/"
+        weight     = 1
+      [[languages.fr.menu.main]]
+        identifier = "about"
+        name       = "À propos"
+        url        = "about/"
+        weight     = 2
+      [[languages.fr.menu.main]]
+        identifier = "manifesto"
+        name       = "Manifeste"
+        url        = "manifesto/"
+        weight     = 3
+      [[languages.fr.menu.main]]
+        identifier = "trailmap"
+        name       = "Trailmap"
+        url        = "trailmap/prologue/"
+        weight     = 4
+      [[languages.fr.menu.main]]
+        identifier = "blogMain"
+        name       = "Blog"
+        url        = "/blog/"
+        weight     = 5
+      [[languages.fr.menu.main]]
+        identifier = "news"
+        name       = "Actualités"
+        url        = "news/"
+        weight     = 6
+        [languages.fr.menu.main.params]
+          class = "parent"
+        [[languages.fr.menu.main]]
+          identifier = "press"
+          name       = "Communiqués de presse"
+          url        = "press/"
+          weight     = 1
+          parent     = "news"
+        [[languages.fr.menu.main]]
+          identifier = "jobs"
+          name       = "Emplois"
+          url        = "jobs/"
+          weight     = 2
+          parent     = "news"
+        [[languages.fr.menu.main]]
+          identifier = "blog"
+          name       = "Blog"
+          url        = "blog/"
+          weight     = 2
+          parent     = "news"
+
+        [[languages.fr.menu.main]]
+          identifier = "advisories"
+          name       = "Conseils"
+          url        = "advisories/"
+          weight     = 2
+          parent     = "news"
+        [[languages.fr.menu.main]]
+          identifier = "announcements"
+          name       = "Annonces"
+          url        = "announcements/"
+          weight     = 3
+          parent     = "news"
 
   [languages.de]
     subtitle  = "Hello Friend NG Theme"

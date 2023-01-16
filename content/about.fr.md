@@ -4,7 +4,7 @@ date = "2014-04-09"
 aliases = ["about-us","board"]
 type = "about"
 [ author ]
-name = "Dogecoin Foundation"
+name = "Dogecoin Fondation"
 +++
 
 <section class="presentation">
@@ -22,7 +22,7 @@ La Fondation Dogecoin est une organisation à but non lucratif créée pour four
 
 - Un soutien à la crypto-monnaie Dogecoin par le biais du développement et de la promotion.
 - La défense de la marque Dogecoin pour prévenir les abus et les fraudes.
-- Une feuille de route et une gouvernance pour l'avenir de Dogecoin.
+- Une trailmap et une gouvernance pour l'avenir de Dogecoin.
 
 </div>
 
@@ -39,10 +39,9 @@ La Fondation Dogecoin est une organisation à but non lucratif créée pour four
 </div>
 
 <div class="description">
-La Fondation a été créée par des membres de l'équipe Dogecoin en 2014 pour assurer la gouvernance et le soutien au projet Dogecoin.
-En 2021, la Fondation a été revigorée par les membres de l'équipe d'origine, ainsi que par de nouveaux visages et de nouveaux conseillers expérimentés, prêts à faire croître le Dogecoin pour la décennie à venir.
+La Fondation a été créée par des membres de l'équipe Dogecoin en 2014 pour assurer la gouvernance et le soutien au projet Dogecoin. En 2021, la Fondation a été revigorée par les membres de l'équipe d'origine, ainsi que par de nouveaux visages et de nouveaux conseillers expérimentés, prêts à faire croître le Dogecoin pour la décennie à venir.
 
-Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Dogecoin [The Dogecoin Manifesto](/fr/manifesto).
+Vous pouvez lire les principes directeurs de la Fondation dans le [Manifeste Dogecoin](/fr/manifesto).
 
 </div>
 </div>
@@ -64,19 +63,19 @@ Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Doge
   <div class="member">
   <img title='Keyboard' src="/jens.png"/>
   <h5>Jens Wiechers</h5>
-  OG Dogecoin Foundation Veteran, Foundation Legal & Governance
+  OG Vétéran de la Fondation Dogecoin, Fondation Legal & Gouvernance
   </div>
 
   <div class="member">
   <img title='Lead Vocals, Guitar' src="/michi.png"/>
   <h5>Michi Lumin</h5>
-  Dogecoin Core Blockchain Developer, Foundation Principal Engineer
+  Développeur Blockchain Dogecoin Core, Ingénieur Principal de la Fondation
   </div>
 
   <div class="member">
   <img title='Drums' src="/timothy.png"/>
   <h5>Timothy Stebbing</h5>
-  F/OSS community advocate and Foundation Product Lead
+  F/OSS avocat de la communauté et Chef de Produit de la Fondation
   </div>
 
   </div>
@@ -102,7 +101,7 @@ Vous pouvez lire les principes directeurs de la Fondation dans le Manifeste Doge
 
 ### Jared Birchall
 
-Representing Elon Musk - Legal & Financial Advisor
+Représentant d'Elon Musk - Conseiller Juridique & Financier
 
 </div>
 
@@ -113,7 +112,7 @@ Representing Elon Musk - Legal & Financial Advisor
 
 ### Shibetoshi Nakamoto (Billy)
 
-OG Dogecoin Founder, Community & Memes Advisor
+OG Fondateur de Dogecoin, Conseiller Communauté & Mèmes
 
 </div>
 
@@ -121,7 +120,7 @@ OG Dogecoin Founder, Community & Memes Advisor
 
 ### Max Keller
 
-Dogecoin Core Developer, Dogecoin Technical Advisor
+Développeur Dogecoin Core, Conseiller Technique Dogecoin
 
 </div>
 <div>
@@ -132,7 +131,7 @@ Dogecoin Core Developer, Dogecoin Technical Advisor
 
 ### Vitalik Buterin
 
-Ethereum Founder, Blockchain & Crypto Advisor
+Fondateur d'Ethereum, Conseiller Blockchain & Crypto-monnaie
 
 </div>
 <div>
@@ -146,7 +145,7 @@ Ethereum Founder, Blockchain & Crypto Advisor
 
 ### Ross Nicoll
 
-Dogecoin Technical Advisor
+Conseiller Technique Dogecoin
 
 </div>
 
@@ -157,13 +156,13 @@ Dogecoin Technical Advisor
 </div>
 
 <div class="company">
-Dogecoin Foundation opérant en tant que <b>Much Wow Ltd</b> et
+La Fondation Dogecoin opérant en tant que <b>Much Wow Ltd</b> et
 <b>MadeUpNumbers Ltd</b>, Sociétés enregistrées en Angleterre et au Pays de Galles<br/>
 Numéros d'entreprise: 13726736 and 13602061<br/>
 Adresse enregistrée: C/O Dac Beachcroft Llp, 25 Walbrook, London, United Kingdom, EC4N 8AF
 </div>
   
-Les caricatures Doges ont été gentiment réalisées pour nous par la talentueuse
+Les PPs Doges ont été gentiment réalisées pour nous par la talentueuse
 <a href="https://twitter.com/Dogememegirl">@dogememegirl</a> ! Si vous les aimez autant que nous, suivez-la. Much wow !
 <a href="https://twitter.com/dogememegirl?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false">Follow @dogememegirl</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
