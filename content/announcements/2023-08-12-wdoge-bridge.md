@@ -80,7 +80,7 @@ The wDoge source code, organization, architecture and legal structure mirrors th
 
 Any changes to the code must be approved by the wDoge DAO, which currently requires a 2-of-4 multisig to be signed before any updates are made. The four signatories are: Bluepepper, Bitgo, MyDoge and the Dogecoin Foundation, with plans to increase the DAO as appropriate participants become available**.**
 
-It has been agreed that the Foundation will be notified before any code updates are made. The Foundation will immediately alert the community if we are not notified or any updates are made that we disagree with. This will be done via @DogecoinFDN and @Dogecoin Twitter accounts.
+It has been agreed that the Foundation will be notified before any code updates are made. The Foundation will immediately alert the community if we are not notified or any updates are made that we disagree with. This will be done via @DogecoinFDN account.
 
 Those who created the bridge have staked their reputations on it running flawlessly, and it is most certainly not in the interests of anyone involved to break protocol or proceed with any updates that are not consented to by all DAO members. This is an extremely unlikely possibility.
 
@@ -88,7 +88,7 @@ It is also important to note that the DAO signatories *cannot collude to mint or
 
 The DAO can also be viewed [HERE](https://www.notion.so/This%20is%20the%20DAO%20https:/app.safe.global/home?safe=eth:0x50320064273a73c989bE28bAC35DE058b12C6CEb).
 
-It is anticipated that this code should rarely, if ever, require adjustment, and all adjustments will be announced via the @DogecoinFDN Twitter account. We will also make announcements if any new signatories are added to the DAO.
+It is anticipated that this code should rarely, if ever, require adjustment, and all adjustments will be announced via the @DogecoinFDN account. We will also make announcements if any new signatories are added to the DAO.
 
 **What would happen if this did transpire?**
 
@@ -104,7 +104,7 @@ Bitgo uses industry-leading security practices to store their crypto. All signif
 
 Unlike some other custodial services, Bitgo does not lend out customer funds and provides a fully transparent live audit of their reserves, which can be viewed here: https://wdoge.tech/proof-of-assets.php
 
-If BitGo decides to change any of their storage or custodial practices, they have agreed to alert the Foundation well in advance, allowing us to warn the community of the changes. This will be done via the @DogecoinFDN and @Dogecoin Twitter accounts.
+If BitGo decides to change any of their storage or custodial practices, they have agreed to alert the Foundation well in advance, allowing us to warn the community of the changes. This will be done via the @DogecoinFDN account.
 
 Learn more about the specifics of how the bridge and Bitgo’s custodial service works here: https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf
 
@@ -114,7 +114,7 @@ BitGo have never had an insurance claim before. Put another way, they’ve never
 
 ### **One of the companies involved goes bankrupt, is sold or stops supporting the project.**
 
-BitGo Trust is a regulated and qualified custodian. This means that they have a fiduciary responsibility to the Merchants. If BitGo were to go bankrupt, they would work with the appropriate organization / agencies to return assets to the Merchant. If there are plans to wind down wDoge support from BitGo, BitGo will work with the DAO and Merchants to add another custodian to keep the protocol alive. If there are no active Merchants remaining, BitGo will work with the DAO to find appropriate Merchants that can fill the need. This would be announced via @DogecoinFDN and @Dogecoin Twitter accounts.
+BitGo Trust is a regulated and qualified custodian. This means that they have a fiduciary responsibility to the Merchants. If BitGo were to go bankrupt, they would work with the appropriate organization / agencies to return assets to the Merchant. If there are plans to wind down wDoge support from BitGo, BitGo will work with the DAO and Merchants to add another custodian to keep the protocol alive. If there are no active Merchants remaining, BitGo will work with the DAO to find appropriate Merchants that can fill the need. This would be announced via @DogecoinFDN accounts.
 
 ### ***Risks that Don’t Involve the Bridge or Bitgo***
 
