@@ -64,7 +64,7 @@ Registered Address: c/o PKF Mueller, 1707 N Randall Rd, Ste 200, Elgin, IL 60123
 It is operating in Australia as Dogecoin Foundation Australia.<br/>
 Registered Address: c/o PKF Sydney, Level 8, 1 O'Connell St, Sydney, NSW, 2000, Australia<br/>
 --<br/>
-Dogecoin Address: DSVw8wkkTXccdq78etZ3UwELrmpfvAiVt1</br>
+Dogecoin Address: D89DhnsgKncmN12RejxudfU8AwXp3946q1</br>
 Ethereum Address: 0x5178c829b446aa25e4cf753bd3e9bb5f9d4db761</br>
 </div>
 
