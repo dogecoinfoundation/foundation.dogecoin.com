@@ -317,7 +317,7 @@ disableHugoGeneratorInject = false
         name       = "Anuncios"
         url        = "announcements/"
         weight     = 3
-        parent     = "news"
+        parent     = "news"   
 
 [menu]
   [[menu.main]]
@@ -383,3 +383,9 @@ disableHugoGeneratorInject = false
     url        = "announcements/"
     weight     = 3
     parent     = "news"
+  [[menu.main]]
+     identifier = "community"
+     name       = "Community"
+     url        = "community/"
+     weight     = 4
+     parent     = "news"    
