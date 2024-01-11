@@ -1,0 +1,29 @@
+:7060 {
+	root * /absolute-path-to-this-directory/
+	file_server
+}
+
+:7070 {
+	root * /absolute-path-to-this-directory/_org
+	file_server
+}
+
+:7080 {
+	root * /absolute-path-to-this-directory/_com
+	file_server
+}
+
+local.dogecoin.dev {
+	tls internal
+	reverse_proxy 127.0.0.1:7060
+}
+
+local.dogecoin.org {
+	tls internal
+	reverse_proxy 127.0.0.1:7070
+}
+
+local.dogecoin.com {
+	tls internal
+	reverse_proxy 127.0.0.1:7080
+}

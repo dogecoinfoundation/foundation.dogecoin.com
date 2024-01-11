@@ -1,0 +1,258 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+:root {
+  --doge-yellow: #ffc107;
+  --doge-pink: #ff27a1;
+  --doge-purple: #834aff;
+  --doge-black: black;
+}
+
+body {
+  background: #f1f1f1;
+  height: 100vh;
+}
+
+#content {
+  display: flex;
+  max-width: 900px;
+  margin-top: 60px;
+}
+
+#content .left {
+  text-align: right;
+  padding: 0px 50px;
+
+}
+
+#content .right {
+  display: flex;
+  flex: 0 0 200px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #222;
+}
+
+#content {
+  filter: grayscale(1);
+  opacity: 0.2;
+  transition: all 350ms ease;
+}
+
+#content p {
+  opacity: 0.3;
+}
+
+#content:hover {
+  filter: grayscale(0);
+  opacity: 1;
+}
+
+#content:hover p {
+  opacity: 1;
+  transition: none;
+}
+
+.hl {
+
+}
+
+.hl-developers {
+  color: var(--doge-purple);
+}
+
+.hl-community {
+  color: var(--doge-pink);
+}
+
+.hl-dogecoin {
+  color: var(--doge-yellow);
+}
+
+.hl-foundation {
+  color: var(--doge-black);
+}
+
+.header {
+  min-width: 1250px; /* mobile responsive layout out of scope for this proof-of-concept */
+}
+
+.logo.navbar-brand {
+  min-width: 225px;
+}
+
+.logo.navbar-brand img {
+  margin-top: -2px;
+}
+
+.doge-prints {
+  display: none;
+}
+
+.doge-prints i {
+  color: #ffc107;
+  transform: rotate(-20deg);
+  font-size: 0.8rem;
+}
+
+.doge-prints i:nth-child(2) {
+  font-size: 0.70rem;
+  transform: translateY(8px) rotate(-10deg) translateX(-4px);
+}
+
+.label-more {
+  margin-left: 6px; /* Space between the logo and the label */
+  display: inline-block;
+}
+
+.label-more .carot {
+  font-size: .8rem;
+  position: relative;
+  top: 3px;
+}
+
+.locale .icon {
+  font-size: .8rem !important;
+}
+
+.logo-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.logo-dropdown:hover {
+  cursor: pointer;
+  animation: none;
+}
+
+.logo-dropdown:hover .label-more {
+  /* -- do something */
+} 
+
+.logo-dropdown .dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 9999;
+  overflow: hidden;
+  width:285px;
+}
+
+.logo-dropdown .dropdown-content .dropdown-item {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 12px 16px;
+  flex-wrap: wrap;
+}
+
+.logo-dropdown .dropdown-content a.dropdown-item:hover {
+  background-color: #ffc107 !important;
+  text-shadow: none !important;
+  color: black !important;
+  cursor: pointer;
+}
+
+.logo-dropdown .dropdown-content a.dropdown-item.community:hover {
+  background-color: #ff27a1 !important;
+
+}
+
+.logo-dropdown .dropdown-content .dropdown-item.developers:hover {
+  background-color: #834aff !important;
+}
+
+.logo-dropdown .dropdown-content a.dropdown-item:hover .item-byline {
+  color: #222;
+}
+
+.logo-dropdown .dropdown-content .item-logo {
+  width: 30px; /* or the size you want */
+  height: 30px; /* maintain aspect ratio */
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+
+.logo-dropdown .dropdown-content .item-text {
+  flex-grow: 1;
+}
+
+.logo-dropdown .dropdown-content .item-title {
+  font-weight: bold;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.logo-dropdown .dropdown-content .item-byline {
+  font-size: smaller;
+  color: #666;
+  word-wrap: break-word;
+  white-space: normal;
+  font-family: "Comic Neue", cursive !important;
+}
+
+.logo-dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* --- */
+.header a {
+  font-size: 1.1rem !important;
+}
+
+.header a:hover {
+  cursor: pointer;
+}
+
+.header.subheader a {
+  font-size: 1rem !important;
+}
+
+.header.subheader {
+  top: 70px;
+  z-index: 99;
+  background-color: #ececec !important;
+  color: #222 !important;
+}
+
+.header.subheader ul,
+.header.subheader li {
+  background-color: #ececec !important;
+  margin-right: 22px;
+  color: #555 !important;
+}
+
+.header.subheader li a:hover {
+  color: #222 !important;
+  text-shadow: none !important;
+  cursor: pointer;
+}
+
+.submenu-active {
+  text-decoration: underline !important;
+  color: black !important;
+}
+
+/* -- */
+
+.menu-active {
+/*  border-bottom: 4px solid;
+  margin-top: 4px;
+  border-bottom-color: #ffc107;*/
+  text-decoration: underline !important;
+  color: #ffc107;
+}
+
+.menu-developers {
+  border-bottom-color: #834aff;
+}
+
+.menu-community {
+  border-bottom-color: #ff27a1;
+}
