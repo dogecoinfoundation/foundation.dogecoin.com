@@ -1,0 +1,114 @@
+{{ define "main" }} {{ $paginator := .Paginate .Data.Pages }}
+
+<header>
+	<div class="graphic"></div>
+	<h1>Introduction</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+		eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+		enim ad minim veniam, quis nostrud exercitation ullamco laboris
+		nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+		reprehenderit in voluptate velit esse cillum dolore eu fugiat
+		nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+		sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+</header>
+
+<div class="content-wrapper">
+
+	<aside>
+	{{ range $paginator.Pages.GroupByParam "moment" }}
+		<section class="shade-{{.Key}}">
+			<div class="pattern"></div>
+			<div class="inner">
+				<h2>{{.Key}}</h2>
+			</div>
+		</section>
+	{{ end }}
+	</aside>
+
+	<main>
+	<div class="filter">
+		<div class="filter-inner">
+			<div class="filter-selected">
+				<span id="filterIdle" class="active">Filters </span>
+				<span id="filterBusy"
+					>Showing:
+					<span id="filterTopic">Gigawallet</span></span
+				>
+				<span class="filter-droparrow">▼</span>
+				<div class="filter-list">
+					<a href="{{.RelPermalink}}">Show All</a>
+					{{ range $paginator.Pages.GroupByParam "topic" }}
+						<a href="?topic={{ .Key }}">{{ .Key }}</a>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+	{{ range $paginator.Pages.GroupByParam "moment" }}
+		<section class="shade-{{.Key}}">
+			<div class="pattern"></div>
+			<div class="pre-nav shade-{{.Key}}"></div>
+			<nav>
+				<div class="nav-inner">
+					<h2>{{.Key}}</h2>
+				</div>
+			</nav>
+			<div class="section-inner">
+				{{ range .Pages }}
+					<div class="card" data-topic="{{ .Params.topic }}">
+						<div class="card-inner">
+							<div class="card-top">
+								<h3>{{.Title}}</h3>
+								<label>{{.Description}}</label>
+							</div>
+							<div class="card-body">
+								<p>{{.Summary}}</p>
+							</div>
+							<div class="card-footer">
+								<div class="card-footer-links">
+									<div class="card-footer-links-cta">
+										<a href="{{.Permalink}}">Very More! →</a>
+									</div>
+									<div class="card-footer-links-extras">
+										<a href=""><i class="ti ti-brand-discord"></i></a>
+										<a href=""><i class="ti ti-brand-git"></i></a>
+										<a href=""><i class="ti ti-brand-x"></i></a>
+										<a href=""><i class="ti ti-info-square-rounded"></i></a>
+									</div>
+								</div>
+							</div>
+							<hr />
+							<div class="card-icon">
+								<i class="ti ti-barbell"></i>
+							</div>
+						</div>
+					</div>
+				{{ end }}
+			</div>
+		</section>
+	{{ end }}
+	</main>
+</div>
+
+<footer>
+	<h1>Conclusion</h1>
+	<p>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+		eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+		enim ad minim veniam, quis nostrud exercitation ullamco laboris
+		nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+		reprehenderit in voluptate velit esse cillum dolore eu fugiat
+		nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+		sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</p>
+
+	<p>
+		Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+		cupidatat non proident, sunt in culpa qui officia deserunt mollit
+		anim id est laborum.
+	</p>
+</footer>
+{{ end }}
