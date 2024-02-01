@@ -39,6 +39,9 @@
 	    margin-top: 5em;
 	    padding: 2em;
 	}
+	.tm footer {
+		padding-bottom: 4em;
+	}
 
 	.tm main {
 	    flex: 1;
@@ -281,16 +284,21 @@
 	}
 
 	.tm aside section {
-		text-align: center;
+		text-align: right;
 	    position: sticky;
 	    overflow: hidden; /* prevent margin collapsing of headings */
-	    top: 0;
+	    top: 65px;
 	    box-shadow: inset -3px 0px 3px rgba(0, 0, 0, 0.1);
 	}
 
 	.tm h2 {
 		display: inline-block;
 		align-self: unset;
+		margin-top: 2.5em;
+	}
+
+	.tm aside h2 {
+		margin: 1em 0em;
 	}
 
 	/* -- the breaks on mobile are nav elements within the <main> */
@@ -299,7 +307,7 @@
 	    overflow: hidden;
 	    position: sticky;
 	    z-index: 50;
-	    top: 0;
+	    top: 10px;
 	    @media only screen and (min-width: 980px) {
 	        display: none;
 	    }
