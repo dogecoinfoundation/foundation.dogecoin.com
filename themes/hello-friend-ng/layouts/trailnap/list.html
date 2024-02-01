@@ -132,12 +132,12 @@
 
 {{ define "partials/trailmap-socials.html" }}
 	{{ if .Params.social_x }}
-		<a href=""><i class="ti ti-brand-x"></i></a>
+		<a href="{{.Params.social_x}}" target="_blank"><i class="ti ti-brand-x"></i></a>
 	{{ end }}
 	{{ if .Params.social_github }}
-		<a href=""><i class="ti ti-brand-git"></i></a>
+		<a href="{{.Params.social_github}}" target="_blank"><i class="ti ti-brand-git"></i></a>
 	{{ end }}
 	{{ if .Params.social_discord }}
-		<a href=""><i class="ti ti-brand-discord"></i></a>
+		<a href="{{.Params.social_github}}" target="_blank"><i class="ti ti-brand-discord"></i></a>
 	{{ end }}
 {{ end }}
