@@ -21,7 +21,7 @@
 		<section class="shade-{{.Key}}">
 			<div class="pattern"></div>
 			<div class="inner">
-				<h2>{{.Key}}</h2>
+				<h2>{{ partial "trailmap-moment-title.html" (dict "momentKey" .Key) }}</h2>
 			</div>
 		</section>
 	{{ end }}
@@ -52,7 +52,7 @@
 			<div class="pre-nav shade-{{.Key}}"></div>
 			<nav>
 				<div class="nav-inner">
-					<h2>{{.Key}}</h2>
+					<h2>{{ partial "trailmap-moment-title.html" (dict "momentKey" .Key) }}</h2>
 				</div>
 			</nav>
 			<div class="section-inner">
@@ -111,4 +111,18 @@
 		anim id est laborum.
 	</p>
 </footer>
+{{ end }}
+
+{{ define "partials/trailmap-moment-title.html" }}
+	{{ if eq .momentKey "1" }}
+		Much Now
+	{{ end }}
+
+	{{ if eq .momentKey "2" }}
+		So Next
+	{{ end }}
+
+	{{ if eq .momentKey "3" }}
+		Very After
+	{{ end }}
 {{ end }}
