@@ -20,7 +20,7 @@ mollit anim id est laborum.
 
 <!--more-->
 
-<img style="width:400px; float:left;" src="/doge-placehodlr.jpg"/>
+<img style="width:400px;" src="/doge-placehodlr.webp"/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
