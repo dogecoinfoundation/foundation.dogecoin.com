@@ -69,13 +69,10 @@
 							<div class="card-footer">
 								<div class="card-footer-links">
 									<div class="card-footer-links-cta">
-										<a href="{{.Permalink}}">Very More! →</a>
+										{{ partial "trailmap-read-more.html" . }}
 									</div>
 									<div class="card-footer-links-extras">
-										<a href=""><i class="ti ti-brand-discord"></i></a>
-										<a href=""><i class="ti ti-brand-git"></i></a>
-										<a href=""><i class="ti ti-brand-x"></i></a>
-										<a href=""><i class="ti ti-info-square-rounded"></i></a>
+										{{ partial "trailmap-socials.html" . }}
 									</div>
 								</div>
 							</div>
@@ -124,5 +121,23 @@
 
 	{{ if eq .momentKey "3" }}
 		Very After
+	{{ end }}
+{{ end }}
+
+{{ define "partials/trailmap-read-more.html" }}
+	{{ if .Params.show_read_more }}
+		<a href="{{.Permalink}}">Very More! →</a>
+	{{ end }}
+{{ end }}
+
+{{ define "partials/trailmap-socials.html" }}
+	{{ if .Params.social_x }}
+		<a href=""><i class="ti ti-brand-x"></i></a>
+	{{ end }}
+	{{ if .Params.social_github }}
+		<a href=""><i class="ti ti-brand-git"></i></a>
+	{{ end }}
+	{{ if .Params.social_discord }}
+		<a href=""><i class="ti ti-brand-discord"></i></a>
 	{{ end }}
 {{ end }}
