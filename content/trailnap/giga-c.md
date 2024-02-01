@@ -5,6 +5,7 @@ date = "2022-12-14"
 
 show_read_more = false
 topic = "gigawallet"
+icon = "barbell"
 moment = "3"
 +++
 

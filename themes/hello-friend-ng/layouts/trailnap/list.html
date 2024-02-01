@@ -71,9 +71,11 @@
 								</div>
 							</div>
 							<hr />
+							{{ if .Params.icon }}
 							<div class="card-icon">
-								<i class="ti ti-barbell"></i>
+								<i class="ti ti-{{ .Params.icon }}"></i>
 							</div>
+							{{ end }}
 						</div>
 					</div>
 				{{ end }}

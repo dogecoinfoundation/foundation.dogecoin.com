@@ -5,6 +5,7 @@ date = "2022-12-14"
 
 show_read_more = true
 topic = "radio doge"
+icon = "radio"
 moment = "2"
 
 social_x = "hello"

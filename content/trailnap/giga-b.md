@@ -5,6 +5,7 @@ date = "2022-12-14"
 
 show_read_more = true
 topic = "gigawallet"
+icon = "barbell"
 moment = "2"
 
 social_github = "bar"
