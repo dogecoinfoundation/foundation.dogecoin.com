@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="/doge-placehodlr.webp"/>
+<img src="/doge-placehodlr-bright.webp"/>
 
 # Introduction
 
