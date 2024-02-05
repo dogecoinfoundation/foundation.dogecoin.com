@@ -1,0 +1,472 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" />
+<style>	
+	@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+	.tm {
+	    --doge-font: "Comic Neue", cursive;
+	    --doge-yellow: #ffc107;
+	    --doge-pink: #ff27a1;
+	    --doge-purple: #834aff;
+	    --doge-black: black;
+	    font-size: 1.25rem; /* 16*1.25 = 20 */
+	    line-height: 1;
+	    font-family: sans-serif;
+	}
+
+	.tm a {
+	    color: blue;
+	    text-decoration: none;
+	}
+
+	.tm figure a {
+		color: unset;
+		text-decoration: none;
+	}
+
+	.tm a:hover {
+	    text-decoration: underline;
+	}
+
+	.tm p {
+	    line-height: 1.35;
+	}
+
+	.tm .content-wrapper {
+	    display: flex;
+	    flex-direction: column;
+	    @media only screen and (min-width: 980px) {
+	        flex-direction: row;
+	    }
+	}
+
+	.tm header,
+	.tm footer {
+	    margin-top: 5em;
+	    padding: 2em;
+	}
+	.tm footer {
+		padding-bottom: 4em;
+	}
+
+	.tm main {
+	    flex: 1;
+	}
+
+	.tm main section {
+	    background: none !important;
+	    overflow: visible;
+	    position: relative;
+	    /* If any of the parent elements have a height of 0 or are set to overflow: hidden, it can prevent the sticky behavior from working correctly. */
+	    @media only screen and (min-width: 980px) {
+	        overflow: hidden; /* prevent margin collapsing of headings */
+	    }
+	}
+
+	.tm main section .section-inner {
+	    padding: 2em 1.5em;
+	    @media only screen and (min-width: 980px) {
+	        padding: 0 1.5em
+	    }
+	}
+
+	.tm .filter {
+	    display: none;
+	    z-index: 99;
+	    @media only screen and (min-width: 980px) {
+	        display: block;
+	        position: sticky;
+	        height: 50px;
+	        top: 0px;
+	        padding: 0 1em;
+	    }
+	}
+	.tm .filter .filter-inner {
+	    font-family: var(--doge-font);
+	    background: var(--doge-black);
+	    color: white;
+	    height: 100%;
+	    display: flex;
+	    flex-direction: column;
+	    justify-content: center;
+	    padding-right: 0.8em;
+	    text-transform: capitalize;
+	}
+
+	.tm .filter .filter-selected {
+	    align-self: flex-end;
+	}
+
+	.tm .filter .filter-droparrow {
+	    font-size: .75rem;
+	    display: inline-block;
+	    padding-left: 0.2rem;
+	}
+
+	.tm .filter:hover .filter-list  {
+	    display: flex;
+	}
+
+	.tm .filter .filter-list {
+	    display: none;
+	    position: absolute;
+	    top:100%;
+	    right: 1em;
+	    flex-direction: column;
+	    background: var(--doge-black);
+	    text-align: right;
+	    padding: .2em .2em .4em .2em;
+	}
+
+	.tm .filter .filter-list a {
+	    padding: 0.4em 1em;
+	    color: white;
+	}
+
+	.tm .filter #filterTopic {
+	    color: var(--doge-pink);
+	    font-weight: bold;
+	    text-transform: capitalize;
+	}
+
+	.tm .filter #filterIdle {
+	    display: none;
+	}
+
+	.tm .filter #filterBusy {
+	    display: none;
+	}
+
+	.tm .filter #filterIdle.active,
+	.tm .filter #filterBusy.active {
+	    display: inline-block;
+	}
+
+	.tm header img, .tm footer img {
+	    background: #f1f1f2;
+	    @media only screen and (min-width: 980px) {
+
+	    }
+	}
+
+	.tm .space-around {
+		margin-top: 1.5em;
+		margin-bottom: 2em;
+		@media only screen and (min-width: 980px) {
+			margin-top: 3em;
+			margin-bottom: 4em;
+		}
+	}
+
+	.tm .space-below {
+		margin-top: 0em;
+		margin-bottom: 3em;
+		@media only screen and (min-width: 980px) {
+			margin-top: 0em;
+			margin-bottom: 4em;
+		}
+	}
+
+	.tm .center-div {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.tm .center {
+		text-align: center;
+	}
+
+	.tm .card {
+	    margin: 20px 0px 50px 0px;
+	    width: auto;
+	    position: relative;
+	    z-index: 1;
+	    text-align: left;
+	}
+
+	.tm .card .card-inner {
+	    background: #fbfbfb;
+	    padding: 10px 30px;
+	    display: flex;
+	    flex-direction: column;
+	    justify-content: space-around;
+	    box-sizing: border-box;
+	}
+
+	.tm .card .card-inner .card-top label {
+	    font-weight: bold;
+	    font-family: "Comic Neue", cursive;
+	    display: block;
+	    margin-bottom: 5px;
+	}
+
+	.tm .card .card-inner .card-body::after {
+	    content: "";
+	    display: none;
+	    position: relative;
+	    top: 10px;
+	    height: 1px;
+	    background: var(--doge-yellow);
+	    width: 100px;
+	}
+
+	.tm .card .card-inner .card-footer {
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	.tm .card .card-inner .card-footer .card-footer-links {
+	    display: flex;
+	    flex-direction: row-reverse;
+	    justify-content: space-between;
+	    align-self: unset;
+
+	    @media only screen and (min-width: 980px) {
+	        align-self: flex-end;
+	        justify-content: unset;
+	    }
+	}
+
+	.tm .card .card-inner .card-footer .card-footer-links-cta a {
+	    font-family: "Comic Neue", cursive;
+	    display: inline-block;
+	    margin-left: 10px;
+	}
+
+	.tm .card .card-inner .card-footer {
+	    position: relative;
+	    top: 10px;
+	}
+
+	.tm .card .card-inner .card-footer .card-footer-links-extras a {
+	   margin-right: 5px;
+	   display: inline-block;
+	}
+
+	.tm .card .card-inner .card-footer .card-footer-links-extras a i {
+		color: blue;
+	}
+
+	.tm .card hr {
+	    display: block;
+	    height: 1px;
+	    border: 0;
+	    border-top: 0px solid #f1f1f2;
+	    margin: 1rem auto 0em auto;
+	    padding: 0;
+	    width: 0px;
+	}
+
+	.tm .card .card-icon {
+	    position: absolute;
+	    display: flex;
+	    align-items: center;
+	    padding: .35em;
+	    background: black;
+	    bottom: unset;
+	    top: .85em;
+	    right: -.45em;
+
+	    @media only screen and (min-width: 980px) {
+	        padding: .75em;
+	        bottom: -1em;
+	        top: unset;
+	        right: unset;
+	    }
+
+	    transition: transform 0.2s ease-in;
+
+	    -webkit-transform: rotate(7deg);
+	    -moz-transform: rotate(7deg);
+	    -o-transform: rotate(7deg);
+	    transform: rotate(7deg);
+	}
+
+	.tm main section.shade-1 .card:hover .card-inner {
+	    background: #fffbe5;
+	}
+
+	.tm main section.shade-2 .card:hover .card-inner {
+	    background: #ffeee5;
+	}
+
+	.tm main section.shade-3 .card:hover .card-inner {
+	    background: #e5efff;
+	}
+
+	.tm .card:hover .card-icon {
+	    -webkit-transform: rotate(-7deg);
+	    -moz-transform: rotate(-7deg);
+	    -o-transform: rotate(-7deg);
+	    transform: rotate(-7deg);
+	}
+
+	.tm .card .card-icon i {
+	    color: white;
+	    font-size: 1.65rem;
+	    display: inline-block;
+	    margin: 0 auto;
+	}
+
+	.tm aside {
+	    display: none;
+	    @media only screen and (min-width: 980px) {
+	        display: block;
+	        flex: 0 0 320px;
+	    }
+	}
+
+	.tm aside section {
+		text-align: right;
+	    position: sticky;
+	    overflow: hidden; /* prevent margin collapsing of headings */
+	    top: 65px;
+	    box-shadow: inset -3px 0px 3px rgba(0, 0, 0, 0.1);
+	}
+
+	.tm h2 {
+		display: inline-block;
+		align-self: unset;
+		margin-top: 2.5em;
+	}
+
+	.tm aside h2 {
+		margin: 1em 0em;
+	}
+
+	/* -- the breaks on mobile are nav elements within the <main> */
+	.tm main nav {
+	    display: block;
+	    overflow: hidden;
+	    position: sticky;
+	    z-index: 50;
+	    top: 10px;
+	    @media only screen and (min-width: 980px) {
+	        display: none;
+	    }
+	}
+
+	.tm section .pattern {
+	    position: absolute;
+	    width: 100%;
+	    height: 100%;
+	    z-index: -1;
+	    opacity: 0.1;
+	    background-repeat: repeat;
+	}
+
+	.tm main section .pattern {
+	    opacity: 0.4;
+	    @media only screen and (min-width: 980px) {
+	        display: none;
+	    }
+	}
+
+	.tm section h2 {
+	    font-size: 1.5rem;
+	    padding: 0em 1em;
+	    text-align: left;
+	    background: none !important;
+
+	    @media only screen and (min-width: 980px) {
+	        font-size: 2rem;
+	        text-align: right;
+	    }
+	/*  text-shadow: -1px 0px 1px rgba(255, 255, 255, 0.3);*/
+	}
+
+	.tm main section.shade-1 nav {
+	    background: rgba(255, 193, 7, 0.97);
+	}
+
+	.tm main section.shade-2 nav {
+	    background: rgba(255, 127, 80, 0.97);
+	}
+
+	.tm main section.shade-3 nav {
+	    background: rgba(106, 90, 205, 0.97);
+	}
+
+	.tm aside section.shade-1 {
+	    background: rgba(255, 193, 7, 1);
+	}
+
+	.tm aside section.shade-2 {
+	    background: rgba(255, 127, 80, 1);
+	}
+
+	.tm aside section.shade-3 {
+	    background: rgba(106, 90, 205, 1);
+	}
+
+	.tm section.shade-1 .pattern {
+	    background-image: url("../img/tile-1.png");
+	}
+
+	.tm section.shade-2 .pattern {
+	    background-image: url("../img/tile-2.png");
+	}
+
+	.tm section.shade-3 .pattern {
+	    background-image: url("../img/tile-3.png");
+	}
+
+	.tm .pre-nav {
+	    height: 120px;
+	    width: 100%;
+	    margin-top: -1px;
+	    @media only screen and (min-width: 980px) {
+	        display: none;
+	    }
+	}
+	.tm .pre-nav.shade-1 {
+	    background: rgba(255, 193, 7, .95);
+	}
+
+	.tm .pre-nav.shade-2 {
+	    background: rgba(255, 127, 80, 0.95);
+	}
+
+	.tm .pre-nav.shade-3 {
+	    background: rgba(106, 90, 205, 0.95);
+	}
+</style>
+
+<style>
+	.tm-post {
+		width: 100%;
+		max-width: 800px;
+		text-align: left;
+		padding: 1em;
+  		margin: 4em auto 6em auto;
+  		@media only screen and (min-width: 980px) {
+  			margin: 10em auto 10em auto;
+  		}
+  	}
+
+  	.tm-post img {
+  		float: unset;
+  		margin: 1em auto;
+  		@media only screen and (min-width: 980px) {
+  			float: left;
+  			margin: 0.5em 1.5em 1em 0em;
+  		}
+  	}
+
+  	.tm-post a {
+  		font-family: var(--doge-font);
+  	}
+</style>
+
+<style>
+	[data-theme="dark"] .tm .card .card-inner {
+		background: #111;
+	}
+
+	[data-theme="dark"] .tm h2 {
+		color: #111;
+	}
+
+	[data-theme="dark"] .tm .card:hover .card-inner {
+		background: #222 !important;
+	}
+</style>

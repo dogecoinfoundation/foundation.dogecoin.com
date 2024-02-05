@@ -1,0 +1,3 @@
+{{ $trail := resources.Get "js/trail.js" }}
+{{ $trailSecureJS := $trail | resources.Minify | resources.Fingerprint "sha512" }}
+<script type="text/javascript" src="{{ $trailSecureJS.RelPermalink }}" integrity="{{ $trailSecureJS.Data.Integrity }}"></script>
