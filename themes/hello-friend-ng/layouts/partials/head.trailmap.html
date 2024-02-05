@@ -18,6 +18,11 @@
 	    text-decoration: none;
 	}
 
+	.tm figure a {
+		color: unset;
+		text-decoration: none;
+	}
+
 	.tm a:hover {
 	    text-decoration: underline;
 	}
@@ -137,14 +142,37 @@
 	}
 
 	.tm header img, .tm footer img {
-	    max-width: 300px;
-	    max-height: 300px;
 	    background: #f1f1f2;
-	    margin: 0em auto 4em auto;
 	    @media only screen and (min-width: 980px) {
-	        margin: 2em auto 5em auto;
-	        max-width: 900px;
+
 	    }
+	}
+
+	.tm .space-around {
+		margin-top: 1.5em;
+		margin-bottom: 2em;
+		@media only screen and (min-width: 980px) {
+			margin-top: 3em;
+			margin-bottom: 4em;
+		}
+	}
+
+	.tm .space-below {
+		margin-top: 0em;
+		margin-bottom: 3em;
+		@media only screen and (min-width: 980px) {
+			margin-top: 0em;
+			margin-bottom: 4em;
+		}
+	}
+
+	.tm .center-div {
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.tm .center {
+		text-align: center;
 	}
 
 	.tm .card {

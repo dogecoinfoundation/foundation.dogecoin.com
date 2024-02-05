@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="/doge-placehodlr-bright.webp"/>
+<img class="space-below center-div" src="/doge-placehodlr-bright.webp"/>
 
 # Introduction
 
@@ -20,9 +20,11 @@ of development deficit that needed to be addressed before we would be able to
 begin developing the features we beleive will establish Dogecoin as a viable 
 global currency for all humanity.
 
-<figure>
-<img src="/libdogecoin-ecosystem.png"/>
-<figcaption align="center"><b>2022 Trailmap developer utility plan</b></figcaption>
+<figure class="space-around center-div">
+	<a href="/libdogecoin-ecosystem.png" target="_blank">
+		<img src="/libdogecoin-ecosystem.png"/>
+		<figcaption align="center"><b>2022 Trailmap developer utility plan</b></figcaption>
+	</a>
 </figure>
 
 These projects: [libdogecoin](https://lib.dogecoin.org): a standard ANSI C library
