@@ -1,7 +1,7 @@
 ---
 ---
 
-<img class="space-below center-div" src="/doge-placehodlr-bright.webp"/>
+{{< carousel images="/trailmap/GFxywITa0AAOGIw.jpg,/trailmap/GFyEQTwWgAAaIj6.webp,/trailmap/GFyI3LyXoAAt7cA.webp,/trailmap/GFyIy7RXMAAmpo2.webp" interval=5000 >}}
 
 # Introduction
 

@@ -1,0 +1,20 @@
+{{ $imageList := split .Params.images "," }}
+{{ $interval := .Get "interval" | default 3000 }}
+
+<div id="carousel" class="carousel">
+  {{ range $index, $image := $imageList }}
+    <img src="{{ $image }}" class="{{ if $index }}hidden{{ end }}">
+  {{ end }}
+</div>
+
+<script>
+  var carousel = document.getElementById('carousel');
+  var images = carousel.getElementsByTagName('img');
+  var currentIndex = 0;
+
+  setInterval(function() {
+    images[currentIndex].classList.add('hidden');
+    currentIndex = (currentIndex + 1) % images.length;
+    images[currentIndex].classList.remove('hidden');
+  }, {{ $interval }});
+</script>
