@@ -1,0 +1,4 @@
++++
+type = "trail"
+aliases = ["../trailmap"]
++++
