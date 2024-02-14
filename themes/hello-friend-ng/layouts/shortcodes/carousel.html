@@ -1,20 +1,50 @@
 {{ $imageList := split .Params.images "," }}
 {{ $interval := .Get "interval" | default 3000 }}
+{{ $titleList := split .Params.titles "," }}
+{{ $urlList := split .Params.urls "," }}
+{{ $imageDir := .Get "imageDir" }}
 
 <div id="carousel" class="carousel">
   {{ range $index, $image := $imageList }}
-    <img src="{{ $image }}" class="{{ if $index }}hidden{{ end }}">
+    <div class="carousel-item {{ if $index }}hidden{{ end }}">
+      <img src="{{ $imageDir }}/{{ $image }}">
+      <div class="carousel-caption">
+        <a href="{{ index $urlList $index }}" target="_blank">{{ index $titleList $index }}</a>
+      </div>
+    </div>
   {{ end }}
 </div>
 
+<style>
+  .carousel-item {
+    position: relative;
+  }
+  .carousel-item.hidden {
+    display: none;
+  }
+  .carousel-item .carousel-caption {
+    position: absolute;
+    bottom: 1em;
+    right: 0px;
+    background: black;
+    color: white;
+    padding: .3em .5em .5em .5em;
+  }
+
+  .carousel-item .carousel-caption a {
+    color: white;
+    font-size: .8rem;
+  }
+</style>
+
 <script>
   var carousel = document.getElementById('carousel');
-  var images = carousel.getElementsByTagName('img');
+  var items = carousel.getElementsByClassName('carousel-item');
   var currentIndex = 0;
 
   setInterval(function() {
-    images[currentIndex].classList.add('hidden');
-    currentIndex = (currentIndex + 1) % images.length;
-    images[currentIndex].classList.remove('hidden');
+    items[currentIndex].classList.add('hidden');
+    currentIndex = (currentIndex + 1) % items.length;
+    items[currentIndex].classList.remove('hidden');
   }, {{ $interval }});
 </script>

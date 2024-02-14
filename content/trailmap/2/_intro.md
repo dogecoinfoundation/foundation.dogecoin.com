@@ -1,7 +1,13 @@
 ---
 ---
 
-{{< carousel images="/trailmap/GFxywITa0AAOGIw.jpg,/trailmap/GFyEQTwWgAAaIj6.webp,/trailmap/GFyI3LyXoAAt7cA.webp,/trailmap/GFyIy7RXMAAmpo2.webp" interval=5000 >}}
+{{< carousel
+	imageDir="/trailmap"
+	images="1.jpg,2.webp,3.webp"
+	titles="@foo,@bar,@baz"
+	urls="https://x.com/foo,https://x.com/bar,https://x.com/baz"
+	interval=5000
+>}}
 
 # Introduction
 
