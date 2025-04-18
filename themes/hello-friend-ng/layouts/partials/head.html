@@ -17,6 +17,17 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
+<!-- redirect shibes to the new Dogecoin Foundation website -->
+    <script>
+        // We check if the URL is foundation.dogecoin.com and redirect to https://dogecoin.org
+        var shibeRedirect = window.location.href.replace('https://foundation.dogecoin.com', '');
+        window.location.href = 'https://dogecoin.org' + shibeRedirect;
+    </script>
+    <!-- if javascript did not redirected we try using metatag do to search engines -->
+    <meta http-equiv="refresh" content="3;url=https://dogecoin.org">
+<!-- end redirect shibes to the new Dogecoin Foundation website -->
+
+
 {{ block "title" . }}
     <title>
         {{ if .IsHome }}
