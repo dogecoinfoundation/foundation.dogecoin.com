@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language }}">
+    <head>
+        {{ partial "head.html" . }}
+        {{ partial "head.trailmap.html" . }}
+    </head>
+
+    {{ block "body" . }}
+        <body>
+    {{ end }}
+    
+        <div>
+            {{ partial "header.html" . }}
+
+            <div class="tm">
+                {{ block "main" . }}{{ end }}
+            </div>
+
+            {{ block "footer" . }}
+                {{ partial "footer.html" . }}
+            {{ end }}
+        </div>
+        {{ partial "javascript.html" . }}
+        {{ partial "javascript.trailmap.html" . }}
+    </body>
+</html>

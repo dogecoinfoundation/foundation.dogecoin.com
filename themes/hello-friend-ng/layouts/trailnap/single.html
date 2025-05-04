@@ -1,0 +1,15 @@
+{{ define "body" }}
+<body class="trailnap">
+{{ end }}
+
+{{ define "main" }}
+    <main class="main post tm-post">
+        <a href="../">← Back to Trailmap</a>
+        <div class="left">
+            <h1>{{ .Title }}</h1>
+        </div>
+        <div class="right">
+            {{ .Content }}
+        </div>
+    </main>
+{{ end }}

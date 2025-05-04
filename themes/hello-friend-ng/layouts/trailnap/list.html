@@ -1,0 +1,125 @@
+{{ define "main" }} {{ $paginator := .Paginate .Data.Pages }}
+
+<header>
+	{{ with .Site.GetPage "_intro" }}
+		{{ .Content }}
+	{{ end }}
+</header>
+
+<div class="content-wrapper">
+
+	<aside>
+	{{ range $paginator.Pages.GroupByParam "moment" }}
+		<section class="shade-{{.Key}}">
+			<div class="pattern"></div>
+			<div class="inner">
+				<h2>{{ partial "trailmap-moment-title.html" (dict "momentKey" .Key) }}</h2>
+			</div>
+		</section>
+	{{ end }}
+	</aside>
+
+	<main>
+
+		<div class="filter">
+			<div class="filter-inner">
+				<div class="filter-selected">
+					<span id="filterIdle" class="active">Filters </span>
+					<span id="filterBusy"
+						>Showing:
+						<span id="filterTopic">Gigawallet</span></span
+					>
+					<span class="filter-droparrow">▼</span>
+					<div class="filter-list">
+						<a href="{{.RelPermalink}}">Show All</a>
+						{{ range $paginator.Pages.GroupByParam "topic" }}
+							<a href="?topic={{ .Key }}">{{ .Key }}</a>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div>
+
+		{{ range $paginator.Pages.GroupByParam "moment" }}
+		<section class="shade-{{.Key}}">
+			<div class="pattern"></div>
+			<div class="pre-nav shade-{{.Key}}"></div>
+			<nav>
+				<div class="nav-inner">
+					<h2>{{ partial "trailmap-moment-title.html" (dict "momentKey" .Key) }}</h2>
+				</div>
+			</nav>
+			<div class="section-inner">
+				{{ range .Pages }}
+					<div class="card" data-topic="{{ .Params.topic }}">
+						<div class="card-inner">
+							<div class="card-top">
+								<h3>{{.Title}}</h3>
+								<label>{{.Description}}</label>
+							</div>
+							<div class="card-body">
+								<p>{{.Summary}}</p>
+							</div>
+							<div class="card-footer">
+								<div class="card-footer-links">
+									<div class="card-footer-links-cta">
+										{{ partial "trailmap-read-more.html" . }}
+									</div>
+									<div class="card-footer-links-extras">
+										{{ partial "trailmap-socials.html" . }}
+									</div>
+								</div>
+							</div>
+							<hr />
+							{{ if .Params.icon }}
+							<div class="card-icon">
+								<i class="ti ti-{{ .Params.icon }}"></i>
+							</div>
+							{{ end }}
+						</div>
+					</div>
+				{{ end }}
+			</div>
+		</section>
+	{{ end }}
+	</main>
+</div>
+
+<footer>
+	{{ with .Site.GetPage "_outro" }}
+		{{ .Content }}
+	{{ end }}
+</footer>
+{{ end }}
+
+{{ define "partials/trailmap-moment-title.html" }}
+	{{ if eq .momentKey "1" }}
+		Much Now
+	{{ end }}
+
+	{{ if eq .momentKey "2" }}
+		So Next
+	{{ end }}
+
+	{{ if eq .momentKey "3" }}
+		Very After
+	{{ end }}
+{{ end }}
+
+{{ define "partials/trailmap-read-more.html" }}
+	{{ if .Params.show_read_more }}
+		<a href="{{.Permalink}}">Very More! →</a>
+	{{ end }}
+{{ end }}
+
+{{ define "partials/trailmap-socials.html" }}
+	{{ if .Params.social_x }}
+		<a href="{{.Params.social_x}}" target="_blank"><i class="ti ti-brand-x"></i></a>
+	{{ end }}
+	{{ if .Params.social_github }}
+		<a href="{{.Params.social_github}}" target="_blank"><i class="ti ti-brand-git"></i></a>
+	{{ end }}
+	{{ if .Params.social_discord }}
+		<a href="{{.Params.social_github}}" target="_blank"><i class="ti ti-brand-discord"></i></a>
+	{{ end }}
+{{ end }}
