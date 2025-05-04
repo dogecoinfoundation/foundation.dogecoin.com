@@ -1,14 +1,14 @@
 +++
-title = "Claims of Affiliation with Dogecoin Foundation"
+title = "Dogecoin Foundationとの提携を主張するプロジェクトへの注意喚起"
 date = "2021-08-18"
 [ author ]
   name = "Dogecoin Foundation"
 +++
 
-Neither the Dogecoin project, the Dogecoin Foundation or any affiliated developers or entities have partnered with MoonRabbit AngoZaibatsu or any affiliated entities, including the purported Dogecoin Foundation using the domain doge.org. This purported organisation and domain are, as far as we have been able to ascertain, run by the same people who run MoonRabbit AngoZaibatsu. 
+Dogecoinプロジェクト、Dogecoin財団、および関連する開発者や団体は、MoonRabbit AngoZaibatsuや関連する団体（doge.orgというドメインを使ったDogecoin財団と称する団体など）と提携することはありません。この団体と称する組織とドメインは、私たちが確認した限り、MoonRabbit AngoZaibatsuを運営している人物と同じ人物によって運営されています。
 
-As such, any claim of "partnering up" appears to be designed to create a false appearance of partnership and association with the long-established Dogecoin project and Dogecoin Foundation.
+このような「提携する」という主張は、長い歴史を持つDogecoinプロジェクトやDogecoin Foundationと提携・連携しているように見せかけるためのものだと思われます。
 
-We should also note that the MoonRabbit AngoZaibatsu corporation is actively attempting to register a trademark for the "Dogecoin" name in both Europe as well as the United States. The Dogecoin Project and the Dogecoin Foundation are actively in the process of opposing these and other bad faith attempts to register such trademarks on the grounds that those entities have no connection to Dogecoin and are attempting to profit unfairly off of the goodwill Dogecoin has built over the last eight years since its inception.
+また、MoonRabbit AngoZaibatsu株式会社は、欧州と米国の両方で「Dogecoin」の名称の商標登録を積極的に試みていることに留意しておく必要があります。DogecoinプロジェクトとDogecoin財団は、これらの商標登録やその他の不誠実な試みに対して、Dogecoinとは何の関係もなく、Dogecoinが創業以来8年間に築いた信用から不当に利益を得ようとしているという理由で、積極的に反対しています。
 
-Please be assured that we are making all necessary investigations to ascertain the facts in this rapidly evolving matter. For the avoidance of doubt, enquires should be directed to members of the Dogecoin Project, the Dogecoin Core developers, and the Dogecoin Foundation only through channels listed on either [dogecoin.com](https://dogecoin.com/) or [foundation.dogecoin.com](https://foundation.dogecoin.com/) and not through any other email, social media acccount or website purported to be affiliated with Dogecoin.
+私たちはこの急速に進展している問題について、事実を確認するために必要なすべての調査を行っていますので、ご安心ください。疑問を避けるため、Dogecoinプロジェクト、Dogecoinコア開発者、Dogecoin財団のメンバーへのお問い合わせは、[dogecoin.com](https://dogecoin.com/) または [foundation.dogecoin.com](https://foundation.dogecoin.com/) のいずれかに記載されているルートからのみ行い、その他のメール、ソーシャルメディアアカウント、Dogecoinと提携しているとされるウェブサイトからは行わないようお願いいたします。

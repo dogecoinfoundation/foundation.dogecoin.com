@@ -318,7 +318,63 @@ disableHugoGeneratorInject = false
         url        = "announcements/"
         weight     = 3
         parent     = "news"
-
+  
+  [languages.ja]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 14
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    [languages.kr.menu]
+      [[languages.kr.menu.main]]
+        identifier = "home"
+        name       = "ホーム"
+        url        = "/"
+        weight     = 1
+      [[languages.kr.menu.main]]
+        identifier = "about"
+        name       = "概要"
+        url        = "about/"
+        weight     = 2
+      [[languages.kr.menu.main]]
+        identifier = "manifesto"
+        name       = "行動指針/マニュフェスト"
+        url        = "manifesto/"
+        weight     = 3
+      [[languages.kr.menu.main]]
+        identifier = "trailmap"
+        name       = "トレイルマップ"
+        url        = "trailmap/prologue"
+        weight     = 4
+      [[languages.kr.menu.main]]
+        identifier = "news"
+        name       = "ニュース"
+        url        = "news/"
+        weight     = 5
+        [languages.kr.menu.main.params]
+          class = "parent"
+      [[languages.kr.menu.main]]
+        identifier = "press"
+        name       = "プレスリリース"
+        url        = "press/"
+        weight     = 1
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "blog"
+        name       = "ブログ"
+        url        = "blog/"
+        weight     = 2
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "advisories"
+        name       = "アドバイザリー"
+        url        = "advisories/"
+        weight     = 2
+        parent     = "news"
+      [[languages.kr.menu.main]]
+        identifier = "announcements"
+        name       = "アナウンスメント"
+        url        = "announcements/"
+        weight     = 3
+        parent     = "news"
 [menu]
   [[menu.main]]
     identifier = "home"
